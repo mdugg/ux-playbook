@@ -1,0 +1,21 @@
+Design Playbook app with vanilla js
+- tagging
+- keyword search
+	https://www.udemy.com/courses/search/?src=ukw&q=javascript
+- categories
+- work with JSON and vanilla JS only
+- this is a curated list only, be discerning on what gets included
+- have an archive function
+articles
+	- read true/false (bookmarked)
+	- takeaways / bullet highlights / summary
+diagrams
+	design ops
+	product
+search tech
+courses
+	- done
+	- todo
+screenshots of UI flows
+all objects go on AWS
+

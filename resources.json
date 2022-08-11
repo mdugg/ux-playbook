@@ -1,0 +1,155 @@
+
+{
+    "_commentSchema": {
+        "resourceLink": "https://www.resource.com",
+        "resourceTitle": "Title of the piece, can control case with CSS",
+        "resourceType": "Article / Video / Course / Diagram / Image / Design / eBook / Document / API",
+        "authors": ["Author Names"],
+        "platform": "Medium, Nielson Norman Group, Website, Blog",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "summary of article, empty if not reviewed, but add my notes otherwise",
+                    "bulletPoints": ["bullet point takeaways", "bullet point distilled down for rapid review"]
+                },
+        "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career"],
+        "tags": ["UX Artifact", "subject 2"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "06",
+        "archived": false,
+        "imageBackup": "urlPath",
+        "status": ["Core Playbook", "Reference"]
+    },
+    "7": {
+        "resourceLink": "https://www.biteinteractive.com/of-git-and-github-master-and-main/",
+        "resourceTitle": "Of Git and GitHub, Master and Main",
+        "resourceType": "Article",
+        "authors": ["Matt Neuburg"],
+        "platform": "Blog",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "Syncing a locally created repo with a remote repo on Github",
+                    "bulletPoints": ["Default branches created are either 'master' or 'main'", "Commands to correct this issue"]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Git", "Github", "Branch names" ],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "6": {
+        "resourceLink": "https://randomuser.me",
+        "resourceTitle": "Random User Generator",
+        "resourceType": "API",
+        "authors": ["Arron J. Hunt", "Keith Armstrong"],
+        "platform": "Website",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "A free, open-source API for generating random user profile data.",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "Recruitment", "Hiring", "Resume Guidelines", "F-shaped reading pattern"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "5": {
+        "resourceLink": "https://www.nngroup.com/articles/resumes-ux-career-changers/",
+        "resourceTitle": "Effective Resumes for UX Career Changers",
+        "resourceType": "Article",
+        "authors": ["Evan Sunwall"],
+        "platform": "Nielson Norman Group",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "Principles for UX",
+                    "bulletPoints": ["Resumes are primarily for UX hiring managers", " Resumes are scanned for about 6-7 seconds in the familiar F-shaped pattern", "Prioritize collaboration and interpersonal skills", "penalize candidates with short job tenures as \"flight risks\" likely to quit", " It's beneficial to have both docx and pdf formats available", "Print-friendly, wide margins" ]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "Recruitment", "Hiring", "Resume Guidelines", "F-shaped reading pattern"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "4": {
+        "resourceLink": "https://lawsofux.com/en/",
+        "resourceTitle": "Laws of UX",
+        "resourceType": "e-book",
+        "authors": ["Jon Yablonski"],
+        "platform": "website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "Principles for UX",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Heuristics", "Gestalt", "UX artifacts"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Core Playbook"]
+    },
+    "3": {
+        "resourceLink": "https://practicaltypography.com",
+        "resourceTitle": "Butterick's Practical Typography",
+        "resourceType": "e-book",
+        "authors": ["Matthew Butterick"],
+        "platform": "website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": " ",
+                    "bulletPoints": []
+                },
+        "category": ["Typography"],
+        "tags": ["type rules"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "2": {
+        "resourceLink": "https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/",
+        "resourceTitle": "What Are Objects in JavaScript?",
+        "resourceType": "Article",
+        "authors": ["D.M. Oladele"],
+        "platform": "Free Code Academy",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": " ",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript", "JS Objects"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "07",
+        "archived": false,  
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "1": {
+        "resourceLink": "https://jeffgothelf.com/blog/why-you-should-map-outcomes-to-impact-metrics/",
+        "resourceTitle": "Why you should map outcomes to impact metrics",
+        "resourceType": "Article",
+        "authors": ["Jeff Gothelf"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": " ",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": [ ],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "07",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Core Playbook"]
+    }
+}
