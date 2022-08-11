@@ -3,7 +3,7 @@
     "_commentSchema": {
         "resourceLink": "https://www.resource.com",
         "resourceTitle": "Title of the piece, can control case with CSS",
-        "resourceType": "Article / Video / Course / Diagram / Image / Design / eBook / Document / API",
+        "resourceType": "Article / Video / Course / Diagram / Image / Design / eBook / Document / API / Tool",
         "authors": ["Author Names"],
         "platform": "Medium, Nielson Norman Group, Website, Blog",
         "reviewed": true,
@@ -18,6 +18,44 @@
         "archived": false,
         "imageBackup": "urlPath",
         "status": ["Core Playbook", "Reference"]
+    },
+    "9": {
+        "resourceLink": "https://timleland.com/set-image-src-from-amazon-s3/",
+        "resourceTitle": "Set Image Src from Amazon S3",
+        "resourceType": "Article",
+        "authors": [""],
+        "platform": "Blog",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "Request an image from AWS S3 bucket using xhr requests.",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["AWS", "S3 Bucket", "xhr" ],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
+    },
+    "8": {
+        "resourceLink": "https://learngitbranching.js.org/",
+        "resourceTitle": "Learning Git Branching",
+        "resourceType": "Tool",
+        "authors": [""],
+        "platform": "Website",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "A tool for visualising Git commands and worktree",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Git", "Learning", "Exercises" ],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "imageBackup": "",
+        "status": ["Reference"]
     },
     "7": {
         "resourceLink": "https://www.biteinteractive.com/of-git-and-github-master-and-main/",
