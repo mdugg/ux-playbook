@@ -1,4 +1,5 @@
 Design Playbook app with vanilla js
+- track everything that I'm consuming for my Product Design profession
 - tagging
 - keyword search
 	https://www.udemy.com/courses/search/?src=ukw&q=javascript
@@ -9,6 +10,7 @@ Design Playbook app with vanilla js
 articles
 	- read true/false (bookmarked)
 	- takeaways / bullet highlights / summary
+URIs for each resource to make it shareable - unique ID or automate an ID based on title ??
 diagrams
 	design ops
 	product
