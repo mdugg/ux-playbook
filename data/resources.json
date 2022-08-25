@@ -1,6 +1,6 @@
 
 {
-    "_commentSchema-v1.0.0": {
+    "_commentSchema-v1.1.0": {
         "resourceLink": "https://www.resource.com",
         "resourceTitle": "Title of the piece, can control case with CSS",
         "resourceType": ["Article", "Video", "Courses", "Tutorial", "Imagery", "Design", "eBook", "Documentation", "Library", "API", "Tool"],
@@ -13,11 +13,64 @@
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
         "tags": ["UX Artifact", "subject 2"],
-        "dateAddedYear": "2022",
-        "dateAddedMonth": "",
+        "dateAdded": ["MM", "YYYY"],
         "archived": false,
         "associatedImagery": ["urlPath01"],
         "status": "Core /  Reference"
+    },
+    "94": {
+        "resourceLink": "https://www.nngroup.com/articles/journey-mapping-101",
+        "resourceTitle": "Journey Mapping 101",
+        "resourceType": ["Article"],
+        "authors": [" Sarah Gibbons"],
+        "platform": "Nielson Norman Group",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "Ethnography is a study through direct observation of users in their natural environment rather than in a lab",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["UX Research", "Ethnography research"],
+        "dateAdded": ["08", "2022"],
+        "archived": false,
+        "associatedImagery": ["https://www.experienceux.co.uk/wp-content/uploads/2018/09/ExperienceUX-logo.svg"],
+        "status": "Core"
+    },
+    "93": {
+        "resourceLink": "https://www.experienceux.co.uk/faqs/what-is-ethnography-research/",
+        "resourceTitle": "What is Ethnography research?",
+        "resourceType": ["Article"],
+        "authors": ["Experience UX"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "Ethnography is a study through direct observation of users in their natural environment rather than in a lab",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["UX Research", "Ethnography research"],
+        "dateAdded": ["08", "2022"],
+        "archived": false,
+        "associatedImagery": ["https://www.experienceux.co.uk/wp-content/uploads/2018/09/ExperienceUX-logo.svg"],
+        "status": "Reference"
+    },
+    "92": {
+        "resourceLink": "https://www.usertesting.com/resources/topics/generative-vs-evaluation-research",
+        "resourceTitle": "Generative vs. evaluation research",
+        "resourceType": ["Article"],
+        "authors": ["Usertesting.com"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["UX Research", "Generative research", "Evaluation research"],
+        "dateAdded": ["08", "2022"],
+        "archived": false,
+        "associatedImagery": ["//*[@id=\"menuMain\"]/ul/li[1]/div[1]/a[1]/svg"],
+        "status": "Reference"
     },
     "91": {
         "resourceLink": "https://accessibilityinsights.io",
@@ -35,7 +88,7 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
+        "associatedImagery": ["https://accessibilityinsights.io/img/a11yinsights-blue.svg"],
         "status": "Reference"
     },
     "90": {
