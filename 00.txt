@@ -1,4 +1,5 @@
 Design Playbook app with vanilla js
+- core: what is the 20% that gives the 80% / Pareto principle ?
 - track everything that I'm consuming for my Product Design profession
 - tagging
 - keyword search
@@ -21,3 +22,9 @@ courses
 screenshots of UI flows
 all objects go on AWS
 
+
+======= git commands used
+git status
+git add .
+git commit -m " ... "
+git push

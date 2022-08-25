@@ -19,6 +19,310 @@
         "associatedImagery": ["urlPath01"],
         "status": "Core /  Reference"
     },
+    "91": {
+        "resourceLink": "https://accessibilityinsights.io",
+        "resourceTitle": "Accessibility Insights",
+        "resourceType": ["Tool"],
+        "authors": ["Accessibility Insights"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "Solve accessibility issues before they reach your customers.",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": [""],
+        "status": "Reference"
+    },
+    "90": {
+        "resourceLink": "https://review.firstround.com/An-Inside-Look-at-Facebooks-Method-for-Hiring-Designers",
+        "resourceTitle": "An Inside Look at Facebook's Method for Hiring Designers",
+        "resourceType": ["Article"],
+        "authors": ["First Round Review"],
+        "platform": "Website",
+        "reviewed": true,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": ["Phone calls for culture and experience, candidate background", "You want a designer who has looked for opportunities in their own lives: Problems that need fixing. Things that could be easier.", "Simulate a Team Dynamic", "You want people who are open to feedback but can also distill that feedback, have an opinion about the right direction to go, including what the pros and cons of different proposals are, and who can articulate all that in a way that everyone can understand", "What are your favorite apps to use on your phone? Walk us through why you think this product is well-designed? Or how do you think this product could be improved?", "How you approach a big problem: How do you break it down? How do you get started on designs?", "Give your candidate the chance to assess what your team has done so far", "The mark of a really great designer is that every decision they've made has a purpose, has intentionality.", "Think of a long-term project in your portfolio. If you had two more months to work on it, what would you have done differently? What would have you added or continued to refine?"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Recruitment", "Interviews"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": [""],
+        "status": "Reference"
+    },
+    "89": {
+        "resourceLink": "https://principles.design",
+        "resourceTitle": "An open source collection of Design Principles and methods",
+        "resourceType": ["Documentation"],
+        "authors": ["Ben Brignell"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product Design"],
+        "tags": ["Glossary", "Design Principles"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": [""],
+        "status": "Reference"
+    },
+    "88": {
+        "resourceLink": "https://designlab.com/ux-glossary/",
+        "resourceTitle": "UX Design Glossary for UX Design Terms",
+        "resourceType": ["Documentation"],
+        "authors": ["DesignLab"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Glossary"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": [""],
+        "status": "Reference"
+    },
+    "87": {
+        "resourceLink": "https://explodingtopics.com",
+        "resourceTitle": "Exploding Topics",
+        "resourceType": ["Tool"],
+        "authors": ["Exploding Topics"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": [""],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": [""],
+        "status": "Reference"
+    },
+    "86": {
+        "resourceLink": "https://trends.google.com/trends/?geo=US",
+        "resourceTitle": "Google Trends",
+        "resourceType": ["Tool"],
+        "authors": ["Google"],
+        "platform": "Website",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": [""],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://www.gstatic.com/images/branding/lockups/1x/lockup_trends_light_color_142x24dp.png"],
+        "status": "Reference"
+    },
+    "85": {
+        "resourceLink": "https://hbr.org/2013/05/a-better-way-to-think-about-yo",
+        "resourceTitle": "A Better Way to Think About Your Business Model",
+        "resourceType": ["Article"],
+        "authors": ["Alexander Osterwalder", "Harvard Business Review"],
+        "platform": "Blog",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": [""],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://hbr.org/resources/css/images/HBR_logo_black.svg"],
+        "status": "Reference"
+    },
+    "84": {
+        "resourceLink": "https://hbr.org/2013/05/a-better-way-to-think-about-yo",
+        "resourceTitle": "A Better Way to Think About Your Business Model",
+        "resourceType": ["Article"],
+        "authors": ["Alexander Osterwalder", "Harvard Business Review"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": [""],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://hbr.org/resources/css/images/HBR_logo_black.svg"],
+        "status": "Reference"
+    },
+    "83": {
+        "resourceLink": "https://medium.com/@elise.musumano/ab-testing-growth-experiments-for-saas-8a2ac2ac97f0",
+        "resourceTitle": "11 Data Findings from A/B Testing & Growth Marketing for a SaaS Product",
+        "resourceType": ["Article"],
+        "authors": ["Elise Musumano"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/max/700/1*gNjAvaQrqKR604tJF1Zrdw.jpeg"],
+        "status": "Reference"
+    },
+    "82": {
+        "resourceLink": "https://uxdesign.cc/payment-first-checkout-experience-f2d448f7127a",
+        "resourceTitle": "Payment-first checkout experience — a UX exploration",
+        "resourceType": ["Article"],
+        "authors": ["Rameez Kakodker", "UX Collective"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/32/32/1*mDhF9X4VO0rCrJvWFatyxg.png"],
+        "status": "Reference"
+    },
+    "81": {
+        "resourceLink": "https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a",
+        "resourceTitle": "Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking",
+        "resourceType": ["Article"],
+        "authors": ["Leyla Acaroglu", "Make Us Proud"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/max/1400/1*EfAQ2EAbs0EPdcFlVFHc7w.jpeg"],
+        "status": "Reference"
+    },
+    "80": {
+        "resourceLink": "https://medium.com/make-us-proud/jobs-to-be-done-framework-748c761797a8",
+        "resourceTitle": "Jobs To Be Done Framework",
+        "resourceType": ["Article"],
+        "authors": ["Alex Jupiter", "Make Us Proud"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/64/64/1*Pn6UfRZovEP6jrGUN-zpBw.png"],
+        "status": "Reference"
+    },
+    "79": {
+        "resourceLink": "https://uxdesign.cc/interaction-design-is-more-than-just-user-flows-and-clicks-4cc37011418c",
+        "resourceTitle": "Interaction design is more than just user flows and clicks",
+        "resourceType": ["Article"],
+        "authors": ["Richard Yang", "UX Collective"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
+        "status": "Reference"
+    },
+    "78": {
+        "resourceLink": "https://uxdesign.cc/the-ultimate-ux-research-cheat-sheet-b70862c086a6",
+        "resourceTitle": "The ultimate UX Research cheat sheet",
+        "resourceType": ["Article"],
+        "authors": ["Moritz Bittner", "UX Collective"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["UX Research"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
+        "status": "Reference"
+    },
+    "77": {
+        "resourceLink": "https://uxdesign.cc/the-most-important-overlooked-design-skill-fcdd4f7adf31",
+        "resourceTitle": "The most important overlooked design skill",
+        "resourceType": ["Article"],
+        "authors": ["Chris Lee", "UX Collective"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Recruitement", "Interview questions"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
+        "status": "Reference"
+    },
+    "76": {
+        "resourceLink": "https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808",
+        "resourceTitle": "Kano Model — Ways to use it and NOT use it",
+        "resourceType": ["Article"],
+        "authors": ["Cary-Anne Olsen-Landis", "IBM Design"],
+        "platform": "Medium",
+        "reviewed": false,
+        "notes": {
+                    "descriptor": "Kano model is a theory of product development. What are the must-haves and what is already expected?",
+                    "bulletPoints": ["Very good at prioritising features - guaging depth of pain points; baselining features over a product lifecycle, natural decay of delight over time", " 'The natural decay of delight' by Daniel Zacarias", "Innovative ideas move from exciting to expected", "Each feature: measure satisfaction and sentiment", "Five categories: attractive, performance, indifferent, must-be, undesired", "How to use: questionnaire with each feature listed separately; ideally have a prototype; no demo, use text description; have / don't have feature - how do you feel?", "Test 15-20 features max to avoid overwhelming interviewees", "Add third question? how important is this feature?", "7 point Likert scale; analytical process; numbers don't say WHY", "using scenarios is good but they must be validated beforehand"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Kano Model", "IBM Design"],
+        "dateAddedYear": "2022",
+        "dateAddedMonth": "08",
+        "archived": false,
+        "associatedImagery": ["https://miro.medium.com/fit/c/64/64/1*rrhHkaGKfonO79SjtKhW_g.png"],
+        "status": "Reference"
+    },
     "75": {
         "resourceLink": "https://bootcamp.uxdesign.cc/the-most-important-ux-interview-question-to-master-d6981b58fff0",
         "resourceTitle": "The most important UX interview question to master",
