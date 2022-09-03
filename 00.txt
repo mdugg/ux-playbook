@@ -22,6 +22,23 @@ courses
 screenshots of UI flows
 all objects go on AWS
 
+UX artifacts ? 
+- browser versions of personas, heuristics etc 
+- managed with JSON files a design team can edit, easy upskilling
+- per project assets
+- white-labelled
+- central repo for all project references and assets
+- design to dev hand-off
+- design to product team documenation
+- a product deck with Product and UX for larger projects / features
+- rapid documenation
+- project package / profile
+- simplified, not a JIRA replica
+- project case file stored in S3 bucket and accessible via URL
+
+White-label Design System documentation
+White-label Design Tokens 
+
 
 ======= git commands used
 git status

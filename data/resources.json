@@ -1,22 +1,123 @@
 
 {
-    "_commentSchema-v1.1.0": {
+    "_commentSchema-v1.2.0": {
         "resourceLink": "https://www.resource.com",
         "resourceTitle": "Title of the piece, can control case with CSS",
         "resourceType": ["Article", "Video", "Courses", "Tutorial", "Imagery", "Design", "eBook", "Documentation", "Library", "API", "Tool"],
-        "authors": ["Author Names"],
-        "platform": "Medium, Nielson Norman Group, Interaction Design Foundation, Youtube, Website, Blog",
-        "reviewed": false,
+        "authors": ["Author Name", "Publisher Name", "Platform Name"],
         "notes": {
-                    "descriptor": "summary of article, empty if not reviewed, but add my notes otherwise",
-                    "bulletPoints": ["bullet point takeaways", "bullet point distilled down for rapid review"]
+                    "descriptor": "1 sentence summary of article",
+                    "bulletPoints": ["bullet point takeaways", "bullet point 2"]
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
-        "tags": ["UX Artifact", "subject 2"],
-        "dateAdded": ["MM", "YYYY"],
-        "archived": false,
+        "tags": ["tag", "tag"],
         "associatedImagery": ["urlPath01"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
         "status": "Core /  Reference"
+    },
+    "100": {
+        "resourceLink": "https://www.youtube.com/watch?v=g2WcckBB_q0",
+        "resourceTitle": "Bind Explained in JavaScript",
+        "resourceType": ["Video"],
+        "authors": ["Domenic Corso", "dcode"],
+        "notes": {
+                    "descriptor": "JavaScript 'bind' method",
+                    "bulletPoints": ["Allows you to attach an object to a function and then reference the attached (binded) object using the 'this' keyword.",  "Allows you to make functions that'll work across many objects with ease.", "Without 'bind' method, a function will be attached to the global 'window' object", "Values of 'this' change dynamically depending on what object is binded to the function"]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript", "'Bind' method", "'this' keyword"],
+        "associatedImagery": ["https://i.ytimg.com/vi/g2WcckBB_q0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxbBj37RmIk9BkzeBXH6OLiBK72g"],
+        "reviewed": true,
+        "reviewedDates": [["09", "2022"]],
+        "archived": false,
+        "status": "Reference"
+    },
+    "99": {
+        "resourceLink": "https://jsoncrack.com",
+        "resourceTitle": "JSON Crack",
+        "resourceType": ["Tool"],
+        "authors": ["Aykut Sarac"],
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": [""],
+        "associatedImagery": ["https://jsoncrack.com/jsoncrack-screenshot.webp"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
+        "status": "Reference"
+    },
+    "98": {
+        "resourceLink": "https://d.mba/guides/derisking-innovation-a-guide-for-designers",
+        "resourceTitle": "The art of de-risking innovation: A guide for designers",
+        "resourceType": ["Article"],
+        "authors": ["Alejandra Godó Blasco", "d.MBA"],
+        "notes": {
+                    "descriptor": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": [""],
+        "associatedImagery": ["https://images.squarespace-cdn.com/content/v1/5a5331d3b1ffb6ca7203df4e/71e69d31-ccbe-451e-a6e7-114780c2248b/The+practice+of+de-risking.jpg?format=750w"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
+        "status": "Reference"
+    },
+    "97": {
+        "resourceLink": "https://www.refactoringui.com",
+        "resourceTitle": "Refactorying UI ",
+        "resourceType": ["eBook"],
+        "authors": ["Tailwind Labs"],
+        "notes": {
+                    "descriptor": "80/20 design guidelines for engineers; good set of basics",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design basics", "Practical design tips", "Tailwind CSS", "Paid eBook"],
+        "associatedImagery": ["https://www.refactoringui.com/_next/static/media/book.5380927448c9872170bbc9fc9e5828c4.png"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
+        "status": "Core"
+    },
+    "96": {
+        "resourceLink": "https://javascript.works-hub.com/learn/web-components-api-shadow-dom-and-light-dom-e18b6",
+        "resourceTitle": "Web Components API: Shadow DOM and Light DOM",
+        "resourceType": ["Article"],
+        "authors": ["Rafa Romero Dios", "JavaScript Works"],
+        "notes": {
+                    "descriptor": " ",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Web Components", "Shadow DOM", "Light DOM"],
+        "associatedImagery": ["https://workshub.imgix.net/7b09550f98f74a77c14253b4f90f3d58?ar=16%3A9&crop=center&fit=crop&q=75&w=1200"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
+        "status": "Reference"
+    },
+    "95": {
+        "resourceLink": "https://uxdesign.cc/product-design-interview-questions-cdeb2bf249ec",
+        "resourceTitle": "Product Design interview questions",
+        "resourceType": ["Article"],
+        "authors": ["Ted Goas", "UX Collective", "Medium"],
+        "notes": {
+                    "descriptor": "Questions to ask candidates in product design interviews that give the strongest signal about what they’d bring to the team ",
+                    "bulletPoints": ["bullet point takeaways", "bullet point distilled down for rapid review"]
+                },
+        "category": ["Design Ops", "Career"],
+        "tags": ["Recruitment", "Interview questions", "Product Design"],
+        "associatedImagery": ["https://miro.medium.com/max/1400/1*YMb87fo9xP90PVnvV8AiBA.jpeg"],
+        "reviewed": false,
+        "reviewedDates": [["MM", "YYYY"]],
+        "archived": false,
+        "status": "Core"
     },
     "94": {
         "resourceLink": "https://www.nngroup.com/articles/journey-mapping-101",
@@ -33,7 +134,7 @@
         "tags": ["UX Research", "Ethnography research"],
         "dateAdded": ["08", "2022"],
         "archived": false,
-        "associatedImagery": ["https://www.experienceux.co.uk/wp-content/uploads/2018/09/ExperienceUX-logo.svg"],
+        "associatedImagery": ["https://media.nngroup.com/media/editor/2018/11/06/screen-shot-2018-11-06-at-122254-pm.png"],
         "status": "Core"
     },
     "93": {
