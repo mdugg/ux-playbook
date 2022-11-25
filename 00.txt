@@ -1,5 +1,7 @@
 Design Playbook app with vanilla js
-- core: what is the 20% that gives the 80% / Pareto principle ?
+- second brain
+- core: what is the 20% that gives the 80% / Pareto principle / 
+- signal from the noise, but searchable peripheral knowledge
 - track everything that I'm consuming for my Product Design profession
 - tagging
 - keyword search
@@ -11,10 +13,16 @@ Design Playbook app with vanilla js
 articles
 	- read true/false (bookmarked)
 	- takeaways / bullet highlights / summary
-URIs for each resource to make it shareable - unique ID or automate an ID based on title ??
+URIs for each resource to make it shareable 
+- URL params
+- REST api ?
+- unique ID or automate an ID based on title ??
 diagrams
 	design ops
 	product
+	groups of images
+		- UI flow
+		- talks slides
 search tech
 courses
 	- done
