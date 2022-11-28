@@ -4,16 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CDN -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- JS -->
+    <script src="./assets/js/scripts.js" defer></script>
     <!-- Styles -->
     <link href="./assets/styles/global.css" rel="stylesheet">   
     <title>UX Playbook</title>
 </head>
-<body>
-    <header>
+<body class="grid">
+    <header class="header">
         <nav></nav>
-    </header>
-    <main>
         <h1>UX Playbook</h1>
+    </header>
+    <main class="content">
+        <section class="results">
+            <h2>All results:</h2>
+            <ul id="searchResults" class="search-results">
+            </ul>
+        </section>
+        <aside class="sidebar"></aside>
+        <aside class="sidebar"></aside>
     </main>
 </body>
 </html>
