@@ -1,4 +1,16 @@
-.content {
-    display: grid;
-    grid-template-columns: repeat(16, 1fr);
+.ux {
+
+    &-content {
+        display: grid;
+        grid-template-columns: repeat(16, 1fr);
+        border-top: 1px solid var(--gray-200);
+    }
+    &-results {
+        grid-column-start: 2;
+        grid-column-end: 9;
+    }
+    &-sidebar {
+        grid-column: span 4;
+        border-left: 1px solid var(--gray-200);
+    }
 }

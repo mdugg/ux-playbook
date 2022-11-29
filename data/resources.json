@@ -1,20 +1,49 @@
 
 {
-    "_schema-v1.3.2": {
-        "resourceLink": "https://www.resource.com",
-        "resourceTitle": "Title of the piece, can control case with CSS",
+    "_schema-v2.0.0": {
+        "resourceLink": "url",
+        "resourceTitle": "Title",
         "resourceType": ["Blog", "Video", "Course", "Tutorial", "Imagery", "Design", "eBook", "Documentation", "Library", "API", "Tool"],
         "authors": ["Author Name", "Publisher Name", "Platform Name"],
         "notes": {
-                    "description": "1 sentence summary of Blog",
-                    "bulletPoints": ["bullet point takeaways", "bullet point 2"]
+                    "description": "Summary",
+                    "bulletPoints": ["bullet 1", "bullet point 2"]
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
-        "tags": ["tag", "tag"],
-        "associatedImagery": ["urlPath01"],
+        "tags": ["tag 1", "tag 2"],
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
         "status": "Core /  Reference"
+    },
+    "245": {
+        "resourceLink": "https://uxdesign.cc/the-heuristics-of-neurodesign-a62714f18f31",
+        "resourceTitle": "The heuristics of Neurodesign",
+        "resourceType": ["Blog"],
+        "authors": ["Andrés Zapata", "UX Collective"],
+        "notes": {
+                    "description": "design for the brain with intention and results.",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Heuristics", "Gestalt", "Psychology"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "244": {
+        "resourceLink": "https://www.optimalworkshop.com/",
+        "resourceTitle": "Optimal Workshop",
+        "resourceType": ["Tool"],
+        "authors": ["Optimal Workship"],
+        "notes": {
+                    "description": "suite of specialized user research tools.",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["User research"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
     },
     "243": {
         "resourceLink": "https://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss",
@@ -27,7 +56,6 @@
                 },
         "category": ["UI"],
         "tags": ["BEM", "SMACSS", "CSS"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -43,7 +71,6 @@
                 },
         "category": ["UX"],
         "tags": ["Session replay", "Error tracking", "Product analytics"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -75,7 +102,6 @@
                 },
         "category": ["UX"],
         "tags": ["Figma", "Components", "Props"],
-        "associatedImagery": ["https://miro.medium.com/max/720/1*yIA41023R_5KTDwKVv_C4Q.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -91,7 +117,6 @@
                 },
         "category": ["UX"],
         "tags": ["Design tokens"],
-        "associatedImagery": ["https://miro.medium.com/max/720/1*qary4ekNZDi7PPFORMi-nQ.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -107,7 +132,6 @@
                 },
         "category": ["UX"],
         "tags": ["Design system"],
-        "associatedImagery": ["https://miro.medium.com/max/720/0*cXv6YUATRAj2U3lW.webp"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -123,7 +147,6 @@
                 },
         "category": ["UX"],
         "tags": ["Research", "User interviews"],
-        "associatedImagery": ["https://www.hotjar.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Flh3zuq09vnm2%2F3059KKTPDKVI8p3z8AxOqB%2F5d1cd6e3e60844fb8cbd157b5274c35a%2F2211_Hotjar_Engage_Announcement_Blog_Header_v1.gif&w=3840&q=75"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -139,7 +162,6 @@
                 },
         "category": ["UX"],
         "tags": ["Career"],
-        "associatedImagery": ["https://miro.medium.com/max/1400/0*iZY0ol4kHDgoVThW"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -155,7 +177,6 @@
                 },
         "category": ["UX"],
         "tags": ["User research"],
-        "associatedImagery": ["https://miro.medium.com/max/1400/0*t1-1PZH40F5z12Po"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -171,7 +192,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolio", "Case studies", "Empathy"],
-        "associatedImagery": ["https://miro.medium.com/max/720/1*bAoKjASEU1_PiK3hSLKP_Q.jpeg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -187,7 +207,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Principles", "Software Design"],
-        "associatedImagery": ["https://www.freecodecamp.org/news/content/images/size/w2000/2022/11/Untitled1.drawio--1-.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -203,7 +222,6 @@
                 },
         "category": ["UI"],
         "tags": ["Fonts", "Typography"],
-        "associatedImagery": ["https://github.githubassets.com/images/modules/site/mona-sans/mona-hubot.webp"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -219,7 +237,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Workshops"],
-        "associatedImagery": ["https://imgs.search.brave.com/CinxZeor1iVt1M-ioMCA4uXGYgNjSUmnSLmocQaPpdw/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/d2NCeUphOENwQjNa/ZUNUZ0h0eVdnSGFI/YSZwaWQ9QXBp"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -235,7 +252,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Workshops"],
-        "associatedImagery": ["https://postlight.com/wp-content/uploads/2022/11/postlight-insights-design.png?w=2048"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -251,7 +267,6 @@
                 },
         "category": ["Design Ops"],
         "tags": [""],
-        "associatedImagery": ["https://www.designcouncil.org.uk/assets/dc/img/logo_print.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -267,7 +282,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design process"],
-        "associatedImagery": ["https://cdn-images-1.medium.com/max/564/1*kfvHfl2_KXWoKD0gChfQ0Q@2x.jpeg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -283,7 +297,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Framework", "Design process"],
-        "associatedImagery": ["https://miro.medium.com/max/640/0*CmC6cboJtyQzBWy6.JPG"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -299,7 +312,6 @@
                 },
         "category": ["UX"],
         "tags": ["Mobile", "Navigation"],
-        "associatedImagery": ["https://baymard-assets-cdn.imgix.net/research/media_files/attachments/76580/original/research-media-file-15dd688a18dcd8e1f17ca3057364e8fc.jpg?auto=format&q=50&w=880&dpr=2&fit=max"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -315,7 +327,6 @@
                 },
         "category": ["UX"],
         "tags": ["Card sorting"],
-        "associatedImagery": ["https://miro.medium.com/max/720/1*f4uH_t1yXzZvNJH7w2dmXA.webp"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -331,7 +342,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolio", "Case studies", "NDAs"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -347,7 +357,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolio", "Case studies"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Core"
@@ -363,7 +372,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolio", "Case studies", "NDAs"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Core"
@@ -379,7 +387,6 @@
                 },
         "category": ["Product"],
         "tags": ["Design System"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -395,7 +402,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Design System"],
-        "associatedImagery": ["https://assets.log2base2.com/Assets/L2B2/logo.svg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -411,7 +417,6 @@
                 },
         "category": ["UX"],
         "tags": ["Design System"],
-        "associatedImagery": ["https://cloudscape.design/contentful-assets/61ede538df3069ec1382856cd06daf07/Layout.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -427,7 +432,6 @@
                 },
         "category": ["UX"],
         "tags": ["Research"],
-        "associatedImagery": ["https://www.smashingmagazine.com/images/logo--full.svg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -443,7 +447,6 @@
                 },
         "category": ["UX"],
         "tags": ["Research"],
-        "associatedImagery": ["https://i0.wp.com/alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=960&ssl=1"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -459,7 +462,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolios"],
-        "associatedImagery": ["https://www.bestfolios.com/images/logo.svg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -475,7 +477,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolios"],
-        "associatedImagery": ["https://miro.medium.com/max/720/1*QTihKPtHqo5FQeAHFmT-Jg.png"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -491,7 +492,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design System", "Figma templates"],
-        "associatedImagery": ["https://miro.medium.com/max/640/0*6E4nYHpYuuZqQJ7i"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -507,7 +507,6 @@
                 },
         "category": ["UX"],
         "tags": ["User flows"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -523,7 +522,6 @@
                 },
         "category": ["UX"],
         "tags": ["User flows"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -539,7 +537,6 @@
                 },
         "category": ["UI"],
         "tags": ["iOS", "Native", "Prototype"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -555,7 +552,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design Sprint", "Design Dash"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -571,7 +567,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["HCD", "Human centered design"],
-        "associatedImagery": ["https://www.creativeconfidence.com/assets/images/pages/CCBook_Front_Comp_560px.jpg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Core"
@@ -587,7 +582,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design Sprint"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/K2vSQPh6MCE/mqdefault_6s.webp?du=3000&sqp=CKWaipsG&rs=AOn4CLDpsqRCJCDwFhtjU-D2lzV6js1dHg"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -603,7 +597,6 @@
                 },
         "category": ["UX"],
         "tags": ["Animation"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/WpzmOH0hrEM/mqdefault_6s.webp?du=3000&sqp=COexipsG&rs=AOn4CLDtDkBi2-WXzIi-Lqhg_u41liuZ-g"],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Core"
@@ -619,7 +612,6 @@
                 },
         "category": ["UI"],
         "tags": ["Animation"],
-        "associatedImagery": ["https://jitter.video/static/85242e828155edcfbfac32bf6b7f0abe/359e0/jitter-screenshot.webp"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -635,7 +627,6 @@
                 },
         "category": ["UI"],
         "tags": ["Typography"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -651,7 +642,6 @@
                 },
         "category": ["UI"],
         "tags": ["Typography"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -667,7 +657,6 @@
                 },
         "category": ["UI"],
         "tags": ["Stock photography"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -683,7 +672,6 @@
                 },
         "category": ["UI"],
         "tags": ["Typography"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -699,7 +687,6 @@
                 },
         "category": ["UI"],
         "tags": ["Color palette"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -747,7 +734,6 @@
                 },
         "category": ["UI"],
         "tags": ["Illustrations"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -763,7 +749,6 @@
                 },
         "category": ["UX"],
         "tags": ["Design Sprint"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -779,7 +764,6 @@
                 },
         "category": ["UX"],
         "tags": ["Prototyping"],
-        "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -795,7 +779,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design Sprint"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -811,7 +794,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Leadership"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -827,7 +809,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Brainstorming"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -843,7 +824,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["HMW"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -859,7 +839,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Problem framing"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -875,7 +854,6 @@
                 },
         "category": ["UX"],
         "tags": ["Brainstorming", "Diverge", "Converge"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -891,7 +869,6 @@
                 },
         "category": ["UX"],
         "tags": ["Lean UX"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -907,7 +884,6 @@
                 },
         "category": ["UX"],
         "tags": ["Empathy map", "User persona", "User flow"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -923,7 +899,6 @@
                 },
         "category": ["Product"],
         "tags": ["Marketing"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -939,7 +914,6 @@
                 },
         "category": ["UX"],
         "tags": ["Compression", "Video"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -955,7 +929,6 @@
                 },
         "category": ["UX"],
         "tags": ["Research", "Generative", "Exploratory Research"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -971,7 +944,6 @@
                 },
         "category": ["UX"],
         "tags": ["Research", "Generative", "Exploratory Research"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -987,7 +959,6 @@
                 },
         "category": ["UX"],
         "tags": ["Ideation", "HMW"],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1003,7 +974,6 @@
                 },
         "category": [""],
         "tags": [""],
-        "associatedImagery": [""],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1019,7 +989,6 @@
                 },
         "category": ["UX"],
         "tags": ["Visualization techniques", "Cognitive load"],
-        "associatedImagery": ["https://i.ytimg.com/vi/i_j4BpOrTxI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1tTibB9kKBMLx5TOGa0IKEK772Q"],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1035,7 +1004,6 @@
                 },
         "category": ["UX"],
         "tags": ["Card sorting", "Tree testing"],
-        "associatedImagery": ["https://i.ytimg.com/vi/0tNPT6X9Lhc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4DBVwjFzpjUQoN0MHwPRuSRVWig"],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1051,7 +1019,6 @@
                 },
         "category": ["UX"],
         "tags": ["Feature factory", "Outcomes"],
-        "associatedImagery": ["https://i.ytimg.com/vi/Kgz_nbRimA4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxX3x5zUz7f7MfMFhCzKvhPB-Tzw"],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1067,7 +1034,6 @@
                 },
         "category": ["UX"],
         "tags": ["Digital transformation"],
-        "associatedImagery": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Fblogs%2Fcloud-computing%2F2019%2F10%2F30%2Fexpedite-innovation-ibm-garage%2F&psig=AOvVaw2BDromBQ3W4hD1OOoL1uq2&ust=1665688255367000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICZh7iy2_oCFQAAAAAdAAAAABAE"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1083,7 +1049,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Frameworks", "Business Model"],
-        "associatedImagery": ["https://bmtoolbox.net/wp-content/uploads/2016/05/Tool_24_leancanvas.jpg"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1099,7 +1064,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Frameworks"],
-        "associatedImagery": ["https://static.wixstatic.com/media/nsplsh_455452506a7662304b4d30~mv2_d_3000_2000_s_2.jpg/v1/crop/x_146,y_0,w_2708,h_2000/fill/w_306,h_226,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Patrick%20Perkins.jpg"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1115,7 +1079,6 @@
                 },
         "category": ["UX"],
         "tags": ["Lean UX", "Canvas"],
-        "associatedImagery": ["https://i0.wp.com/jeffgothelf.com/wp-content/uploads/2019/09/LeanUX_canvas_v5.png?resize=685%2C443&ssl=1"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1131,7 +1094,6 @@
                 },
         "category": ["UX"],
         "tags": ["Whiteboarding"],
-        "associatedImagery": ["https://static2.jetpens.com/images/a/000/143/143041.png?s=2ae8f823fa3ba1d7d65f5f955db021e2"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1147,7 +1109,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Hard drives", "Storage"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/wteUW2sL7bc/mqdefault_6s.webp?du=3000&sqp=CL38lpoG&rs=AOn4CLDeAaNtkjW1l76fgL-LgVbZsP-7Dg"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1163,7 +1124,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Prototyping", "No-code"],
-        "associatedImagery": ["https://imgs.search.brave.com/k2sGR4E0hXZu4oQUGjIbvas9atBy5vld_dwMZ6rGX_s/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/dHNMQ2RoYTB6cll2/NnFZRkdtUk5nSGFI/YSZwaWQ9QXBp"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1179,7 +1139,6 @@
                 },
         "category": ["UX"],
         "tags": ["Wireframing", "Diagramming"],
-        "associatedImagery": ["https://imgs.search.brave.com/VQCqY0QGmDp2CAzsaCCvxdsuUhyFO9HbrPvMpevDHTY/rs:fit:1904:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4y/ZG9mSFBWOVV1SkVK/R0NnTVp4R3ZBSGFC/MiZwaWQ9QXBp"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1195,7 +1154,6 @@
                 },
         "category": ["UX"],
         "tags": ["Video", "Compression tool"],
-        "associatedImagery": ["https://imgs.search.brave.com/HgFeJmQXUDQ7Pyf9t8b3oHT_hQobRK3mufWIwFQC6sc/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/M2JPTnc5OUxUeFFJ/SnhnSnM0Zi1BSGFE/dCZwaWQ9QXBp"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1211,7 +1169,6 @@
                 },
         "category": ["UX"],
         "tags": ["Career"],
-        "associatedImagery": ["https://miro.medium.com/max/720/0*9RYjK1fzML-xTJ75"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1227,7 +1184,6 @@
                 },
         "category": ["UX"],
         "tags": ["UX Research", "Generative research"],
-        "associatedImagery": ["https://dscout.imgix.net/cmsAssets/articles/PN-GenResearch-HERO.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=380&q=60&w=1220&s=da410d7bd6cb940d3f389ec6bfa50a3c"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1243,7 +1199,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/AGs7hk0DWP0/mqdefault_6s.webp?du=3000&sqp=CJzK7JkG&rs=AOn4CLAI_VKvy2vjhW-Rh0pz7zUgWxpYew"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1259,7 +1214,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/xCeutzpRlzA/mqdefault_6s.webp?du=3000&sqp=CID27JkG&rs=AOn4CLBTCe7RKWKMepUywzYVvTxUdfcjxA"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1275,7 +1229,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/BEWkLXU1Wlc/mqdefault_6s.webp?du=3000&sqp=CPLp7JkG&rs=AOn4CLBUxZYPKA7VLjSIky4QH8KD1_wXvg"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1291,7 +1244,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/_olcdAcnEzM/mqdefault_6s.webp?du=3000&sqp=COS57JkG&rs=AOn4CLDtnQEGwtul1QXOJH7okXkbNpayrg"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1307,7 +1259,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Frontend"],
-        "associatedImagery": ["https://imgs.search.brave.com/dc-zzJQ-hf2GNGh2nG3jZwF8I4ONJd8UdNUz7-zoYXY/rs:fit:2956:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/UGJYX09Wa3A4UTZL/SXJHLWUxNlZBSGFC/TSZwaWQ9QXBp"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1323,7 +1274,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["DOM reconciliation", "State Management"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/m8T-I-zcT1A/mqdefault_6s.webp?du=3000&sqp=CPDo7JkG&rs=AOn4CLC6oImBTV1HaLEsqyNEVh8pbZx6Uw"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1339,7 +1289,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/6BozpmSjk-Y/mqdefault_6s.webp?du=3000&sqp=CJbB7JkG&rs=AOn4CLDKSnidAr_4XK98LMpPhjdI2-lofA"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1355,7 +1304,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/6BozpmSjk-Y/mqdefault_6s.webp?du=3000&sqp=CJbB7JkG&rs=AOn4CLDKSnidAr_4XK98LMpPhjdI2-lofA"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1371,7 +1319,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/JmSb1VFoP7w/mqdefault_6s.webp?du=3000&sqp=COyz7JkG&rs=AOn4CLDwAYz31ogIlmq0WTQh1cYZVxc9UQ"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1387,7 +1334,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Database"],
-        "associatedImagery": ["https://mariadb.com/wp-content/themes/sage/dist/images/mariadb-logo-white.png"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1403,7 +1349,6 @@
                 },
         "category": ["UX"],
         "tags": ["Collaboration", "Whiteboarding"],
-        "associatedImagery": ["https://assets-global.website-files.com/622206fc8ff3a1536dfccf8d/6222070644f73d71f0b4ecb8_mural-logo.svg"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1419,7 +1364,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Marketing", "SEO", "Agency SaaS"],
-        "associatedImagery": ["https://www.zenpilot.com/wp-content/uploads/2021/09/zenpilot-clickup-account-dashboard-preview.png"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1435,7 +1379,6 @@
                 },
         "category": ["UX"],
         "tags": [""],
-        "associatedImagery": [""],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -1451,7 +1394,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "window object"],
-        "associatedImagery": [""],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1467,7 +1409,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Github pages"],
-        "associatedImagery": [""],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1483,7 +1424,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design System"],
-        "associatedImagery": [""],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1499,7 +1439,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components"],
-        "associatedImagery": [""],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1515,7 +1454,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["No-code", "Headless CMS"],
-        "associatedImagery": ["https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fe6a94bfbccd24ec8b4db085cd475b7eb?width=400"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1531,7 +1469,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/hVxZ-te0kio/mqdefault_6s.webp?du=3000&sqp=CIDNrZkG&rs=AOn4CLB7A4QIrpkUmTgA37UkL9LK9IT_OA"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1547,7 +1484,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/PFpUCnyztJk/mqdefault_6s.webp?du=3000&sqp=CKLOrZkG&rs=AOn4CLBNu6rZ4596ZsA5AMMBnueUeW5r3g"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1563,7 +1499,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "es6", "Cheatsheet"],
-        "associatedImagery": ["https://es6cheatsheet.com/static/swizec-at-writethedocs.6300d214.jpg"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1579,7 +1514,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components", "State management", "Lit", "LitElement"],
-        "associatedImagery": ["https://i.ytimg.com/vi/x9YDQUJx2uw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdTRCBTdZaibTlFRwlrRMz0PL5WQ"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1595,7 +1529,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web components", "State management", "Lit", "MobX"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/QpzpMUKI6fA/mqdefault_6s.webp?du=3000&sqp=CNCIqJkG&rs=AOn4CLDyj_k2fZ1keY2dEVolkSCOzjZSGw"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1611,7 +1544,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Databases", "Relational model", "E.F. Codd", "Data"],
-        "associatedImagery": ["https://pbs.twimg.com/media/FcN3gH0aIAAbj7G.jpg"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1627,7 +1559,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Promises", "Promise.all()"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/SyL1thdXmlE/mqdefault_6s.webp?du=3000&sqp=CMmZopkG&rs=AOn4CLDMCSuxTuLDVUZ9Jasur4z8dobknA"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1643,7 +1574,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["UX Maturity"],
-        "associatedImagery": ["https://postlight.com/wp-content/uploads/2022/09/RACI-2160.png?w=2160"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1659,7 +1589,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["RACI"],
-        "associatedImagery": ["https://postlight.com/wp-content/uploads/2022/09/RACI-2160.png?w=2160"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1675,7 +1604,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design Strategy", "IDEO University"],
-        "associatedImagery": ["https://cdn.shopify.com/s/files/1/0259/7876/5396/t/4/assets/hero-designing-strategy.jpg?v=118452046743820979181574291013"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1691,7 +1619,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Algorithms"],
-        "associatedImagery": ["https://static.frontendmasters.com/assets/courses/2022-09-12-algorithms/thumb.webp"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1707,7 +1634,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["CSS"],
-        "associatedImagery": [""],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1723,7 +1649,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "Web Components"],
-        "associatedImagery": ["https://4225587438-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L_3P325_k_Bez-RbDQb-887967055%2Fuploads%2Fgit-blob-5279db367bef2df7303c972c99d8bb5d9a304eaa%2Fheader-2.svg?alt=media"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -1739,7 +1664,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "Web Components"],
-        "associatedImagery": ["https://4225587438-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L_3P325_k_Bez-RbDQb-887967055%2Fuploads%2Fgit-blob-5279db367bef2df7303c972c99d8bb5d9a304eaa%2Fheader-2.svg?alt=media"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1755,7 +1679,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "Memoize", "Memoization"],
-        "associatedImagery": ["https://cdn-media-1.freecodecamp.org/images/1*UPyVG04cujAGglMNgF1bTA.jpeg"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1771,7 +1694,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/k2RLCMetpLw/mqdefault_6s.webp?du=3000&sqp=CKCDgpkG&rs=AOn4CLB1tN4oLddP2Jxya4-ipt1U3vbG7A"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1787,7 +1709,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "Tutorial"],
-        "associatedImagery": ["https://atendesigngroup.com/sites/default/files/function-factories.png"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -1803,7 +1724,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Javascript", "Tutorial"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/yBg8w_5THS4/mqdefault_6s.webp?du=3000&sqp=COiSgpkG&rs=AOn4CLBS07upMPmfyt8jGu49B5SoSPKrcQ"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1819,7 +1739,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["React", "Tutorial"],
-        "associatedImagery": ["https://www.freecodecamp.org/news/content/images/size/w2000/2022/08/react-project.png"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -1835,7 +1754,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["JTBD", "Jobs-to-be-done"],
-        "associatedImagery": ["https://i.ytimg.com/vi/g-zga56kENk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ9FBK0DjCbaYLRU7Pvb8hrQmAfQ"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Core"
@@ -1851,7 +1769,6 @@
                 },
         "category": ["Career"],
         "tags": ["Interview questions", "Product Design"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1867,7 +1784,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens", "Design System"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1883,7 +1799,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1899,7 +1814,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1915,7 +1829,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1931,7 +1844,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1947,7 +1859,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design Tokens"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1963,7 +1874,6 @@
                 },
         "category": ["Career"],
         "tags": ["Portfolio"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1979,7 +1889,6 @@
                 },
         "category": ["UI"],
         "tags": ["Graphic Design"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -1995,7 +1904,6 @@
                 },
         "category": ["UI"],
         "tags": ["Packaging", "Graphic Design"],
-        "associatedImagery": ["https://thedieline.com/images/logo.svg"],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -2011,7 +1919,6 @@
                 },
         "category": ["UI"],
         "tags": ["Icons"],
-        "associatedImagery": [""],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -2027,7 +1934,6 @@
                 },
         "category": ["Design Ops"],
         "tags": ["Design System"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2043,7 +1949,6 @@
                 },
         "category": ["Design"],
         "tags": ["Illustration"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2059,7 +1964,6 @@
                 },
         "category": ["Design"],
         "tags": ["Illustration"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2075,7 +1979,6 @@
                 },
         "category": ["Typography"],
         "tags": ["Color", "Color Palettes"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2091,7 +1994,6 @@
                 },
         "category": ["Typography"],
         "tags": ["Type Foundry", "Free fonts", "Open source"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2107,7 +2009,6 @@
                 },
         "category": ["Typography"],
         "tags": ["Type"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2123,7 +2024,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Design Patterns", "JavaScript"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2139,7 +2039,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components", "ShadowDom", "JavaScript", "Event propagation"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2155,7 +2054,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components", "ShadowDom", "JavaScript", "Event propagation"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2187,7 +2085,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Async", "Defer"],
-        "associatedImagery": ["https://www.growingwiththeweb.com/images/2014/02/26/script.svg"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2203,7 +2100,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Imperative", "Declarative"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/h718AoApVIk/mqdefault_6s.webp?du=3000&sqp=COn12JgG&rs=AOn4CLA3Due8oOgKG0vO8Ifrjtk6dWCaPA"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2219,7 +2115,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Imperative", "Declarative"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/h718AoApVIk/mqdefault_6s.webp?du=3000&sqp=COn12JgG&rs=AOn4CLA3Due8oOgKG0vO8Ifrjtk6dWCaPA"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2235,7 +2130,6 @@
                 },
         "category": ["UX"],
         "tags": ["Workshop", "Ideation", "Facilitation", "Brainstorming"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/OJ2guxkhvKU/mqdefault_6s.webp?du=3000&sqp=CJiQ2JgG&rs=AOn4CLA2czHq05rtGm9raJHYffTxWoFFtw"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2251,7 +2145,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Design patterns", "App development", "JavaScript"],
-        "associatedImagery": ["https://i.ytimg.com/an_webp/tv-_1er1mWI/mqdefault_6s.webp?du=3000&sqp=CLLO2JgG&rs=AOn4CLCdyhrYKrsGedk_wpT6Ek4_8R0qlA"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2267,7 +2160,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Design patterns", "App development", "React", "JavaScript"],
-        "associatedImagery": ["https://static.frontendmasters.com/assets/teachers/hallie/thumb@2x.webp"],
         "reviewedDates": [["", ""]],
         "archived": false,
         "status": "Reference"
@@ -2283,7 +2175,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components"],
-        "associatedImagery": ["https://static.frontendmasters.com/assets/teachers/rupert/thumb@2x.webp"],
         "reviewedDates": [["06", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2299,7 +2190,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components", "React", "Mental model"],
-        "associatedImagery": [""],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -2315,7 +2205,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "'Bind' method", "'this' keyword"],
-        "associatedImagery": ["https://i.ytimg.com/vi/g2WcckBB_q0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxbBj37RmIk9BkzeBXH6OLiBK72g"],
         "reviewed": true,
         "reviewedDates": [["09", "2022"]],
         "archived": false,
@@ -2332,7 +2221,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": [""],
-        "associatedImagery": ["https://jsoncrack.com/jsoncrack-screenshot.webp"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
@@ -2349,7 +2237,6 @@
                 },
         "category": ["Product"],
         "tags": [""],
-        "associatedImagery": ["https://images.squarespace-cdn.com/content/v1/5a5331d3b1ffb6ca7203df4e/71e69d31-ccbe-451e-a6e7-114780c2248b/The+practice+of+de-risking.jpg?format=750w"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
@@ -2366,7 +2253,6 @@
                 },
         "category": ["UI"],
         "tags": ["Design basics", "Practical design tips", "Tailwind CSS", "Paid eBook"],
-        "associatedImagery": ["https://www.refactoringui.com/_next/static/media/book.5380927448c9872170bbc9fc9e5828c4.png"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
@@ -2383,7 +2269,6 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Web Components", "Shadow DOM", "Light DOM"],
-        "associatedImagery": ["https://workshub.imgix.net/7b09550f98f74a77c14253b4f90f3d58?ar=16%3A9&crop=center&fit=crop&q=75&w=1200"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
@@ -2400,7 +2285,6 @@
                 },
         "category": ["Design Ops", "Career"],
         "tags": ["Recruitment", "Interview questions", "Product Design"],
-        "associatedImagery": ["https://miro.medium.com/max/1400/1*YMb87fo9xP90PVnvV8AiBA.jpeg"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
@@ -2421,7 +2305,6 @@
         "tags": ["UX Research", "Ethnography research"],
         "dateAdded": ["08", "2022"],
         "archived": false,
-        "associatedImagery": ["https://media.nngroup.com/media/editor/2018/11/06/screen-shot-2018-11-06-at-122254-pm.png"],
         "status": "Core"
     },
     "93": {
@@ -2439,7 +2322,6 @@
         "tags": ["UX Research", "Ethnography research"],
         "dateAdded": ["08", "2022"],
         "archived": false,
-        "associatedImagery": ["https://www.experienceux.co.uk/wp-content/uploads/2018/09/ExperienceUX-logo.svg"],
         "status": "Reference"
     },
     "92": {
@@ -2457,7 +2339,6 @@
         "tags": ["UX Research", "Generative research", "Evaluation research"],
         "dateAdded": ["08", "2022"],
         "archived": false,
-        "associatedImagery": ["//*[@id=\"menuMain\"]/ul/li[1]/div[1]/a[1]/svg"],
         "status": "Reference"
     },
     "91": {
@@ -2476,7 +2357,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://accessibilityinsights.io/img/a11yinsights-blue.svg"],
         "status": "Reference"
     },
     "90": {
@@ -2495,7 +2375,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "89": {
@@ -2514,7 +2393,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "88": {
@@ -2533,7 +2411,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "87": {
@@ -2552,7 +2429,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "86": {
@@ -2571,7 +2447,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://www.gstatic.com/images/branding/lockups/1x/lockup_trends_light_color_142x24dp.png"],
         "status": "Reference"
     },
     "85": {
@@ -2590,7 +2465,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://hbr.org/resources/css/images/HBR_logo_black.svg"],
         "status": "Reference"
     },
     "84": {
@@ -2609,7 +2483,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://hbr.org/resources/css/images/HBR_logo_black.svg"],
         "status": "Reference"
     },
     "83": {
@@ -2628,7 +2501,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/max/700/1*gNjAvaQrqKR604tJF1Zrdw.jpeg"],
         "status": "Reference"
     },
     "82": {
@@ -2647,7 +2519,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/32/32/1*mDhF9X4VO0rCrJvWFatyxg.png"],
         "status": "Reference"
     },
     "81": {
@@ -2666,7 +2537,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/max/1400/1*EfAQ2EAbs0EPdcFlVFHc7w.jpeg"],
         "status": "Reference"
     },
     "80": {
@@ -2685,7 +2555,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/64/64/1*Pn6UfRZovEP6jrGUN-zpBw.png"],
         "status": "Reference"
     },
     "79": {
@@ -2704,7 +2573,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
         "status": "Reference"
     },
     "78": {
@@ -2723,7 +2591,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
         "status": "Reference"
     },
     "77": {
@@ -2742,7 +2609,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*mDhF9X4VO0rCrJvWFatyxg.png"],
         "status": "Reference"
     },
     "76": {
@@ -2761,7 +2627,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/64/64/1*rrhHkaGKfonO79SjtKhW_g.png"],
         "status": "Reference"
     },
     "75": {
@@ -2780,7 +2645,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*_wDJs77bAPiwuAe9qOK5Zg.png"],
         "status": "Reference"
     },
     "74": {
@@ -2799,7 +2663,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://splitbee.io/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fassets%2Fsplitbee-analytics-desktop.42e00aec4c6b8f00a6b830d0934f05e2.png&w=1200&q=90"],
         "status": "Reference"
     },
     "73": {
@@ -2818,7 +2681,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/fit/c/88/88/1*pKOfOAOvx-fWzfITATgGRg.jpeg"],
         "status": "Reference"
     },
     "72": {
@@ -2837,7 +2699,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://uploads-ssl.webflow.com/5eb2e1abb9c843ee7bdbfe96/5f71aba920688725eb3894e1_5ec3a640cc5fc66790968ab8_Group%2015.svg"],
         "status": "Reference"
     },
     "71": {
@@ -2856,7 +2717,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://yt3.ggpht.com/ytc/AMLnZu87zINNxFIYZxxMm4k1yfPPjsz4kOntwWKGKoZFFg=s88-c-k-c0x00ffffff-no-rj"],
         "status": "Reference"
     },
     "70": {
@@ -2875,7 +2735,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://miro.medium.com/max/274/1*bfJZ_DxjhyCJstDw6nhEUw@2x.png"],
         "status": "Reference"
     },
     "69": {
@@ -2894,7 +2753,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://yt3.ggpht.com/R0wOpi3k0bm70OnRBULpgzqu787ifW6rqn-SjqwhKO8Gl_LQtVS0asyxKuesLDNNJgPfid7z=s88-c-k-c0x00ffffff-no-rj"],
         "status": "Reference"
     },
     "68": {
@@ -2913,7 +2771,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://yt3.ggpht.com/ytc/AMLnZu95OxTWj2CP7zZdYGTHrOj-sYb-pLBTZbVZSi-0=s88-c-k-c0x00ffffff-no-rj"],
         "status": "Reference"
     },
     "67": {
@@ -2932,7 +2789,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://polaris.shopify.com/images/shopify-logo.svg"],
         "status": "Reference"
     },
     "66": {
@@ -2951,7 +2807,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://wac-cdn.atlassian.com/dam/jcr:616e6748-ad8c-48d9-ae93-e49019ed5259/Atlassian-horizontal-blue-rgb.svg?cdnVersion=489"],
         "status": "Reference"
     },
     "65": {
@@ -2970,7 +2825,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://www.lightningdesignsystem.com/assets/images/homepage/hero-bkg.png"],
         "status": "Reference"
     },
     "64": {
@@ -2989,7 +2843,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "63": {
@@ -3008,7 +2861,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "62": {
@@ -3027,7 +2879,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "61": {
@@ -3046,7 +2897,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "60": {
@@ -3065,7 +2915,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "59": {
@@ -3084,7 +2933,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "58": {
@@ -3103,7 +2951,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "57": {
@@ -3122,7 +2969,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "56": {
@@ -3141,7 +2987,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Core"
     },
     "55": {
@@ -3160,7 +3005,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "54": {
@@ -3179,7 +3023,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "53": {
@@ -3198,7 +3041,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "52": {
@@ -3217,7 +3059,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "51": {
@@ -3236,7 +3077,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "50": {
@@ -3255,7 +3095,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "49": {
@@ -3274,7 +3113,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "48": {
@@ -3293,7 +3131,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["urlPath01"],
         "status": "Reference"
     },
     "47": {
@@ -3312,7 +3149,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "46": {
@@ -3331,7 +3167,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Reference"
     },
     "45": {
@@ -3350,7 +3185,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Core"
     },
     "44": {
@@ -3369,7 +3203,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": "Core"
     },
     "43": {
@@ -3388,7 +3221,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Core"]
     },
     "42": {
@@ -3407,7 +3239,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "41": {
@@ -3426,7 +3257,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "40": {
@@ -3445,7 +3275,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "39": {
@@ -3464,7 +3293,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "38": {
@@ -3483,7 +3311,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "37": {
@@ -3502,7 +3329,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "36": {
@@ -3521,7 +3347,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "35": {
@@ -3540,7 +3365,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "34": {
@@ -3559,7 +3383,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "33": {
@@ -3578,7 +3401,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "32": {
@@ -3597,7 +3419,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "31": {
@@ -3616,7 +3437,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Core"]
     },
     "30": {
@@ -3635,7 +3455,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Core"]
     },
     "29": {
@@ -3654,7 +3473,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Core"]
     },
     "28": {
@@ -3673,7 +3491,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "27": {
@@ -3692,7 +3509,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": [""],
         "status": ["Reference"]
     },
     "26": {
@@ -3711,7 +3527,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://media.nngroup.com/media/editor/2017/07/24/jtbd-image.png"],
         "status": ["Core"]
     },
     "25": {
@@ -3730,7 +3545,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": ["https://media.nngroup.com/media/editor/2017/07/24/jtbd-image.png"],
         "status": ["Core"]
     },
     "24": {
@@ -3749,7 +3563,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Core"]
     },
     "23": {
@@ -3768,7 +3581,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "22": {
@@ -3787,7 +3599,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "21": {
@@ -3806,7 +3617,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "20": {
@@ -3825,7 +3635,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "19": {
@@ -3844,7 +3653,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "18": {
@@ -3863,7 +3671,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "17": {
@@ -3882,7 +3689,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "16": {
@@ -3901,7 +3707,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "15": {
@@ -3920,7 +3725,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "14": {
@@ -3939,7 +3743,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "13": {
@@ -3958,7 +3761,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "12": {
@@ -3977,7 +3779,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "11": {
@@ -3996,7 +3797,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "10": {
@@ -4015,7 +3815,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "9": {
@@ -4034,7 +3833,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "8": {
@@ -4053,7 +3851,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "7": {
@@ -4072,7 +3869,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "6": {
@@ -4091,7 +3887,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "5": {
@@ -4110,7 +3905,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "4": {
@@ -4129,7 +3923,6 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Core Playbook"]
     },
     "3": {
@@ -4148,45 +3941,36 @@
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
-        "associatedImagery": "",
         "status": ["Reference"]
     },
     "2": {
         "resourceLink": "https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/",
         "resourceTitle": "What Are Objects in JavaScript?",
-        "resourceType": "Blog",
-        "authors": ["D.M. Oladele"],
-        "platform": "Free Code Academy",
-        "reviewed": false,
+        "resourceType": ["Blog"],
+        "authors": ["D.M. Oladele", "Free Code Academy"],
         "notes": {
-                    "descriptor": " ",
-                    "bulletPoints": []
+                    "description": "",
+                    "bulletPoints": [""]
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "JS Objects"],
-        "dateAddedYear": "2022",
-        "dateAddedMonth": "07",
-        "archived": false,  
-        "associatedImagery": "",
-        "status": ["Reference"]
+        "reviewedDates": [["07", "2022"]],
+        "archived": false,
+        "status": "Reference"
     },
     "1": {
         "resourceLink": "https://jeffgothelf.com/blog/why-you-should-map-outcomes-to-impact-metrics/",
         "resourceTitle": "Why you should map outcomes to impact metrics",
-        "resourceType": "Blog",
+        "resourceType": ["Blog"],
         "authors": ["Jeff Gothelf"],
-        "platform": "Medium",
-        "reviewed": false,
         "notes": {
-                    "descriptor": " ",
-                    "bulletPoints": []
+                    "description": "",
+                    "bulletPoints": [""]
                 },
         "category": ["Product"],
-        "tags": [ ],
-        "dateAddedYear": "2022",
-        "dateAddedMonth": "07",
+        "tags": [""],
+        "reviewedDates": [["07", "2022"]],
         "archived": false,
-        "associatedImagery": "",
-        "status": ["Core Playbook"]
+        "status": "Reference"
     }
 }

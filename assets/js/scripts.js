@@ -31,17 +31,19 @@ const buildResultCard = (json) => {
 		.map((data) => {
 			return `
 				<li class="search-card">
-					<div class="search-card__tag">
-						${data.resourceType[0]}
- 					</div>
+
 					<div class="search-card__content">
 						<ul class="search-card__categories">
 							<li>${data.category[0]}<li>
-							<li>${data.category[1]}<li>
 						</ul>
-						<a href="${data.resourceLink}" target="_blank">
+						<a class="search-card__link"
+							href="${data.resourceLink}" 
+							target="_blank">
 							${data.resourceTitle}
 						</a>
+						<div class="search-card__tag">
+							${data.resourceType}
+						</div>
 					</div>
 				</li>
 				`;

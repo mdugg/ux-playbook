@@ -35,6 +35,11 @@
   --white-rgb: 255, 255, 255;
   --black-rgb: 0, 0, 0;
   --font-sans: 'Signika Negative', sans-serif;
+  --font-sans-light: 300;
+  --font-sans-regular: 400;
+  --font-sans-medium: 500;
+  --font-sans-semibold: 600;
+  --font-sans-bold: 700;
   --font-system-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
@@ -52,4 +57,5 @@
   --link-color: #0d6efd;
   --link-hover-color: #0a58ca;
   --highlight-bg: #fff3cd;
+  --transition-all: .2s all ease-out;
 }

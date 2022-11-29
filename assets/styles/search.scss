@@ -1,26 +1,26 @@
 .search-results {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 2rem;
+    display: flex;
+    flex-direction: column;
 }
-
 
 .search-card {
     display: flex;
-    border: 1px solid var(--gray-200);
+    // border: 1px solid var(--gray-200);
     margin-top: 1rem;
     border-radius: var(--border-radius);
 
-    &__img-block {
-        display: flex;
-        border: 1px solid var(--gray-200);
-    }
-    &__img {
-        max-height: 4rem;
-        max-width: 4rem;
-    }
     &__content {
         display:flex;
         flex-direction: column;
+    }
+    &__link {
+        color: var(--black);
+        font-weight: var(--font-sans-medium);
+        font-size: 1.5rem;
+        text-decoration: none;
+        transition: var(--transition-all);
+    }
+    &__link:hover {
+        color: var(--teal);
     }
 }
