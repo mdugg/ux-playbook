@@ -1,0 +1,22 @@
+[
+    {
+        "schema 1.0.0": "",
+        "link": "",
+        "title": "",
+        "author": "",
+        "tags": [""]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=JIWOJwRjPGY",
+        "title": "123 Filter Buttons JS - Javascript the complete Tutorial",
+        "author": "Tutorials Hub",
+        "tags": ["Filters"]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=PkADl0HubMY",
+        "title": "Award Winning Animation With Only 20 Lines Of CSS?",
+        "author": "Hyperplexed",
+        "tags": ["Image gallery", "Scroll animation"]
+    }
+
+]

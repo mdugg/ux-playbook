@@ -1,6 +1,6 @@
 
 {
-    "_schema-v2.0.0": {
+    "schema v2.0.0": {
         "resourceLink": "url",
         "resourceTitle": "Title",
         "resourceType": ["Blog", "Video", "Course", "Tutorial", "Imagery", "Design", "eBook", "Documentation", "Library", "API", "Tool"],
@@ -14,6 +14,861 @@
         "reviewedDates": [["MM", "YYYY"]],
         "archived": false,
         "status": "Core /  Reference"
+    },
+    "302": {
+        "resourceLink": "https://www.tonik.com",
+        "resourceTitle": "tonik",
+        "resourceType": ["Blog"],
+        "authors": ["Shantanu Kumar", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Figma"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "301": {
+        "resourceLink": "https://uxplanet.org/10-mind-blowing-figma-plugins-for-ui-designers-e3bd80afc65b",
+        "resourceTitle": "10 mind-blowing Figma plugins for UI Designers",
+        "resourceType": ["Blog"],
+        "authors": ["Shantanu Kumar", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Figma"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "300": {
+        "resourceLink": "https://uxdesign.cc/typography-guidelines-9a712cf81684",
+        "resourceTitle": "How to create typography guidelines for a product that does not follow a design system",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system", "Typography"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "299": {
+        "resourceLink": "https://www.smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+        "resourceTitle": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
+        "resourceType": ["Blog"],
+        "authors": ["Adrian Bece", "Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Responsive design", "Responsive tables"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "298": {
+        "resourceLink": "https://www.codux.com/",
+        "resourceTitle": "Codux",
+        "resourceType": ["Tool"],
+        "authors": ["Web Design Museum"],
+        "notes": {
+                    "description": "Tool to accelerate the React development process",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["React"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "297": {
+        "resourceLink": "https://www.webdesignmuseum.org/",
+        "resourceTitle": "Discover Forgotten Trends in Web Design",
+        "resourceType": ["Library"],
+        "authors": ["Web Design Museum"],
+        "notes": {
+                    "description": "Web Design Museum exhibits over 2,000 carefully selected and sorted web sites that show web design trends between the years 1991 and 2006.",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Web design"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "296": {
+        "resourceLink": "https://ui8.net/category/ui-kits",
+        "resourceTitle": "UI8: UI Kits",
+        "resourceType": ["Library"],
+        "authors": ["UI8"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["UI kits"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "295": {
+        "resourceLink": "https://atlassian.design",
+        "resourceTitle": "Atlassian Design System",
+        "resourceType": ["Library"],
+        "authors": ["Atlassian"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "294": {
+        "resourceLink": "https://complementary.space/",
+        "resourceTitle": "Design spacing tokens semantically",
+        "resourceType": ["Blog"],
+        "authors": ["Donnie D'Amato"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design tokens"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "293": {
+        "resourceLink": "https://stackdiary.com/css-media-queries",
+        "resourceTitle": "A Practical Guide to CSS Media Queries",
+        "resourceType": ["Blog"],
+        "authors": ["Alex Ivanovs", "Stack Diary"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Responsive design"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "292": {
+        "resourceLink": "https://utopia.fyi/",
+        "resourceTitle": "Utopia Grid",
+        "resourceType": ["Documentation"],
+        "authors": ["James Gilyead", "Trys Mudford", "Clearleft"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Responsive design", "Typography"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "291": {
+        "resourceLink": "https://fonts.google.com/knowledge/readability_and_accessibility",
+        "resourceTitle": "Google Fonts: Readability",
+        "resourceType": ["Blog"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "290": {
+        "resourceLink": "https://kintone.dev/en/landing-page/use-kintone-to-spend-less-time-on-the-back-end/",
+        "resourceTitle": "Kintone developer program",
+        "resourceType": ["Tool"],
+        "authors": ["Kintone"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Database"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "289": {
+        "resourceLink": "https://supabase.com/",
+        "resourceTitle": "Supabase",
+        "resourceType": ["Tool"],
+        "authors": ["Supabase"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Server env"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "288": {
+        "resourceLink": "https://medium.com/pipeline-a-data-engineering-resource/creating-the-dashboard-that-got-me-a-data-analyst-job-offer-de3f0d6b1771",
+        "resourceTitle": "Creating The Dashboard That Got Me A Data Analyst Job Offer",
+        "resourceType": ["Library"],
+        "authors": ["Zach Quinn", "Pipeline"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Case study", "Data engineering"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "287": {
+        "resourceLink": "https://www.uxcrush.com/free-figma-ui-kits/",
+        "resourceTitle": "Free Figma UI Kits",
+        "resourceType": ["Library"],
+        "authors": ["UXCrush"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "UI kit"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "286": {
+        "resourceLink": "https://artboard.studio/",
+        "resourceTitle": "Artboard",
+        "resourceType": ["Tool"],
+        "authors": ["Artboard"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Animation"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "285": {
+        "resourceLink": "https://uxplanet.org/openai-chatgpt-dc035deec596",
+        "resourceTitle": "Exploring the Power of OpenAI ChatGPT for product designers",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["AI"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "284": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/if-your-ux-portfolio-has-this-20-well-done-it-will-give-you-an-80-result-a129f048d8a7",
+        "resourceTitle": "If your UX Portfolio has this 20% Well Done, it Will Give You an 80% Result",
+        "resourceType": ["Blog"],
+        "authors": ["Ilma Andrade"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "283": {
+        "resourceLink": "https://www.youtube.com/watch?v=FRjlF74_EZk",
+        "resourceTitle": "A High Level Overview of React",
+        "resourceType": ["Video"],
+        "authors": ["Zac Gordon"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["React"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "282": {
+        "resourceLink": "https://www.youtube.com/watch?v=TjnyFNxQ67Y",
+        "resourceTitle": "How a React App Works Under the Hood",
+        "resourceType": ["Video"],
+        "authors": ["PortEXE"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["React"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "281": {
+        "resourceLink": "https://tympanus.net/codrops/",
+        "resourceTitle": "Codrops",
+        "resourceType": ["Blog"],
+        "authors": ["Codrops"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Inpsiration", "UI design"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "280": {
+        "resourceLink": "https://www.nngroup.com/articles/ux-design-portfolios/",
+        "resourceTitle": "5 Steps to Creating a UX-Design Portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Rachel Krause", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "279": {
+        "resourceLink": "https://www.nngroup.com/articles/answer-ux-job-interview-questions/",
+        "resourceTitle": "How to Answer UX Job Interview Questions",
+        "resourceType": ["Blog"],
+        "authors": ["Evan Sunwall", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Job interview"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "278": {
+        "resourceLink": "https://www.nngroup.com/articles/ux-mapping-cheat-sheet/",
+        "resourceTitle": "UX Mapping Methods Compared: A Cheat Sheet",
+        "resourceType": ["Blog"],
+        "authors": ["Sarah Gibbons", "NNGroup"],
+        "notes": {
+                    "description": "Four commonly used mappings - Empathy, Customer journey, Experience, Service blueprinting",
+                    "bulletPoints": ["Three-step decision framework - Current (today) vs. future (to-be); Hypothesis vs. research; Low-fidelity vs. high-fidelity", "Empathy maps help team members understand the user’s mindset.", "A customer journey map is a visualization of the process that a person goes through in order to accomplish a goal tied to a specific business or product.", "An experience map is a visualization of an entire end-to-end experience that a “generic” person goes through in order to accomplish a goal", "Service blueprints are counterparts to customer journey maps, focused on the employees."]
+                },
+        "category": ["UX"],
+        "tags": ["Mapping", "Mental models"],
+        "reviewedDates": ["12", "2022"] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "277": {
+        "resourceLink": "https://www.nngroup.com/articles/ux-mapping-methods-visual-design-guide/",
+        "resourceTitle": "UX Mapping Methods: Visual-Design Guide",
+        "resourceType": ["Blog"],
+        "authors": ["Sarah Gibbons", "Kelley Gordon", "NNGroup"],
+        "notes": {
+                    "description": "UX maps will almost always start in a rough format (left) and later be polished (right) in order to become easy to read and understand.",
+                    "bulletPoints": ["The bigger your map’s audience, the more polished it should be.", "Start by designing a visual system for the map", "Bbuild a structure for your map"]
+                },
+        "category": ["UX"],
+        "tags": ["Mapping", "Mental models"],
+        "reviewedDates": ["12", "2022"] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "276": {
+        "resourceLink": "https://stateofjs.com/en-us",
+        "resourceTitle": "State of JS",
+        "resourceType": ["Documentation"],
+        "authors": ["Sacha Greif"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "275": {
+        "resourceLink": "https://clarity.microsoft.com/",
+        "resourceTitle": "Microsoft Clarity",
+        "resourceType": ["Tool"],
+        "authors": ["Microsoft"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Analytics", "Heatmaps"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "274": {
+        "resourceLink": "https://css-tricks.com/snippets/javascript/",
+        "resourceTitle": "CSS-Tricks snippets",
+        "resourceType": ["Documentation"],
+        "authors": ["Chris Coyier", "CSS-Tricks"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "273": {
+        "resourceLink": "https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a",
+        "resourceTitle": "Say bye bye to bad javascript practices",
+        "resourceType": ["Blog"],
+        "authors": ["Freddy Manrique"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "272": {
+        "resourceLink": "https://uxdesign.cc/design-is-not-a-process-its-an-odyssey-replacing-double-diamond-d6bc06965238",
+        "resourceTitle": "Design is not a formula, it’s an odyssey: replacing the Double Diamond",
+        "resourceType": ["Blog"],
+        "authors": ["Ryan Ford", "UX Collective"],
+        "notes": {
+                    "description": "The Design Odyssey Framework",
+                    "bulletPoints": ["The Illusion of Structure"]
+                },
+        "category": ["UX"],
+        "tags": ["Heuristics"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "271": {
+        "resourceLink": "https://uxplanet.org/design-of-everyday-things-in-16-visuals-e055b6a6641a",
+        "resourceTitle": "Design of Everyday Things in 16 visuals",
+        "resourceType": ["Blog"],
+        "authors": ["Kriss Patel", "Prototypr"],
+        "notes": {
+                    "description": "7 fundamental principles of design",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Heuristics"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "270": {
+        "resourceLink": "https://uxplanet.org/documenting-design-decisions-52ccc6b1be57",
+        "resourceTitle": "Documenting design decisions is important for product designers",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "Prototypr"],
+        "notes": {
+                    "description": "You and the team will not remember the decision you made",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Documentation"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "269": {
+        "resourceLink": "https://uxdesign.cc/how-to-organize-your-figma-file-f5cd234f51",
+        "resourceTitle": "How to organize your Figma file",
+        "resourceType": ["Blog"],
+        "authors": ["UX Collective"],
+        "notes": {
+                    "description": "Insights to create a Figma file template for your team",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Figma"],
+        "reviewedDates": [""],
+        "archived": false,
+        "status": "Reference"
+    },
+    "268": {
+        "resourceLink": "https://blog.prototypr.io/organizing-figma-file-3c9d4a4c39f3",
+        "resourceTitle": "Organize a Figma file like a pro; a complete guide",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "Prototypr"],
+        "notes": {
+                    "description": "Easily organize the information inside Figma files",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Figma"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },
+    "267": {
+        "resourceLink": "https://uxplanet.org/organize-figma-files-7154e0126cf0",
+        "resourceTitle": "Tips and tricks to organize the Figma files browser",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "Prototypr"],
+        "notes": {
+                    "description": "To find Figma design files faster, they should be organized well",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Figma"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },
+    "266": {
+        "resourceLink": "https://www.figma.com/community/file/985008979393829297",
+        "resourceTitle": "User Story Map",
+        "resourceType": ["Tool"],
+        "authors": ["Carlos Cuéllar"],
+        "notes": {
+                    "description": "User-story mapping is a lean UX-mapping method, often practiced by Agile teams, that uses sticky notes and sketches to outline the interactions that the team expects users to go through to complete their goals in a digital product.",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User story map", "Figma"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Core"
+    },
+    "265": {
+        "resourceLink": "https://miro.com/templates/user-story-map/",
+        "resourceTitle": "User story map template",
+        "resourceType": ["Tool"],
+        "authors": ["Miro"],
+        "notes": {
+                    "description": "Visualize your consumer journey and improve your product with user story mapping",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User story map", "Miro"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Core"
+    },
+    "264": {
+        "resourceLink": "https://uxplanet.org/complex-products-design-process-d1ce91c7e80c",
+        "resourceTitle": "How do I plan the design process for complex products",
+        "resourceType": ["Blog"],
+        "authors": ["Edward Chechique", "UX Planet"],
+        "notes": {
+                    "description": "UX design is more challenging when designing a complex product",
+                    "bulletPoints": ["B2B products tend to be more complex", "Build domain knowledge through the design process", "Difficult part is dividing and planning the work", "Create a small scope", "Conduct design QA with engineering for every task implemented", "Work with a design system with code and components from first project", "Everything should be a component in Figma", "Document your decisions", "More rigor in testing the flow before involving engineers"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Complexity"],
+        "reviewedDates": ["12", "2022"],
+        "archived": false,
+        "status": "Reference"
+    },
+    "263": {
+        "resourceLink": "https://www.netlify.com",
+        "resourceTitle": "Netlify",
+        "resourceType": ["Tool"],
+        "authors": ["Netlify"],
+        "notes": {
+                    "description": "Build and deploy sites to our global network from Git",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Hosting"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "262": {
+        "resourceLink": "https://www.atlassian.com/software/confluence/templates/design-system",
+        "resourceTitle": "Design system template",
+        "resourceType": ["Blog"],
+        "authors": ["Atlassian"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "261": {
+        "resourceLink": "https://www.atlassian.com/software/confluence/templates/design-system",
+        "resourceTitle": "Design system template",
+        "resourceType": ["Blog"],
+        "authors": ["Atlassian"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "260": {
+        "resourceLink": "https://publication.design.systems/design-systems-are-for-people-a484620b6988",
+        "resourceTitle": "Design Systems are for People",
+        "resourceType": ["Blog"],
+        "authors": ["Jina Anne"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "259": {
+        "resourceLink": "https://www.youtube.com/watch?v=TgWyyoofKIA",
+        "resourceTitle": "The Technical Side of Design Systems",
+        "resourceType": ["Video"],
+        "authors": ["Brad Frost"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "258": {
+        "resourceLink": "https://www.youtube.com/watch?v=fHQ1WSx41CA",
+        "resourceTitle": "Building (And Re-Building) the Airbnb Design System",
+        "resourceType": ["Video"],
+        "authors": ["Maja Wichrowska", "Tae Kim"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "257": {
+        "resourceLink": "https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208",
+        "resourceTitle": "Best Static Site Generators for Vue.js",
+        "resourceType": ["Blog"],
+        "authors": ["Chameera Dulanga"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Vue", "SSG"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "256": {
+        "resourceLink": "https://www.designsystemsforfigma.com/",
+        "resourceTitle": "Design systems for Figma",
+        "resourceType": ["Blog"],
+        "authors": ["Josh Cusick"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "255": {
+        "resourceLink": "https://www.invisionapp.com/inside-design/guide-to-design-systems/",
+        "resourceTitle": "A comprehensive guide to design systems",
+        "resourceType": ["Blog"],
+        "authors": ["Will Fanguy", "invision"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "254": {
+        "resourceLink": "https://css-tricks.com/the-great-divide/",
+        "resourceTitle": "The Great Divide",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Coyier", "CSS-Tricks"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Front-end"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "253": {
+        "resourceLink": "https://medium.com/user-experience-design-1/push-notifications-the-good-the-bad-and-the-wtf-could-u-not-b73d6b2c4f90",
+        "resourceTitle": "Push Notifications: the good, the bad, and the wtf could u not",
+        "resourceType": ["Blog"],
+        "authors": ["Joshua Mauldin", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Notifications"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "252": {
+        "resourceLink": "https://medium.com/@intercom/designing-smart-notifications-36336b9c58fb",
+        "resourceTitle": "Designing smart notifications",
+        "resourceType": ["Blog"],
+        "authors": ["Intercom"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Notifications"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "251": {
+        "resourceLink": "https://deque.com/",
+        "resourceTitle": "Deque.com",
+        "resourceType": ["Library", "Tools"],
+        "authors": ["deque"],
+        "notes": {
+                    "description": "Deque make digital experiences accessible to everyone",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": [""],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Core"
+    },
+    "250": {
+        "resourceLink": "https://dev.to/43081j/using-tailwind-at-run-time-with-web-components-47c",
+        "resourceTitle": "Using tailwind at run-time with web components",
+        "resourceType": ["Blog"],
+        "authors": ["James Garbutt"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Tailwind", "Web components"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "249": {
+        "resourceLink": "https://uxmag.com/articles/designing-notifications-for-apps",
+        "resourceTitle": "Designing Notifications for Apps",
+        "resourceType": ["Blog"],
+        "authors": [" Shashank Sahay", "UX Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Mobile", "Notifications"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "248": {
+        "resourceLink": "https://www.bolt.com/thinkshop/ cart-vs-checkout-abandonment-are-you-tracking-the-right-metrics",
+        "resourceTitle": "Cart vs. Checkout Abandonment: Are You Tracking the Right Metrics?",
+        "resourceType": ["Blog"],
+        "authors": ["Bolt"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Checkout", "Conversion", "eCommerce", "Analytics"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "247": {
+        "resourceLink": "https://uxdesign.cc/10-figma-best-practices-to-10x-your-workflow-76d6336daf2a",
+        "resourceTitle": "10 Figma Best Practices to 10X Your Workflow",
+        "resourceType": ["Blog"],
+        "authors": ["Danny Sapio", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Figma"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "246": {
+        "resourceLink": "https://medium.com/uxness/7-best-card-sorting-tools-6f05780f970a",
+        "resourceTitle": "Best Card Sorting tools",
+        "resourceType": ["Blog"],
+        "authors": ["Abhishek Jain", "UXness"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Card sorting"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
     },
     "245": {
         "resourceLink": "https://uxdesign.cc/the-heuristics-of-neurodesign-a62714f18f31",
@@ -453,7 +1308,7 @@
     },
     "216": {
         "resourceLink": "https://www.bestfolios.com/home",
-        "resourceTitle": "Your portfolios are fucking boring.",
+        "resourceTitle": "Bestfolios",
         "resourceType": ["Library"],
         "authors": ["Bestfolios"],
         "notes": {
