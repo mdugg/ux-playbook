@@ -3,7 +3,7 @@
     "schema v2.0.0": {
         "resourceLink": "url",
         "resourceTitle": "Title",
-        "resourceType": ["Blog", "Video", "Course", "Tutorial", "Imagery", "Design", "eBook", "Documentation", "Library", "API", "Tool"],
+        "resourceType": ["Blog", "Video", "Course", "Documentation", "Library", "Tool"],
         "authors": ["Author Name", "Publisher Name", "Platform Name"],
         "notes": {
                     "description": "Summary",
@@ -15,18 +15,753 @@
         "archived": false,
         "status": "Core /  Reference"
     },
-    "302": {
-        "resourceLink": "https://www.tonik.com",
-        "resourceTitle": "tonik",
-        "resourceType": ["Blog"],
-        "authors": ["Shantanu Kumar", "UX Planet"],
+    "352": {
+        "resourceLink": "https://www.medallia.com/",
+        "resourceTitle": "Medallia",
+        "resourceType": ["Tool"],
+        "authors": ["Medallia"],
         "notes": {
                     "description": "",
                     "bulletPoints": [""]
                 },
         "category": ["UX"],
-        "tags": ["Figma"],
+        "tags": ["Research", "Insights"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "351": {
+        "resourceLink": "https://blog.bitsrc.io/7-github-repositories-to-become-a-pro-frontend-developer-fa321549370d",
+        "resourceTitle": "7 Github Repositories to Become a Pro Frontend Developer",
+        "resourceType": ["Blog"],
+        "authors": ["Adarsh gupta"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["CSS", "JavaScript"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "350": {
+        "resourceLink": "https://www.uxforthemasses.com/resources/example-ux-docs/",
+        "resourceTitle": "Example UX docs and deliverables",
+        "resourceType": ["Blog"],
+        "authors": ["Neil Turner"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Artifacts"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "349": {
+        "resourceLink": "https://uxdesign.cc/how-to-improve-your-ux-hiring-process-f23a9b61b094",
+        "resourceTitle": "How to improve your UX hiring process",
+        "resourceType": ["Blog"],
+        "authors": ["Neil Turner"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Recruitment"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "348": {
+        "resourceLink": "https://articles.uie.com/your-necessary-first-step-to-creating-powerful-ux-metrics/",
+        "resourceTitle": "Your Necessary First Step to Creating Powerful UX Metrics",
+        "resourceType": ["Blog"],
+        "authors": ["Jared M. Spool"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Metrics", "Quantitiative"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "347": {
+        "resourceLink": "https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/",
+        "resourceTitle": "A Cheatsheet for User Interview and Follow Ups Questions",
+        "resourceType": ["Blog"],
+        "authors": ["Stéphanie Walter"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research", "User interviews"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "346": {
+        "resourceLink": "https://uxdesign.cc/how-to-ask-questions-like-a-ux-researcher-a4e02041136c",
+        "resourceTitle": "How to ask questions like a UX Researcher",
+        "resourceType": ["Blog"],
+        "authors": ["Robbie Li", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research", "User interviews"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "345": {
+        "resourceLink": "https://medium.muz.li/icon-set-3b4fc87dc6b5",
+        "resourceTitle": "Hopefully, the Ultimate Guide to an Interface Icon Set",
+        "resourceType": ["Blog"],
+        "authors": ["Slava Shestopalov", "Muzli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Icon sets"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "344": {
+        "resourceLink": "https://medium.muz.li/6-best-geometric-font-for-your-next-clean-interface-design-bc18ccfe2ab6",
+        "resourceTitle": "Understanding workflow interviews, one of the best 5-minute reality checks from users",
+        "resourceType": ["Blog"],
+        "authors": ["Kai Wong", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Workflow interviews"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "343": {
+        "resourceLink": "https://medium.muz.li/6-best-geometric-font-for-your-next-clean-interface-design-bc18ccfe2ab6",
+        "resourceTitle": "Best 6 geometric font for your next clean interface design.",
+        "resourceType": ["Blog"],
+        "authors": ["Shyam Adhikari", "Muzli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Fonts", "Geometric fonts"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "342": {
+        "resourceLink": "https://www.nngroup.com/articles/cognitive-mind-concept/",
+        "resourceTitle": "Cognitive Maps, Mind Maps, and Concept Maps: Definitions",
+        "resourceType": ["Blog"],
+        "authors": [" Sarah Gibbons", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "341": {
+        "resourceLink": "https://www.nngroup.com/news/item/top-10-ux-videos-of-2022/",
+        "resourceTitle": "Top 10 UX Videos of 2022",
+        "resourceType": ["Blog"],
+        "authors": ["NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "340": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/how-to-become-a-ux-designer-in-2023-766e5cf5de33",
+        "resourceTitle": "How to Become a UX Designer in 2023",
+        "resourceType": ["Blog"],
+        "authors": ["Eric Chung"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "339": {
+        "resourceLink": "https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/",
+        "resourceTitle": "A Few Times Container Size Queries Would Have Helped Me Out",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Christofi"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Container size queries", "CSS"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "338": {
+        "resourceLink": "https://pepelsbey.dev/articles/svg-sprites/",
+        "resourceTitle": "SVG sprites: old-school, modern, unknown, and forgotten",
+        "resourceType": ["Blog"],
+        "authors": ["Vadim Makeev"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["SVG sprites"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "337": {
+        "resourceLink": "https://rbefored.com/design-systems-will-change-ux-ui-jobs-e29f1d978553",
+        "resourceTitle": "Design Systems Will Change UX/UI Jobs",
+        "resourceType": ["Blog"],
+        "authors": ["Debbie Levitt", "R Before D"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "336": {
+        "resourceLink": "https://medium.muz.li/its-the-golden-age-of-design-systems-9c80b5e48cb5",
+        "resourceTitle": "It’s the golden age of design systems",
+        "resourceType": ["Blog"],
+        "authors": ["Kate Darmody", "Muzli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "335": {
+        "resourceLink": "https://didoo.medium.com/measuring-the-impact-of-a-design-system-7f925af090f7",
+        "resourceTitle": "Design Systems Architecture Diagrams",
+        "resourceType": ["Blog"],
+        "authors": ["Nathan Curtis", "EightShapes"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "333": {
+        "resourceLink": "https://didoo.medium.com/measuring-the-impact-of-a-design-system-7f925af090f7`",
+        "resourceTitle": "Measuring the Impact of a Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Cristiano Rastelli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "332": {
+        "resourceLink": "https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit/`",
+        "resourceTitle": "The Gradual Design System: How We Built Slack Kit",
+        "resourceType": ["Blog"],
+        "authors": ["Garrett Miller", "Zack Sultan", "Slack"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "331": {
+        "resourceLink": "https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit/`",
+        "resourceTitle": "The Gradual Design System: How We Built Slack Kit",
+        "resourceType": ["Blog"],
+        "authors": ["Garrett Miller", "Zack Sultan", "Slack"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design System"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "330": {
+        "resourceLink": "https://medium.com/inside-designing-microsoft-teams/keeping-things-organized-7586999982f6",
+        "resourceTitle": "Keeping Things Organized",
+        "resourceType": ["Blog"],
+        "authors": ["Josh Cusick", "Microsoft Teams"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Pattern library"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "329": {
+        "resourceLink": "https://medium.com/inside-designing-microsoft-teams/keeping-things-organized-7586999982f6",
+        "resourceTitle": "Keeping Things Organized",
+        "resourceType": ["Blog"],
+        "authors": ["Josh Cusick", "Microsoft Teams"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Pattern library"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "328": {
+        "resourceLink": "https://medium.com/wayfair-design/our-remote-design-sprint-a-step-by-step-toolkit-b09e6712d5ed",
+        "resourceTitle": "Our Remote Design Sprint: A Step-by-Step Toolkit",
+        "resourceType": ["Blog"],
+        "authors": ["Emily Thompson"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "327": {
+        "resourceLink": "https://www.invisionapp.com/inside-design/structuring-design-team/",
+        "resourceTitle": "Structuring a design team in a continuous delivery agile environment",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Thelwell", "invision"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": [],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "326": {
+        "resourceLink": "https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808",
+        "resourceTitle": "Kano Model — Ways to use it and NOT use it",
+        "resourceType": ["Blog"],
+        "authors": ["Cary-Anne Olsen-Landis"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": [],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "325": {
+        "resourceLink": "https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965",
+        "resourceTitle": "Gestalt principles in UI design",
+        "resourceType": ["Blog"],
+        "authors": ["Eleana Gkogka"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Gestalts"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "324": {
+        "resourceLink": "https://uxdesign.cc/four-definitions-of-design-9e107fb057c5",
+        "resourceTitle": "Four Definitions of Design",
+        "resourceType": ["Blog"],
+        "authors": ["Sonja Sarah Porter"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "323": {
+        "resourceLink": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html",
+        "resourceTitle": "The Day You Became A Better Writer",
+        "resourceType": ["Blog"],
+        "authors": ["Scott Adams"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Writing"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "322": {
+        "resourceLink": "https://medium.com/fact-of-the-day-1/amazon-writing-style-tip-a349b4bd3839",
+        "resourceTitle": "Amazon Writing Style Tip",
+        "resourceType": ["Blog"],
+        "authors": ["Danny Sheridan"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Writing"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "321": {
+        "resourceLink": "https://notes.normally.com/cookieless-unique-visitor-counts/",
+        "resourceTitle": "Counting unique visitors without using cookies, UIDs or fingerprinting.",
+        "resourceType": ["Blog"],
+        "authors": ["Nic Mulvaney", "Normally"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Cookies", "UID", "Fingerprinting"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "320": {
+        "resourceLink": "https://postlight.com/insights/how-to-write-a-compelling-product-vision",
+        "resourceTitle": "How to Write a Compelling Product Vision",
+        "resourceType": ["Blog"],
+        "authors": ["Chappell Ellison", "Postlight"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Product vision"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "319": {
+        "resourceLink": "https://12daysofweb.dev",
+        "resourceTitle": "12 Days of Web",
+        "resourceType": ["Blog"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["CSS"],
+        "reviewedDates": ["12", "2022"],
+        "archived": false,
+        "status": "Reference"
+    },
+    "318": {
+        "resourceLink": "https://www.nngroup.com/videos/interview-mistakes-to-avoid/",
+        "resourceTitle": "Five User Interview Mistakes to Avoid (in 5 Minutes)",
+        "resourceType": ["Video"],
+        "authors": [" Therese Fessenden", "NNGroup"],
+        "notes": {
+                    "description": "Saying enough to make your participant comfortable, but not leading",
+                    "bulletPoints": ["Probing vs. leading", "1. Insufficient rapport - build rapport first; small talk, mind body language", "2. Not probing for details - can shed light on unseen problems", "3. Multi-tasking during interview  - avoid distractions, delegate note-taking, record session, maintain attention on user", "4. Allowing observers to influence the interview; establish ground-rules, limit attendees, only facilitator asks questions", "5. Leading the participant; care in phrasing questions, keep general"]
+                },
+        "category": ["UX"],
+        "tags": ["CSV parser"],
+        "reviewedDates": ["12", "2022"],
+        "archived": false,
+        "status": "Reference"
+    },
+    "317": {
+        "resourceLink": "https://www.papaparse.com",
+        "resourceTitle": "Papa Parse",
+        "resourceType": ["Tool"],
+        "authors": ["Design & Innovation"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["CSV parser"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "316": {
+        "resourceLink": "https://www.designinnovationglobal.com/events-design-ops-usa/speakers",
+        "resourceTitle": "DesignOps 2022",
+        "resourceType": ["Blog"],
+        "authors": ["Design & Innovation"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Conference"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "315": {
+        "resourceLink": "https://www.primedesignsystem.com",
+        "resourceTitle": "Prime UI Kit",
+        "resourceType": ["Library"],
+        "authors": ["Thalion"],
+        "notes": {
+                    "description": "The Smartest Figma UI Kit & Design System",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Design System", "UI kit"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "314": {
+        "resourceLink": "https://www.framer.com/",
+        "resourceTitle": "Framer",
+        "resourceType": ["Tool"],
+        "authors": ["Framer"],
+        "notes": {
+                    "description": "No-code tool",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["No-code", "Site builder"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Core /  Reference"
+    },
+    "313": {
+        "resourceLink": "https://dev.to/bytebodger/the-class-boogeyman-in-javascript-2949",
+        "resourceTitle": "React's Class Warfare (7 Part Series)",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Nathaniel Davis"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "312": {
+        "resourceLink": "https://spotify.design/article/from-web-page-to-web-player-how-spotify-designed-a-new-homepage-experience",
+        "resourceTitle": "From Web Page to Web Player: How Spotify Designed a New Homepage Experience",
+        "resourceType": ["Blog"],
+        "authors": ["Spotify", "Alexandria Goree", "Faith McAllister"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design process", "Case study"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "311": {
+        "resourceLink": "https://www.ideou.com/blogs/inspiration/an-overview-of-our-best-design-thinking-strategy-frameworks",
+        "resourceTitle": "An Overview of Our Best Design Thinking & Strategy Frameworks",
+        "resourceType": ["Blog"],
+        "authors": ["IDEO"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design thinking", "Frameworks"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "310": {
+        "resourceLink": "https://www.millisecond.co/blog/design-systems-maturity",
+        "resourceTitle": "Design System Maturity Levels",
+        "resourceType": ["Blog"],
+        "authors": ["Derek Boman"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"],
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
+    },
+    "309": {
+        "resourceLink": "https://www.wonsulting.com/courses",
+        "resourceTitle": "Wonsulting",
+        "resourceType": ["Course"],
+        "authors": ["Wonsulting"],
+        "notes": {
+                    "description": "Learn how to find your dream job",
+                    "bulletPoints": ["bullet 1", "bullet point 2"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume"],
+        "reviewedDates": ["12", "2022"],
+        "archived": false,
+        "status": "Reference"
+    },
+    "308": {
+        "resourceLink": "https://uxdesign.cc/hierarchy-strips-in-user-interfaces-f88b9cbf64b",
+        "resourceTitle": "Hierarchy strips in user interfaces",
+        "resourceType": ["Blog"],
+        "authors": ["Michal Malewicz", "UX Collective"],
+        "notes": {
+                    "description": "Hierarchy strips are a way to visually divide the design into logical groups reinforcing each other towards the desired action.",
+                    "bulletPoints": ["Show that you understand the WHY of your visual work.", "Grid, layout, spacing", "Typography: limit font to just two styles and maximum of three sizes per design", "Interest > Clarification > Action"]
+                },
+        "category": ["UI"],
+        "tags": ["Presenting"],
+        "reviewedDates": ["12", "2022"],
+        "archived": false,
+        "status": "Reference"
+    },
+    "307": {
+        "resourceLink": "https://uxdesign.cc/how-to-communicate-your-design-process-effectively-as-an-introvert-cd096ade89fe",
+        "resourceTitle": "How to communicate your design process effectively as an introvert",
+        "resourceType": ["Blog"],
+        "authors": ["Kai Wong", "UX Collective"],
+        "notes": {
+                    "description": "UX Design is not Graphic Design",
+                    "bulletPoints": ["UX Design also means doing User Research and Testing; multiple rounds.", "UX Design is an iterative process (i.e., it doesn't need to be perfect the first time)", "You don't need to test users with an incredibly high-fidelity prototype", "User research doesn't 'prove' something's right", "Shows how team decisions impact the final result", "For any meet provide context: who I am, what I am doing, why I need to talk with you", "Introvert or extrovert, it pays to communicate effectively about design" ]
+                },
+        "category": ["UX"],
+        "tags": ["Design process", "Psychology"],
+        "reviewedDates": ["12", "2022"] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "306": {
+        "resourceLink": "https://uxdesign.cc/understanding-workflow-interviews-one-of-the-best-5-minute-reality-checks-from-users-d0c14eff315e",
+        "resourceTitle": "Understanding workflow interviews, one of the best 5-minute reality checks from users",
+        "resourceType": ["Blog"],
+        "authors": ["Kai Wong", "UX Collective"],
+        "notes": {
+                    "description": "Usually a part of user interviews, but don’t have to be.",
+                    "bulletPoints": ["Quick reality check from users or subject matter experts on their workflow using design artifacts", "Especially effective if you have standing meetings with your target audience", "Two primary scenarios: a “Business” workflow and design something in a field you don’t fully understand", "Emphasize how you’re on your user’s side (and they won’t get in trouble)", "Users often work differently from how the business wants them to", "Provide something visual in all cases", "Think of your relevant questions, and narrow them down to 1–2", "Prioritize: responsibilities? how start? daily workflow? diagram capture? change? bottlenecks?"]
+                },
+        "category": ["UX"],
+        "tags": ["User interviews", "User research", "User testing", "Geurilla research"],
+        "reviewedDates": ["12", "2022"] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "305": {
+        "resourceLink": "https://24ways.org/2019/design-tokens-and-component-based-design/",
+        "resourceTitle": "Design Tokens and Component Based Design",
+        "resourceType": ["Blog"],
+        "authors": ["Stuart Robson", "24ways"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design Tokens"],
         "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "304": {
+        "resourceLink": "https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c",
+        "resourceTitle": "How to brainstorm great business ideas",
+        "resourceType": ["Blog"],
+        "authors": ["Courtland Allen", "Indie Hackers"],
+        "notes": {
+                    "description": "The #1 rule is to put the problem first and the solution last",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Brainstorming"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "303": {
+        "resourceLink": "https://mobbin.com",
+        "resourceTitle": "Mobbin",
+        "resourceType": ["Library"],
+        "authors": ["Mobin"],
+        "notes": {
+                    "description": "A collection of UI & UX design patterns that have been deployed in real applications.",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design patterns", "Native apps", "Web apps"],
+        "reviewedDates": [""] ,
+        "archived": false,
+        "status": "Reference"
+    },    
+    "302": {
+        "resourceLink": "https://www.tonik.com",
+        "resourceTitle": "tonik",
+        "resourceType": ["Blog"],
+        "authors": ["tonik"],
+        "notes": {
+                    "description": "tonik is a seasoned design studio focused on UX/UI. They mostly work with early-stage startups, helping them in their 0 → 1 journey",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design studio"],
+        "reviewedDates": ["12", "2022"] ,
         "archived": false,
         "status": "Reference"
     },    
@@ -228,7 +963,7 @@
     "288": {
         "resourceLink": "https://medium.com/pipeline-a-data-engineering-resource/creating-the-dashboard-that-got-me-a-data-analyst-job-offer-de3f0d6b1771",
         "resourceTitle": "Creating The Dashboard That Got Me A Data Analyst Job Offer",
-        "resourceType": ["Library"],
+        "resourceType": ["Blog"],
         "authors": ["Zach Quinn", "Pipeline"],
         "notes": {
                     "description": "",

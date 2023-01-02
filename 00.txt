@@ -29,6 +29,10 @@ courses
 	- todo
 screenshots of UI flows
 all objects go on AWS
+Tools
+	- workshop checklist
+	- Figma files
+Diary
 
 UX artifacts ? 
 - browser versions of personas, heuristics etc 

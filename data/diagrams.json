@@ -2,8 +2,8 @@
     {
         "imgLink": "url",
         "imgLinkAlt": "url",
+        "source": "attribution-link",
         "title": "Title",
         "tags": ["tag 1", "tag 2"]
     }
-
 ]
