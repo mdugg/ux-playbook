@@ -1,6 +1,6 @@
 
 {
-    "schema v2.0.0": {
+    "schema v2.1.0": {
         "resourceLink": "url",
         "resourceTitle": "Title",
         "resourceType": ["Blog", "Video", "Course", "Documentation", "Library", "Tool"],
@@ -11,9 +11,150 @@
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
         "tags": ["tag 1", "tag 2"],
-        "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
-        "status": "Core /  Reference"
+        "reviewedDates": [["MM", "YYYY"]]
+    },
+    "363": {
+        "resourceLink": "https://didoo.medium.com/measuring-the-impact-of-a-design-system-7f925af090f7",
+        "resourceTitle": "Measuring the Impact of a Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Cristiano Rastelli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"],
+        "reviewedDates": []
+    },
+    "362": {
+        "resourceLink": "https://medium.com/wayfair-design/our-remote-design-sprint-a-step-by-step-toolkit-b09e6712d5ed",
+        "resourceTitle": "Our Remote Design Sprint: A Step-by-Step Toolkit",
+        "resourceType": ["Blog"],
+        "authors": ["Emily Thompson", "Wayfair Experience Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"],
+        "reviewedDates": []
+    },
+    "361": {
+        "resourceLink": "https://uxdesign.cc/four-definitions-of-design-9e107fb057c5",
+        "resourceTitle": "Four Definitions of Design",
+        "resourceType": ["Blog"],
+        "authors": ["Sonja Sarah Porter", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Principles"],
+        "reviewedDates": []
+    },
+    "360": {
+        "resourceLink": "https://material.io/blog/material-design-2022-roundup",
+        "resourceTitle": "The Best of Material in 2022",
+        "resourceType": ["Blog"],
+        "authors": ["Liam Spradlin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Material Design"],
+        "reviewedDates": []
+    },
+    "359": {
+        "resourceLink": "https://dev.to/mikehtmlallthethings/svelte-vs-react-which-framework-to-learn-in-2023-50gf",
+        "resourceTitle": "Svelte vs React: Which framework to learn in 2023?",
+        "resourceType": ["Blog"],
+        "authors": ["Mikhail Karan"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["React", "Svelte"],
+        "reviewedDates": []
+    },
+    "358": {
+        "resourceLink": "https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn",
+        "resourceTitle": "Applying Design Patterns in React: Strategy Pattern",
+        "resourceType": ["Blog"],
+        "authors": ["Hugo"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Component"],
+        "reviewedDates": []
+    },
+    "357": {
+        "resourceLink": "https://www.nngroup.com/articles/time-zone-selectors/",
+        "resourceTitle": "It’s Time We Addressed Time-Zone Selectors",
+        "resourceType": ["Blog"],
+        "authors": ["Maria Rosala", "Kelley Gordon", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Component"],
+        "reviewedDates": []
+    },
+    "356": {
+        "resourceLink": "https://design.google/library/catching-up-with-erik-spiekermann/",
+        "resourceTitle": "Catching up with Erik Spiekermann",
+        "resourceType": ["Blog"],
+        "authors": ["Sarah Daily", "Google Fonts"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"],
+        "reviewedDates": []
+    },
+    "355": {
+        "resourceLink": "https://baymard.com/blog/2022-and-2023",
+        "resourceTitle": "10 Most Popular Articles in 2022",
+        "resourceType": ["Blog"],
+        "authors": ["Baymard"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"],
+        "reviewedDates": []
+    },
+    "354": {
+        "resourceLink": "https://uxplanet.org/designing-an-effective-user-onboarding-experience-666a2c83fa90",
+        "resourceTitle": "Designing an Effective User Onboarding Experience",
+        "resourceType": ["Blog"],
+        "authors": ["Eric Chung", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Onboarding", "User flow"],
+        "reviewedDates": []
+    },
+    "353": {
+        "resourceLink": "https://uxdesign.cc/sizing-typography-in-design-systems-1cfc84a81ffe",
+        "resourceTitle": "Sizing typography in design systems",
+        "resourceType": ["Blog"],
+        "authors": ["Kevin Muldoon", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Design system"],
+        "reviewedDates": []
     },
     "352": {
         "resourceLink": "https://www.medallia.com/",
