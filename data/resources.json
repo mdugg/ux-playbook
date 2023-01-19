@@ -13,6 +13,474 @@
         "tags": ["tag 1", "tag 2"],
         "reviewedDates": [["MM", "YYYY"]]
     },
+    "399": {
+        "resourceLink": "https://frontarm.com/courses/async-javascript/promises/why-async/",
+        "resourceTitle": "Why async: JavaScript and the real world",
+        "resourceType": ["Documentation"],
+        "authors": ["Frontend Armory"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JS", "Async", "Promises"],
+        "reviewedDates": []
+    },
+    "398": {
+        "resourceLink": "https://uxplanet.org/5-essential-ideation-techniques-in-product-design-e30c172bd406",
+        "resourceTitle": "5 Essential Ideation Techniques in Product Design",
+        "resourceType": ["Blog"],
+        "authors": ["UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Ideation"],
+        "reviewedDates": []
+    },
+    "397": {
+        "resourceLink": "https://chartio.com/learn/charts/how-to-choose-data-visualization/",
+        "resourceTitle": "How to Choose the Right Data Visualization",
+        "resourceType": ["Blog"],
+        "authors": ["Mike Yi", "Mel Restori", "Chart.io"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"],
+        "reviewedDates": []
+    },
+    "396": {
+        "resourceLink": "https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/",
+        "resourceTitle": "How to choose the Right Chart for Data Visualization",
+        "resourceType": ["Blog"],
+        "authors": ["Harshit Ahluwalia"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"],
+        "reviewedDates": []
+    },
+    "395": {
+        "resourceLink": "https://infogram.com/page/choose-the-right-chart-data-visualization",
+        "resourceTitle": "How to Choose the Right Chart for Your Data",
+        "resourceType": ["Blog"],
+        "authors": ["infogram.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"],
+        "reviewedDates": []
+    },
+    "394": {
+        "resourceLink": "https://towardsdatascience.com/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6",
+        "resourceTitle": "Data Visualization 101: How to Choose a Chart Type",
+        "resourceType": ["Blog"],
+        "authors": ["Sara A. Metwalli", "Towards Data Science"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"],
+        "reviewedDates": []
+    },
+    "393": {
+        "resourceLink": "https://fffuel.co",
+        "resourceTitle": "fffuel.co",
+        "resourceType": ["Tool"],
+        "authors": ["fffuel"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["svg", "generator"],
+        "reviewedDates": []
+    },
+    "392": {
+        "resourceLink": "https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet",
+        "resourceTitle": "Data Visualization Cheat Sheet",
+        "resourceType": ["Blog"],
+        "authors": ["datacamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Data viz"],
+        "reviewedDates": []
+    },
+    "391": {
+        "resourceLink": "https://uxdesign.cc/demystifying-figma-auto-layout-d7b5cd05a54f",
+        "resourceTitle": "Demystifying Figma auto layout",
+        "resourceType": ["Blog"],
+        "authors": ["Anna Rzepka", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Figma"],
+        "reviewedDates": []
+    },
+    "390": {
+        "resourceLink": "https://www.freecodecamp.org/news/perfect-html-input",
+        "resourceTitle": "How to Build Great HTML Form Controls",
+        "resourceType": ["Blog"],
+        "authors": ["Austin Gil", "FreeCodeCamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Forms", "Accessibility", "Semantics"],
+        "reviewedDates": []
+    },
+    "389": {
+        "resourceLink": "https://htmlwithsuperpowers.netlify.app/",
+        "resourceTitle": "HTML with Superpowers",
+        "resourceType": ["Documentation"],
+        "authors": ["Dave Rupert"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Web components"],
+        "reviewedDates": []
+    },
+    "388": {
+        "resourceLink": "https://www.figma.com/best-practices/",
+        "resourceTitle": "Figma Best Practices",
+        "resourceType": ["Blog"],
+        "authors": ["Figma"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Figma"],
+        "reviewedDates": []
+    },
+    "387": {
+        "resourceLink": "https://medium.com/@onepixelout/how-to-nail-a-whiteboard-design-challenge-ba909eee9d5f",
+        "resourceTitle": "10 Tips for Your Next Whiteboard Design Challenge",
+        "resourceType": ["Blog"],
+        "authors": ["Eleanor McKenna"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Whiteboard"],
+        "reviewedDates": []
+    },
+    "386": {
+        "resourceLink": "https://uxplanet.org/how-to-get-survey-responses-for-free-f5a839690fc",
+        "resourceTitle": "How to get survey responses for free",
+        "resourceType": ["Blog"],
+        "authors": ["Tzeying", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research", "Surveys", "Survey recruitment"],
+        "reviewedDates": []
+    },
+    "385": {
+        "resourceLink": "https://zapier.com/blog/webhook-vs-api/",
+        "resourceTitle": "Webhook vs. API: differences (and when to use each)",
+        "resourceType": ["Blog"],
+        "authors": [" Luke Strauss", "Zapier"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["APIs", "Webhooks"],
+        "reviewedDates": []
+    },
+    "384": {
+        "resourceLink": "https://www.nngroup.com/articles/journey-mapping-how/",
+        "resourceTitle": "How Practitioners Create Journey Maps: Typical Uses, Roles, and Methods",
+        "resourceType": ["Blog"],
+        "authors": ["Kate Kaplan", "NNgroup"],
+        "notes": {
+                    "description": "340+ companies surveyed on their approach to journey-mapping",
+                    "bulletPoints": ["Customer-journey maps visualize a user’s journey towards a goal, usually over time and across channels.", "Start by compiling a series of user actions into a timeline", "Fleshed out with user thoughts and emotions", "Used to align stakeholders on the holistic experience and identify opportunities for optimizing", "Evaluate current-state, envision future-state.", "Research or assumption/hypothesis first", "Who is this journey map about? Personas are a good coupling artifact", "Journey phases organize smaller groups of actions that can be separate maps."]
+                },
+        "category": ["UX"],
+        "tags": ["Journey maps"],
+        "reviewedDates": [["01", "2023"]]
+    },
+    "383": {
+        "resourceLink": "https://www.youtube.com/watch?v=6pTjSgWYcDA",
+        "resourceTitle": "Timeboxing: 12 Tips To Supercharge Your Productivity",
+        "resourceType": ["Video"],
+        "authors": ["Daylite Small Business"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Timeboxing"],
+        "reviewedDates": []
+    },
+    "382": {
+        "resourceLink": "https://codepen.io/2022/popular/pens",
+        "resourceTitle": "Codepen - the most hearted of 2022",
+        "resourceType": ["Blog"],
+        "authors": ["Codepen"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["CSS"],
+        "reviewedDates": []
+    },
+    "381": {
+        "resourceLink": "https://medium.com/glassdoor-design/nailing-the-portfolio-review-cd226a37e4e5",
+        "resourceTitle": "Nailing the Portfolio Review",
+        "resourceType": ["Blog"],
+        "authors": ["Tami Evnin", "Glassdoor Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"],
+        "reviewedDates": []
+    },
+    "380": {
+        "resourceLink": "https://web.dev/offline-ux-design-guidelines/",
+        "resourceTitle": "Offline UX design guidelines",
+        "resourceType": ["Blog"],
+        "authors": ["Mustafa Kurtuldu", "Thomas Steiner"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Offline"],
+        "reviewedDates": []
+    },
+    "379": {
+        "resourceLink": "https://implicit.harvard.edu/implicit/takeatest.html",
+        "resourceTitle": "Project Implicit",
+        "resourceType": ["Tool"],
+        "authors": ["Harvard University"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Cognitive bias"],
+        "reviewedDates": []
+    },
+    "378": {
+        "resourceLink": "https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a",
+        "resourceTitle": "Overcoming Cognitive Bias in User Research",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Kiryk", "NPR"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research", "Cognitive bias"],
+        "reviewedDates": []
+    },
+    "377": {
+        "resourceLink": "https://www.nngroup.com/articles/which-ux-research-methods/",
+        "resourceTitle": "When to Use Which User-Experience Research Methods",
+        "resourceType": ["Blog"],
+        "authors": [" Christian Rohrer", "NNgroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": [],
+        "reviewedDates": []
+    },
+    "376": {
+        "resourceLink": "https://www.formpl.us/blog/secondary-research",
+        "resourceTitle": "What is Secondary Research? Methods and Examples",
+        "resourceType": ["Blog"],
+        "authors": ["FormPlus"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Secondary research"],
+        "reviewedDates": []
+    },
+    "375": {
+        "resourceLink": "https://www.nngroup.com/articles/usability-testing-101/",
+        "resourceTitle": "Usability Testing 101",
+        "resourceType": ["Blog"],
+        "authors": ["Kate Moran", "NNgroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Usability testing", "Primary research", "Qualitative research"],
+        "reviewedDates": []
+    },
+    "374": {
+        "resourceLink": "https://www.usability.gov/how-to-and-tools/methods/online-surveys.html",
+        "resourceTitle": "Online Surveys",
+        "resourceType": ["Blog"],
+        "authors": ["usability.gov"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Surveys", "Primary research", "Qualitative research", "Quantitative research"],
+        "reviewedDates": []
+    },
+    "373": {
+        "resourceLink": "https://www.nngroup.com/articles/user-interviews/",
+        "resourceTitle": "User Interviews: How, When, and Why to Conduct Them",
+        "resourceType": ["Blog"],
+        "authors": ["Kara Pernice", "NNgroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User interviews", "Primary research", "Qualitative research"],
+        "reviewedDates": []
+    },
+    "372": {
+        "resourceLink": "https://jkebertz.medium.com/the-art-of-writing-amazing-rest-apis-dc4c4100478d",
+        "resourceTitle": "The Art of Writing Amazing REST APIs",
+        "resourceType": ["Blog"],
+        "authors": ["Joy Ebertz"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["APIs", "REST"],
+        "reviewedDates": []
+    },
+    "371": {
+        "resourceLink": "https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09",
+        "resourceTitle": "What’s a Design Sprint and why is it important?",
+        "resourceType": ["Blog"],
+        "authors": ["Gloria Lo", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"],
+        "reviewedDates": []
+    },
+    "370": {
+        "resourceLink": "https://designsprintkit.withgoogle.com",
+        "resourceTitle": "Google Design Sprint Kit",
+        "resourceType": ["Documentation"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"],
+        "reviewedDates": []
+    },
+    "369": {
+        "resourceLink": "https://www.youtube.com/playlist?list=PL590L5WQmH8dvW6kLjd5jRDN0IiCJHLZZ",
+        "resourceTitle": "Google Accessibility",
+        "resourceType": ["Video"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"],
+        "reviewedDates": []
+    },
+    "368": {
+        "resourceLink": "https://www.interaction-design.org/literature/topics/design-thinking",
+        "resourceTitle": "Design Thinking",
+        "resourceType": ["Blog"],
+        "authors": ["Interaction Design Foundation"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "Framework"],
+        "reviewedDates": []
+    },
+    "367": {
+        "resourceLink": "https://xd.adobe.com/ideas/guides/ux-design-process-steps/",
+        "resourceTitle": "The UX Design Process: Everything You Need to Know",
+        "resourceType": ["Blog"],
+        "authors": ["Nick Babich", "Adobe"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "Framework"],
+        "reviewedDates": []
+    },
+    "366": {
+        "resourceLink": "https://www.youtube.com/watch?v=Tvu34s8iMZw",
+        "resourceTitle": "The Design Thinking Process - An Introduction",
+        "resourceType": ["Video"],
+        "authors": ["CareerFoundry"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "Framework"],
+        "reviewedDates": []
+    },
+    "365": {
+        "resourceLink": "https://www.youtube.com/watch?v=6lmvCqvmjfE",
+        "resourceTitle": "Design Thinking 101",
+        "resourceType": ["Video"],
+        "authors": ["Sarah Gibbons", "NNgroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "Framework"],
+        "reviewedDates": []
+    },
+    "364": {
+        "resourceLink": "https://danmall.com/posts/what-is-a-design-system",
+        "resourceTitle": "What is a Design System?",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Mall"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"],
+        "reviewedDates": []
+    },
     "363": {
         "resourceLink": "https://didoo.medium.com/measuring-the-impact-of-a-design-system-7f925af090f7",
         "resourceTitle": "Measuring the Impact of a Design System",
