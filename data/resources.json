@@ -13,6 +13,370 @@
         "tags": ["tag 1", "tag 2"],
         "reviewedDates": [["MM", "YYYY"]]
     },
+    "427": {
+        "resourceLink": "https://www.userzoom.com/ux-blog/career-advice-for-ux-designers-from-aarron-walter/",
+        "resourceTitle": "Career advice for UX designers, from Aarron Walter",
+        "resourceType": ["Blog"],
+        "authors": ["Aarron Walter", "User Zoom"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": [""],
+        "reviewedDates": []
+    },
+    "426": {
+        "resourceLink": "https://medium.com/@h_locke/accessibility-tools-and-plugins-for-designers-d47e5713ec91",
+        "resourceTitle": "Simple accessibility tools for UX designers",
+        "resourceType": ["Blog"],
+        "authors": ["H Locke"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": [],
+        "reviewedDates": []
+    },
+    "425": {
+        "resourceLink": "http://matthew.wagerfield.com/parallax/",
+        "resourceTitle": "Parallax.js",
+        "resourceType": ["Library"],
+        "authors": ["Matthew Wagerfield"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Parallax"],
+        "reviewedDates": []
+    },
+    "424": {
+        "resourceLink": "https://demo.patternlab.io/",
+        "resourceTitle": "Patternlab.io",
+        "resourceType": ["Documentation"],
+        "authors": ["PatternLab"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Pattern library"],
+        "reviewedDates": []
+    },
+    "423": {
+        "resourceLink": "https://lukejamestaylor.com/",
+        "resourceTitle": "Luke James Taylor portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Luke James Taylor"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Portfolio"],
+        "reviewedDates": []
+    },
+    "422": {
+        "resourceLink": "https://williamngan.github.io/pt/",
+        "resourceTitle": "Pt.js",
+        "resourceType": ["Library"],
+        "authors": ["William Ngan"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "421": {
+        "resourceLink": "https://brm.io",
+        "resourceTitle": "Liam B portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Liam B"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "420": {
+        "resourceLink": "https://hakim.se",
+        "resourceTitle": "Hakim El Hattab portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Hakim El Hattab"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "419": {
+        "resourceLink": "https://practicaltypography.com",
+        "resourceTitle": "But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy",
+        "resourceType": ["Documentation"],
+        "authors": ["Matthew Butterick"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Typography"],
+        "tags": [""],
+        "reviewedDates": []
+    },
+    "418": {
+        "resourceLink": "https://designmodo.github.io/Flat-UI/",
+        "resourceTitle": "Flat UI",
+        "resourceType": ["Documentation"],
+        "authors": ["designmodo"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Pattern library"],
+        "reviewedDates": []
+    },
+    "417": {
+        "resourceLink": "https://variancecharts.com/",
+        "resourceTitle": "Variance charts",
+        "resourceType": ["Tool"],
+        "authors": ["General Reactives"],
+        "notes": {
+                    "description": "Build powerful data visualizations for the web. Without writing JavaScript.",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "416": {
+        "resourceLink": "http://superherojs.com/",
+        "resourceTitle": "Superhero.js",
+        "resourceType": ["Blob"],
+        "authors": ["Superhero.js"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "415": {
+        "resourceLink": "https://underscorejs.org/",
+        "resourceTitle": "Underscore.js",
+        "resourceType": ["Library"],
+        "authors": ["Underscore.js"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"],
+        "reviewedDates": []
+    },
+    "414": {
+        "resourceLink": "https://daverupert.com/2018/08/a11y-nutrition-cards/",
+        "resourceTitle": "A11Y Nutrition Cards",
+        "resourceType": ["Blog"],
+        "authors": ["Dave Rupert"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": [""],
+        "reviewedDates": []
+    },
+    "413": {
+        "resourceLink": "https://www.andybudd.com/archives/2022/04/where-to-find-the-best-design-talent",
+        "resourceTitle": "Where To Find The Best Design Talent",
+        "resourceType": ["Blog"],
+        "authors": ["Andy Budd"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Recruitment"],
+        "reviewedDates": []
+    },
+    "412": {
+        "resourceLink": "https://markboulton.co.uk/journal/the-problem-with-ux-ui-portfolios/",
+        "resourceTitle": "The problem with UX/UI portfolios",
+        "resourceType": ["Blog"],
+        "authors": ["Mark Boulton"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Portfolio"],
+        "reviewedDates": []
+    },
+    "411": {
+        "resourceLink": "https://www.youtube.com/channel/UClGSSyDNPuqaRMUyPru1w4Q",
+        "resourceTitle": "Conversions @ Google",
+        "resourceType": ["Video"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Channel"],
+        "reviewedDates": []
+    },
+    "410": {
+        "resourceLink": "https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw",
+        "resourceTitle": "UX Mastery",
+        "resourceType": ["Video"],
+        "authors": ["UX Mastery"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "reviewedDates": []
+    },
+    "409": {
+        "resourceLink": "https://codeguide.co",
+        "resourceTitle": "Code Guide",
+        "resourceType": ["Library"],
+        "authors": ["Mark Otto"],
+        "notes": {
+                    "description": "Standards for developing consistent, flexible, and sustainable HTML and CSS.",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Web components"],
+        "reviewedDates": []
+    },
+    "408": {
+        "resourceLink": "https://codyhouse.co",
+        "resourceTitle": "codyhouse.co",
+        "resourceType": ["Library"],
+        "authors": ["codyhouse"],
+        "notes": {
+                    "description": "JS components compatible with any CSS framework",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Web components"],
+        "reviewedDates": []
+    },
+    "407": {
+        "resourceLink": "http://www.unheap.com",
+        "resourceTitle": "Unheap",
+        "resourceType": ["Library"],
+        "authors": ["Unheap"],
+        "notes": {
+                    "description": "A tidy repository of javascript plugins",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["JS plugins"],
+        "reviewedDates": []
+    },
+    "406": {
+        "resourceLink": "https://medium.com/@mikeatherton/ux-is-ui-105460807734",
+        "resourceTitle": "UX is UI",
+        "resourceType": ["Blog"],
+        "authors": ["Mike Atherton"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": [],
+        "reviewedDates": []
+    },
+    "405": {
+        "resourceLink": "https://alistapart.com/article/object-oriented-ux/",
+        "resourceTitle": "Object-Oriented UX",
+        "resourceType": ["Blog"],
+        "authors": ["Sophia V. Prater", "A List Apart"],
+        "notes": {
+                    "description": "OOUX framework - case study of CNN election-night feed",
+                    "bulletPoints": ["How was I supposed to design a cog in a machine without first roughing out the design of the machine?", "Positioning vs prioritization", "Object mapping", "Mobile first, content first, and objects first", "Mobile first simply means forced prioritization; layout comes later", "Start with a single column “design”/ list - forced to prioritize content, functionality with sequential ranking", "User’s mental model matches real-world: products, tutorials, locations; not digital-world actions: search, filter, compare, checkout", "For design and eng: procedural vs object-oriented", "Model content before diving into wireframes and interaction design", "Step 1: Extract objects from goals - highlight the nouns", "Step 2: Define core content of objects - macro building blocks of our system to granular elements; core content and metadata", "Step 3: Nest objects for cross-linking. Consider ways that each of the other objects can “nest” inside that given object - defines relationships", "Step 4: Forced ranking - reorder the elements, from most to least important"]
+                },
+        "category": ["UX"],
+        "tags": ["OOUX", "Object mapping", "Mobile first", "Content modelling", "Data architecture", "Whiteboarding", "Case study", "Storytelling"],
+        "reviewedDates": [["01", "2022"]]
+    },
+    "404": {
+        "resourceLink": "https://uxdesign.cc/10-tips-for-designing-accessible-forms-a016dae8e9aa",
+        "resourceTitle": "Designing accessible forms: the 10 foundational rules",
+        "resourceType": ["Blog"],
+        "authors": ["Tyler Hawkins", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"],
+        "reviewedDates": []
+    },
+    "403": {
+        "resourceLink": "https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe",
+        "resourceTitle": "A 4-step process for testing the accessibility of your designs",
+        "resourceType": ["Blog"],
+        "authors": ["Justine Win", "Shopify"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"],
+        "reviewedDates": []
+    },
+    "402": {
+        "resourceLink": "https://slack.engineering/how-to-fail-at-accessibility/",
+        "resourceTitle": "How to Fail at Accessibility",
+        "resourceType": ["Blog"],
+        "authors": ["Trish Ang", "Slack"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"],
+        "reviewedDates": []
+    },
+    "401": {
+        "resourceLink": "https://medium.com/thinking-design/a-guide-to-experience-mapping-for-ux-design-71a40feaf06f",
+        "resourceTitle": "A Guide to Experience Mapping for UX Design",
+        "resourceType": ["Blog"],
+        "authors": ["Justin Morales", "Thinking Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Experience Mapping"],
+        "reviewedDates": []
+    },
+    "400": {
+        "resourceLink": "https://alistapart.com/article/ooux-a-foundation-for-interaction-design/",
+        "resourceTitle": "OOUX: A Foundation for Interaction Design",
+        "resourceType": ["Blog"],
+        "authors": ["Sophia V. Prater", "A List Apart"],
+        "notes": {
+                    "description": "Design objects before actions",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["OOUX", "Artifacts"],
+        "reviewedDates": []
+    },
     "399": {
         "resourceLink": "https://frontarm.com/courses/async-javascript/promises/why-async/",
         "resourceTitle": "Why async: JavaScript and the real world",
