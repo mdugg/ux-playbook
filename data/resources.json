@@ -13,6 +13,97 @@
         "tags": ["tag 1", "tag 2"],
         "reviewedDates": [["MM", "YYYY"]]
     },
+    "434": {
+        "resourceLink": "https://gestalt.pinterest.systems/home",
+        "resourceTitle": "Gestalt is Pinterest’s design system",
+        "resourceType": ["Library"],
+        "authors": ["Pinterest"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Design System"],
+        "reviewedDates": []
+    },
+    "433": {
+        "resourceLink": "https://www.designsystems.com/how-pinterests-design-systems-team-measures-adoption/",
+        "resourceTitle": "How Pinterest’s design systems team measures adoption",
+        "resourceType": ["Blog"],
+        "authors": ["Ravi Lingineni", "Figma"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System", "Figma API"],
+        "reviewedDates": []
+    },
+    "432": {
+        "resourceLink": "https://www.designsystems.com/the-future-of-design-systems-is-complicated/",
+        "resourceTitle": "The future of design systems is complicated",
+        "resourceType": ["Blog"],
+        "authors": ["Figma"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"],
+        "reviewedDates": []
+    },
+    "431": {
+        "resourceLink": "https://pimpmytype.com/hierarchy/",
+        "resourceTitle": "Typographic Hierarchy in Print, Web & App Design",
+        "resourceType": ["Blog"],
+        "authors": ["Oliver Schöndorfer", "Pimp My Type"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"],
+        "reviewedDates": []
+    },
+    "430": {
+        "resourceLink": "https://www.modernillustration.org",
+        "resourceTitle": "Modern Illustration",
+        "resourceType": ["Library"],
+        "authors": ["Zara Picken"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Illustration"],
+        "reviewedDates": []
+    },
+    "429": {
+        "resourceLink": "https://ishadeed.com/article/responsive-design/",
+        "resourceTitle": "The Guide To Responsive Design In 2023 and Beyond",
+        "resourceType": ["Blog"],
+        "authors": ["Ahmad Shadeed"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Responsive"],
+        "reviewedDates": []
+    },
+    "428": {
+        "resourceLink": "https://matthewstrom.com/writing/platform-design/",
+        "resourceTitle": "What it means to design a platform",
+        "resourceType": ["Blog"],
+        "authors": ["Matthew Ström"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": [""],
+        "reviewedDates": []
+    },
     "427": {
         "resourceLink": "https://www.userzoom.com/ux-blog/career-advice-for-ux-designers-from-aarron-walter/",
         "resourceTitle": "Career advice for UX designers, from Aarron Walter",
@@ -119,8 +210,8 @@
     },
     "419": {
         "resourceLink": "https://practicaltypography.com",
-        "resourceTitle": "But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy",
-        "resourceType": ["Documentation"],
+        "resourceTitle": "Butterick's Practical Typography",
+        "resourceType": ["Documentation "],
         "authors": ["Matthew Butterick"],
         "notes": {
                     "description": "",
@@ -409,12 +500,12 @@
         "resourceType": ["Blog"],
         "authors": ["Mike Yi", "Mel Restori", "Chart.io"],
         "notes": {
-                    "description": "",
-                    "bulletPoints": []
+                    "description": "Summarizing large amounts of data efficiently in a graphical format.",
+                    "bulletPoints": ["Common roles: change over time; part-to-whole; distribution; comparing between groups; relationships between variables; geographical data", "Change over time: bar, line, box plot", "Part-to-whole: pie/donut, stacked bar, stacked area, hierarchy", "Distribution: bar, histogram, box plot, violin plot", "Comparing: bar, dot, line, grouped, violin plots, box plots, funnel, bullet", "Relationshps: scatter plot, bubble, connected scatter, dual-axis, heatmap", "Geographical: choropleth, cartograms"]
                 },
         "category": ["UI"],
         "tags": ["Data viz"],
-        "reviewedDates": []
+        "reviewedDates": [["Jan", "2023"]]
     },
     "396": {
         "resourceLink": "https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/",
