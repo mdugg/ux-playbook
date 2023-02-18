@@ -1,6 +1,6 @@
 
 {
-    "schema v2.1.0": {
+    "schema v2.2.0": {
         "resourceLink": "url",
         "resourceTitle": "Title",
         "resourceType": ["Blog", "Video", "Course", "Documentation", "Library", "Tool"],
@@ -10,8 +10,111 @@
                     "bulletPoints": ["bullet 1", "bullet point 2"]
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
-        "tags": ["tag 1", "tag 2"],
-        "reviewedDates": [["MM", "YYYY"]]
+        "tags": ["tag 1", "tag 2"]
+    },
+    "442": {
+        "resourceLink": "https://typetrials.com",
+        "resourceTitle": "Type Trials",
+        "resourceType": ["Tool"],
+        "authors": ["Pangram"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Foundry", "Fonts"],
+        "reviewedDates": []
+    },
+    "441": {
+        "resourceLink": "https://codepen.io/mikemai2awesome/pen/qBygNwq",
+        "resourceTitle": "Typography Manual by Mike Mai",
+        "resourceType": ["Blog"],
+        "authors": ["Mike Mai"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"],
+        "reviewedDates": []
+    },
+    "440": {
+        "resourceLink": "https://dev.to/oxharris/rethinking-the-modern-web-5cn1",
+        "resourceTitle": "Rethinking the Modern Web",
+        "resourceType": ["Blog"],
+        "authors": ["Oxford Harrison"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript", "Frameworks", "Performance"],
+        "reviewedDates": []
+    },
+    "439": {
+        "resourceLink": "https://andy-bell.co.uk/my-favourite-3-lines-of-css/",
+        "resourceTitle": "My favourite 3 lines of CSS",
+        "resourceType": ["Blog"],
+        "authors": ["Andy Bell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Agency"],
+        "reviewedDates": []
+    },
+    "438": {
+        "resourceLink": "https://evilmartians.com",
+        "resourceTitle": "Evil Martians",
+        "resourceType": ["Blog"],
+        "authors": ["Gustavo Pezzi"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Agency"],
+        "reviewedDates": []
+    },
+    "437": {
+        "resourceLink": "https://pikuma.com/blog/math-for-game-developers",
+        "resourceTitle": "Math for game developers",
+        "resourceType": ["Blog"],
+        "authors": ["Gustavo Pezzi"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript"],
+        "reviewedDates": []
+    },
+    "436": {
+        "resourceLink": "https://scrollyvideo.js.org",
+        "resourceTitle": "ScrollyVideo.js",
+        "resourceType": ["Library"],
+        "authors": ["Daniel Kao"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Video", "JavaScript"],
+        "reviewedDates": []
+    },
+    "435": {
+        "resourceLink": "https://anthonyhobday.com/sideprojects/saferules/",
+        "resourceTitle": "Visual design rules you can safely follow every time",
+        "resourceType": ["Blog"],
+        "authors": ["Anthony Hobday"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design principles", "Heuristics"],
+        "reviewedDates": []
     },
     "434": {
         "resourceLink": "https://gestalt.pinterest.systems/home",
