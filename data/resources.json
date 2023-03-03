@@ -9,8 +9,176 @@
                     "description": "Summary",
                     "bulletPoints": ["bullet 1", "bullet point 2"]
                 },
-        "category": ["Product", "UX", "UI", "UX Engineering", "Typography", "Design Ops", "Career", "Accessibility"],
+        "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
         "tags": ["tag 1", "tag 2"]
+    },
+    "456": {
+        "resourceLink": "https://medium.com/nightingale/how-to-choose-the-colors-for-your-data-visualizations-50b2557fa335",
+        "resourceTitle": "How to Choose Colors for Your Data Visualizations",
+        "resourceType": ["Blog"],
+        "authors": ["Michael Yi", "Nightingale"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palettes"]
+    },
+    "455": {
+        "resourceLink": "https://zachgrosser.medium.com/accessible-colors-for-data-visualization-2ad64ac4ee7e",
+        "resourceTitle": "Accessible Colors for Data Visualization",
+        "resourceType": ["Blog"],
+        "authors": ["Zach Grosser"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": ["DataViz", "Color palettes"]
+    },
+    "454": {
+        "resourceLink": "https://www.sigmacomputing.com/blog/7-best-practices-for-using-color-in-data-visualizations",
+        "resourceTitle": "7 Best Practices for Using Color in Data Visualizations",
+        "resourceType": ["Blog"],
+        "authors": ["Sigma"],
+        "notes": {
+                    "description": "Why color in DataViz matters - speed to insight",
+                    "bulletPoints": ["Help viewers quickly digest information and remember it", "Understand the meaning, impact, and most important details of the information presented", "Used poorly can distract from the story, confusion", "Do: create associations, show continuous data, show comparison/contrast, make important information stand out", "Don't: colors not easily distinguishable (7 or fewer), use too many colors", " Use common conventions, trigger associations and streamline understanding, eg orange for safety, country colors", "Single color in gradients for amounts in continuous data", "Qualitative - categorical variables; unrelated to one another", "Sequential —  variety of saturations or gradient; ordered, numeric values, eg dollar amounts over time.", "Diverging — spectrum, eg cold to hot; neutral color in the center and usually light to dark on either side"]
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palettes"]
+    },
+    "453": {
+        "resourceLink": "https://uxdesign.cc/data-visualization-for-color-accessibility-8a30ce25d90b",
+        "resourceTitle": "Data visualization for color accessibility",
+        "resourceType": ["Blog"],
+        "authors": ["UX Collective", "Artur"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data visualization", "Color"]
+    },
+    "452": {
+        "resourceLink": "https://wise.design/foundations/",
+        "resourceTitle": "Wise Design System",
+        "resourceType": ["Documentation"],
+        "authors": ["Wise"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Design System"]
+    },
+    "451": {
+        "resourceLink": "https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+        "resourceTitle": "A Guide To Accessible Form Validation",
+        "resourceType": ["Blog"],
+        "authors": ["Sandrina Pereira", "Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": ["Forms"]
+    },
+    "450": {
+        "resourceLink": "https://www.atlassian.com/agile/project-management/user-stories",
+        "resourceTitle": "User stories with examples and a template",
+        "resourceType": ["Blog"],
+        "authors": ["Atlassian"],
+        "notes": {
+                    "description": "User stories are development tasks often expressed as 'persona + need + purpose.' ",
+                    "bulletPoints": ["Template: 'As a [persona], I [want to], [so that].' ", "Why build this feature; end goals", "Informal, general explanation of a feature; putting people first", "Keep end users at the center of the conversation", "Non-technical language providing context for the development team", "Requirements and functionality are later discussed by team; technical and creative", "Consider: Definition of 'done'; Outline subtasks or tasks; User personas; Ordered Steps; Listen to feedback; Time", "As a [persona]: name, not just job title", "'Wants to': describe intent, implementation free, no UI", "'So that': desire to do something"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Agile", "User stories"]
+    },
+    "449": {
+        "resourceLink": "https://www.freecodecamp.org/news/solid-design-principles-in-software-development/",
+        "resourceTitle": "SOLID Design Principles in Software Development",
+        "resourceType": ["Blog"],
+        "authors": ["Kolade Chris", "FreeCodeCamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Design patterns", "Software"]
+    },
+    "448": {
+        "resourceLink": "https://uxdesign.cc/colouring-data-visualizations-89c69e21ce20",
+        "resourceTitle": "Colouring data visualizations",
+        "resourceType": ["Blog"],
+        "authors": ["Cate Wilcox", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"]
+    },
+    "447": {
+        "resourceLink": "https://medium.com/@lucapetriconi/dashboard-design-how-to-make-better-dashboards-for-data-analysis-and-data-science-5f62a8610f10",
+        "resourceTitle": "Dashboard Design — How to Make Better Dashboards for Data Analysis and Data Science",
+        "resourceType": ["Blog"],
+        "authors": ["Luca Petriconi"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"]
+    },
+    "446": {
+        "resourceLink": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+        "resourceTitle": "Writing Javascript without a build system",
+        "resourceType": ["Blog"],
+        "authors": ["Julia Evans"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"]
+    },
+    "445": {
+        "resourceLink": "https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/",
+        "resourceTitle": "How to Choose Colors for Data Visualizations",
+        "resourceType": ["Blog"],
+        "authors": ["Mike Yi", "Chartio"],
+        "notes": {
+                    "description": "Color will highlight the story to be told",
+                    "bulletPoints": ["Three major types of color palette: Qualitative; Sequential; Diverging", "<strong>Qualitative:</strong> the variable is categorical. Categorical variables take on distinct labels without inherent ordering, like country, state, race, gender", "Qualitative colors need to be distinct;  rule of thumb, limit to ten or fewer colors", "Bundle smaller categories into 'other'", "Adjust lightness and saturation for differences, but not too different as some colors will communicate greater importance", "<strong>Sequential:</strong>  variable is numeric or has ordered values; assigned in continuum, usually based on lightness and hue", "Lower numbers are usually lighter, in light backgrounds. Use reverse for dark backgrounds, higher numbers lighter and brighter", "<strong>Diverging:</strong> can span between 2 hues - warm to cool, with a meaningful central value like zero", "Discrete vs continuous - clear blocks vs smooth gradient, former is clearer and used more", "Avoid unnecessary color and be consistent across charts when same entity", "Use color conventions like with sports teams or political parties", "Use grey to reduce importance and create focus", "Tools: Coblis Color blindness simulator; colorbrewer2.org; learnui.design color picker; Chroma.js; color-thief (inspiration from images); Viz Palette"]
+                },
+        "category": ["UI"],
+        "tags": ["Data Visualization"]
+    },
+    "444": {
+        "resourceLink": "https://www.freecodecamp.org/news/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9/",
+        "resourceTitle": "How Recursion Works — Explained with Flowcharts and a Video",
+        "resourceType": ["Blog"],
+        "authors": ["Beau Carnes", "FreeCodeCamp"],
+        "notes": {
+                    "description": "In order to understand recursion, one must first understand recursion.",
+                    "bulletPoints": ["A recursive function is one that calls itself; recursion is where a function calls itself", "Recursive approach can be clearer to read than loop sytax", "No performance benefit to using recursion, iterative loops can be faster.", "A lot of algorithms use recursion", "Beware of infinite loops; function keeps calling itself", "Always two parts: the recursive case and the base case", "The recursive case: function calls itself; base case: when the function stops calling itself", "Recursive functions use 'the call stack.'"]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript", "Recursion", "Algorithm", "Iteration"]
+    },
+    "443": {
+        "resourceLink": "https://github.com/readme/featured/css-future",
+        "resourceTitle": "The modern web’s underrated powerhouse",
+        "resourceType": ["Blog"],
+        "authors": ["Klint Finley", "The ReadMe Project"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["CSS"]
     },
     "442": {
         "resourceLink": "https://typetrials.com",
@@ -22,8 +190,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Typography", "Foundry", "Fonts"],
-        "reviewedDates": []
+        "tags": ["Typography", "Foundry", "Fonts"]
     },
     "441": {
         "resourceLink": "https://codepen.io/mikemai2awesome/pen/qBygNwq",
@@ -35,8 +202,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Typography"],
-        "reviewedDates": []
+        "tags": ["Typography"]
     },
     "440": {
         "resourceLink": "https://dev.to/oxharris/rethinking-the-modern-web-5cn1",
@@ -48,8 +214,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Javascript", "Frameworks", "Performance"],
-        "reviewedDates": []
+        "tags": ["Javascript", "Frameworks", "Performance"]
     },
     "439": {
         "resourceLink": "https://andy-bell.co.uk/my-favourite-3-lines-of-css/",
