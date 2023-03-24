@@ -12,6 +12,246 @@
         "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
         "tags": ["tag 1", "tag 2"]
     },
+    "476": {
+        "resourceLink": "https://www.canva.com/colors/color-wheel/",
+        "resourceTitle": "Canva Color wheel",
+        "resourceType": ["Tool"],
+        "authors": ["Canva"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Color theory", "Color palette"]
+    },    
+    "475": {
+        "resourceLink": "https://www.heavy.ai/blog/12-color-palettes-for-telling-better-stories-with-your-data",
+        "resourceTitle": "12 Data Visualization Color Palettes for Telling Better Stories with Your Data",
+        "resourceType": ["Blog"],
+        "authors": ["Antonio Cotroneo"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palette"]
+    },    
+    "474": {
+        "resourceLink": "https://performinganalytics.com/6-chart-color-schemes-to-make-your-dashboards-beautiful-update-sets/",
+        "resourceTitle": "6 Chart Color Schemes To Make Your Dashboards More Beautiful",
+        "resourceType": ["Blog"],
+        "authors": ["Niklas Engrenmarch"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palette"]
+    },    
+    "473": {
+        "resourceLink": "https://type.land",
+        "resourceTitle": "Typeland",
+        "resourceType": ["Library"],
+        "authors": ["Typeland Studio"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Fonts"]
+    },    
+    "472": {
+        "resourceLink": "https://whatdoesthiscodedo.com",
+        "resourceTitle": "What does this code do ?",
+        "resourceType": ["Tool"],
+        "authors": ["@TheBuilderJR"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["ChatGPT", "AI"]
+    },    
+    "471": {
+        "resourceLink": "https://uxplanet.org/read-this-before-your-next-ux-project-8a755bc25958 ",
+        "resourceTitle": "How to improve your design with words",
+        "resourceType": ["Blog"],
+        "authors": ["Olimpia U.", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["UX content"]
+    },    
+    "470": {
+        "resourceLink": "https://www.nngroup.com/articles/strategy-study-guide/",
+        "resourceTitle": "UX Strategy: Study Guide",
+        "resourceType": ["Blog"],
+        "authors": ["Sarah Gibbons", "Anna Kaley", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["UX strategy"]
+    },    
+    "469": {
+        "resourceLink": "https://www.smashingmagazine.com/2023/03/free-fonts-interface-designers",
+        "resourceTitle": "Free Fonts For Interface Designers",
+        "resourceType": ["Blog"],
+        "authors": ["Cosima Mielke", "Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Fonts"]
+    },    
+    "468": {
+        "resourceLink": "https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7",
+        "resourceTitle": "Git fundamentals, a complete guide",
+        "resourceType": ["Blog"],
+        "authors": ["Leandro Proença", "dev.to"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Git"]
+    },    
+    "467": {
+        "resourceLink": "https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i",
+        "resourceTitle": "JavaScript for Beginners: Data Structures",
+        "resourceType": ["Blog"],
+        "authors": ["Ekaterine Mitagvaria", "dev.to"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript", "Objects", "Hash tables", "Stacks"]
+    },    
+    "466": {
+        "resourceLink": "https://zeroheight.com/blog/how-we-document-the-design-system-documentation-survey/",
+        "resourceTitle": "How We Document: The Design System Documentation Survey",
+        "resourceType": ["Blog"],
+        "authors": ["Luke Murphy", "Zero Height"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"]
+    },    
+    "465": {
+        "resourceLink": "https://the-brandidentity.com/directory",
+        "resourceTitle": "The–Brand Identity",
+        "resourceType": ["Documentation"],
+        "authors": ["T–BI"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design", "Typography", "Creative", "Photography"]
+    },    
+    "464": {
+        "resourceLink": "https://datavizproject.com/",
+        "resourceTitle": "Data Viz Project",
+        "resourceType": ["Documentation"],
+        "authors": ["Ferdio"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["DataViz"]
+    },    
+    "463": {
+        "resourceLink": "https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+        "resourceTitle": "A Guide To Accessible Form Validation",
+        "resourceType": ["Blog"],
+        "authors": ["Sandrina Pereira", "Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Accessibility"],
+        "tags": ["Forms"]
+    },    
+    "462": {
+        "resourceLink": "https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj",
+        "resourceTitle": "All about Promises in JavaScript",
+        "resourceType": ["Blog"],
+        "authors": ["Code of Relevancy"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JavaScript", "Promises"]
+    },    
+    "461": {
+        "resourceLink": "https://www.iconhunt.site",
+        "resourceTitle": "Icon Hunt",
+        "resourceType": ["Library"],
+        "authors": ["Eirik Madland"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["icons"]
+    },    
+    "460": {
+        "resourceLink": "https://frankrausch.com/ios-navigation",
+        "resourceTitle": "Modern iOS Navigation Patterns",
+        "resourceType": ["Blog"],
+        "authors": ["Frank Rausch"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["iOS", "Patterns"]
+    },    
+    "459": {
+        "resourceLink": "https://medium.com/myplanet-musings/strategic-thinking-for-designers-3dad02a3d54a",
+        "resourceTitle": "Strategic Thinking for Designers",
+        "resourceType": ["Blog"],
+        "authors": ["Kazden Cattapan", "Orium Insights"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Strategy", "Framework"]
+    },    
+    "458": {
+        "resourceLink": "https://www.learnui.design/tools/data-color-picker.html",
+        "resourceTitle": "Data Color Picker",
+        "resourceType": ["Tool"],
+        "authors": ["Learn UI Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palettes"]
+    },    
+    "457": {
+        "resourceLink": "https://spectrum.adobe.com/page/color-for-data-visualization/",
+        "resourceTitle": "Color for data visualization",
+        "resourceType": ["Blog"],
+        "authors": ["Adobe"],
+        "notes": {
+                    "description": "Why color in DataViz matters - speed to insight",
+                    "bulletPoints": ["Help viewers quickly digest information and remember it", "Understand the meaning, impact, and most important details of the information presented", "Used poorly can distract from the story, confusion", "Do: create associations, show continuous data, show comparison/contrast, make important information stand out", " Use common conventions, trigger associations and streamline understanding, eg orange for safety, country colors", "Single color in gradients for amounts in continuous data", "Don't: colors not easily distinguishable (7 or fewer), use too many colors", "Qualitative - categorical variables; unrelated to one another", "Sequential —  variety of saturations or gradient; ordered, numeric values, eg dollar amounts over time.", "Diverging — spectrum, eg cold to hot; neutral color in the center and usually light to dark on either side"]
+                },
+        "category": ["UI"],
+        "tags": ["DataViz", "Color palettes"]
+    },    
     "456": {
         "resourceLink": "https://medium.com/nightingale/how-to-choose-the-colors-for-your-data-visualizations-50b2557fa335",
         "resourceTitle": "How to Choose Colors for Your Data Visualizations",
@@ -43,7 +283,7 @@
         "authors": ["Sigma"],
         "notes": {
                     "description": "Why color in DataViz matters - speed to insight",
-                    "bulletPoints": ["Help viewers quickly digest information and remember it", "Understand the meaning, impact, and most important details of the information presented", "Used poorly can distract from the story, confusion", "Do: create associations, show continuous data, show comparison/contrast, make important information stand out", "Don't: colors not easily distinguishable (7 or fewer), use too many colors", " Use common conventions, trigger associations and streamline understanding, eg orange for safety, country colors", "Single color in gradients for amounts in continuous data", "Qualitative - categorical variables; unrelated to one another", "Sequential —  variety of saturations or gradient; ordered, numeric values, eg dollar amounts over time.", "Diverging — spectrum, eg cold to hot; neutral color in the center and usually light to dark on either side"]
+                    "bulletPoints": ["Help viewers quickly digest information and remember it", "Understand the meaning, impact, and most important details of the information presented", "Used poorly can distract from the story, confusion", "Do: create associations, show continuous data, show comparison/contrast, make important information stand out", " Use common conventions, trigger associations and streamline understanding, eg orange for safety, country colors", "Single color in gradients for amounts in continuous data", "Don't: colors not easily distinguishable (7 or fewer), use too many colors", "Qualitative - categorical variables; unrelated to one another", "Sequential —  variety of saturations or gradient; ordered, numeric values, eg dollar amounts over time.", "Diverging — spectrum, eg cold to hot; neutral color in the center and usually light to dark on either side"]
                 },
         "category": ["UI"],
         "tags": ["DataViz", "Color palettes"]
