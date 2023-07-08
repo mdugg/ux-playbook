@@ -1,20 +1,7 @@
-// https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-// https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json
-// ../../data/resources.json
+// "https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
+// "../../data/resources.json"
 
-// async function populate() {
-// 	const requestURL =
-// 		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json";
-// 	const request = new Request(requestURL);
-// 	const response = await fetch(request);
-// 	const playbook = await response.json();
-
-// 	populatePlaybook(playbook);
-// }
-// (function populatePlaybook(data) {
-// 	console.log(data);
-// })();
-
+// GET MAIN RESOURCE
 new Promise((resolve, reject) => {
 	fetch(
 		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
@@ -25,38 +12,53 @@ new Promise((resolve, reject) => {
 		})
 		.catch((error) => reject(error));
 });
-const buildResultCard = (json) => {
-	const allResults = document.getElementById("searchResults");
-	allResults.innerHTML = Object.values(json)
-		.map((data) => {
-			return `
-				<li class="search-card">
 
-					<div class="search-card__content">
-						<ul class="search-card__categories">
-							<li>${data.category[0]}<li>
-						</ul>
-						<a class="search-card__link"
-							href="${data.resourceLink}" 
-							target="_blank">
-							${data.resourceTitle}
-						</a>
-						<div class="search-card__tag">
-							${data.resourceType}
+// MAIN RESULTS SECTION
+const buildResultCard = (json) => {
+	// count resources in the JSON db
+	let resourceCount = Object.entries(json);
+	let resourceCountEl = document.getElementById("resourceCount");
+	resourceCountEl.innerHTML += `${resourceCount.length}`;
+
+	// card
+	const allResults = document.getElementById("searchResults");
+	allResults.innerHTML = Object.entries(json)
+		.map(([key, value]) => {
+			return `
+				<li class="resource-item">
+					<article class="resource-card">
+						<h3 class="resource-card__content">
+							<a class="resource-card__link"
+								href="${value.resourceLink}" 
+								target="_blank">
+								${value.resourceTitle}
+							</a>
+						</h3>
+						<div class="resource-card__categories mt-1">
+							${value.category}
 						</div>
-					</div>
+						<div class="resource-card__tags">
+							<span class="tag"># ${key}</span>
+							<span class="tag">${value.resourceType}</span>
+						</div>
+					</article>
 				</li>
 				`;
 		})
 		.join("");
 };
+// COUNT HOW MANY RESOURCES LOADED ON PAGE
+// https://dev.to/isabelxklee/how-to-loop-through-an-htmlcollection-379k
+window.addEventListener("load", (event) => {
+	let resourceCountEl = document.getElementById("resourceCountLoaded");
+	setTimeout(() => {
+		let resourcesCount =
+			document.getElementsByClassName("resource-item").length;
+		resourceCountEl.innerHTML += `${resourcesCount}`;
+		console.log(resourcesCount);
+	}, "1000");
+});
+
 const buildCategories = () => {};
 const buildTags = () => {};
 const resultCounter = () => {};
-
-// ${data.category.map((item) => {
-// 	return `
-// 	<li class="item">
-// 		${item}
-// 	</li>`;
-// })

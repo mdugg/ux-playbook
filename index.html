@@ -8,9 +8,11 @@
     <!-- CDN -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Libre+Baskerville:wght@700&family=Libre+Franklin:wght@100;300;400;600;700;800;900&family=Patua+One&display=swap" rel="stylesheet">
     <!-- JS -->
     <script src="./assets/js/scripts.js" defer></script>
+    <!-- <script src="https://cdn.tailwindcss.com"></script>  -->
+    <!-- tailwind play cdn -->
     <!-- Styles -->
     <link href="./assets/styles/global.css" rel="stylesheet">   
     <title>UX Playbook</title>
@@ -22,7 +24,11 @@
     </header>
     <main class="ux-content">
         <section class="ux-results">
-            <h2>All results:</h2>
+            <p>Loaded: 
+                <span id="resourceCountLoaded"></span> 
+                    of 
+                <span id="resourceCount"></span>
+            </p>
             <ul id="searchResults" class="search-results">
             </ul>
         </section>

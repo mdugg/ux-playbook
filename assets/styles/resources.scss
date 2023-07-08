@@ -3,20 +3,24 @@
     flex-direction: column;
 }
 
-.search-card {
+// https://codepen.io/miladxdev/pen/RwLbBxY
+// skeleton loader
+
+.resource-card {
     display: flex;
-    // border: 1px solid var(--gray-200);
+    flex-direction: column;
     margin-top: 1rem;
-    border-radius: var(--border-radius);
 
     &__content {
         display:flex;
         flex-direction: column;
     }
     &__link {
-        color: var(--black);
-        font-weight: var(--font-sans-medium);
+        font-family: var(--font-display);
+        font-weight: var(--font-regular);
+        font-style: regular;
         font-size: 1.5rem;
+        color: var(--gray-700);
         text-decoration: none;
         transition: var(--transition-all);
     }
