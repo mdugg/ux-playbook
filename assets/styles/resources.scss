@@ -6,10 +6,16 @@
 // https://codepen.io/miladxdev/pen/RwLbBxY
 // skeleton loader
 
+.resource-item {
+    border-bottom: 1px solid var(--gray-200);
+    padding: .25rem 0;
+}
+
 .resource-card {
     display: flex;
     flex-direction: column;
     margin-top: 1rem;
+    position: relative;
 
     &__content {
         display:flex;
@@ -20,11 +26,37 @@
         font-weight: var(--font-regular);
         font-style: regular;
         font-size: 1.5rem;
-        color: var(--gray-700);
+        color: var(--gray-600);
         text-decoration: none;
         transition: var(--transition-all);
     }
     &__link:hover {
         color: var(--teal);
+    }
+    &__meta {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        padding-top: .25rem;
+    }
+    &__meta-item:first-child {
+        width: 25%;
+    }
+    &__meta-item:nth-child(2) {
+        width: 50%;
+    }
+    &__meta-tag {
+        font-size: .6rem;
+        font-weight: var(--font-semibold);
+        color: var(--gray-500);
+        text-transform: uppercase;
+        letter-spacing: .1;
+    }
+    &__count {
+        position: absolute;
+        top: 0;
+        right: .5rem;
+        color: var(--gray-400);
+        font-size: .75rem; 
     }
 }

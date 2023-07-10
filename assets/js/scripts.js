@@ -3,9 +3,7 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch(
-		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
-	)
+	fetch("../../data/resources.json")
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(buildResultCard(json));
@@ -34,13 +32,21 @@ const buildResultCard = (json) => {
 								${value.resourceTitle}
 							</a>
 						</h3>
-						<div class="resource-card__categories mt-1">
-							${value.category}
-						</div>
-						<div class="resource-card__tags">
-							<span class="tag"># ${key}</span>
-							<span class="tag">${value.resourceType}</span>
-						</div>
+						<dl class="resource-card__meta">
+							<span class="resource-card__meta-item">
+								<dt class="resource-card__meta-tag">Category</dt>
+								<dd class="resource-card__meta-value">${value.category}</dd>
+							</span>
+							<span class="resource-card__meta-item">
+								<dt class="resource-card__meta-tag">Tags</dt>
+								<dd class="resource-card__meta-value">${value.tags.join(", ")}</dd>
+							</span>
+							<span class="resource-card__meta-item">
+								<dt class="resource-card__meta-tag">Media</dt>
+								<dd class="resource-card__meta-value">${value.resourceType}</dd>
+							</span>
+							<span class="resource-card__count"># ${key}</span>
+						</dl>
 					</article>
 				</li>
 				`;
