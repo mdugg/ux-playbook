@@ -3,26 +3,31 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch("../../data/resources.json")
+	fetch(
+		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
+	)
 		.then((data) => data.json())
 		.then((json) => {
-			resolve(buildResultCard(json));
+			resolve(resourceCard(json));
 		})
 		.catch((error) => reject(error));
 });
 
 // MAIN RESULTS SECTION
-const buildResultCard = (json) => {
+const resourceCard = (json) => {
 	// count resources in the JSON db
 	let resourceCount = Object.entries(json);
 	let resourceCountEl = document.getElementById("resourceCount");
 	resourceCountEl.innerHTML += `${resourceCount.length}`;
 
 	// card
+	// loop in reverse order - Object.keys() array https://bobbyhadz.com/blog/javascript-loop-object-reverse-order
 	const allResults = document.getElementById("searchResults");
 	allResults.innerHTML = Object.entries(json)
+		.reverse()
 		.map(([key, value]) => {
-			return `
+			if (key !== "schema") {
+				return `
 				<li class="resource-item">
 					<article class="resource-card">
 						<h3 class="resource-card__content">
@@ -33,15 +38,15 @@ const buildResultCard = (json) => {
 							</a>
 						</h3>
 						<dl class="resource-card__meta">
-							<span class="resource-card__meta-item">
+							<span class="resource-card__meta-item category">
 								<dt class="resource-card__meta-tag">Category</dt>
 								<dd class="resource-card__meta-value">${value.category}</dd>
 							</span>
-							<span class="resource-card__meta-item">
+							<span class="resource-card__meta-item tags">
 								<dt class="resource-card__meta-tag">Tags</dt>
 								<dd class="resource-card__meta-value">${value.tags.join(", ")}</dd>
 							</span>
-							<span class="resource-card__meta-item">
+							<span class="resource-card__meta-item media">
 								<dt class="resource-card__meta-tag">Media</dt>
 								<dd class="resource-card__meta-value">${value.resourceType}</dd>
 							</span>
@@ -50,12 +55,14 @@ const buildResultCard = (json) => {
 					</article>
 				</li>
 				`;
+			}
 		})
 		.join("");
 };
 // COUNT HOW MANY RESOURCES LOADED ON PAGE
 // https://dev.to/isabelxklee/how-to-loop-through-an-htmlcollection-379k
-window.addEventListener("load", (event) => {
+// research Array.from (...nodelist / HTMLCollection)
+window.addEventListener("DOMContentLoaded", (event) => {
 	let resourceCountEl = document.getElementById("resourceCountLoaded");
 	setTimeout(() => {
 		let resourcesCount =

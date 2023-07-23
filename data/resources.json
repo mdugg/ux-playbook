@@ -12,7 +12,2563 @@
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
         "tags": ["tag 1", "tag 2"]
-    },       
+    },     
+    "839": {
+        "resourceLink": "https://uxdesign.cc/how-we-started-our-user-research-repository-at-openclassrooms-d8a6536f22e1",
+        "resourceTitle": "How to start a User Research Repository",
+        "resourceType": ["Blog"],
+        "authors": ["Audrey Hacq", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Process"]
+    },     
+    "838": {
+        "resourceLink": "https://medium.com/@yugalytska/my-design-process-building-blocks-for-continuous-discovery-2850e31176da",
+        "resourceTitle": "My Design Process: Building Blocks for Continuous Discovery",
+        "resourceType": ["Blog"],
+        "authors": ["Yuliia Galytska"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Process"]
+    },     
+    "837": {
+        "resourceLink": "https://usafacts.org/",
+        "resourceTitle": "USA, in numbers",
+        "resourceType": ["Blog"],
+        "authors": ["usafacts.org"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Data visualization"]
+    },     
+    "836": {
+        "resourceLink": "https://library.gv.com/guide-to-design-critique-86ebf499bed5",
+        "resourceTitle": "GV Guide to Design Critique",
+        "resourceType": ["Blog"],
+        "authors": ["Braden Kowitz", "GV Library"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design critiques"]
+    },     
+    "835": {
+        "resourceLink": "https://firt.dev/learn/",
+        "resourceTitle": "Learn with Maximiliano Firtman",
+        "resourceType": ["Blog"],
+        "authors": ["Maximiliano Firtman"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Courses", "JavaScript"]
+    },     
+    "834": {
+        "resourceLink": "https://anytype.io/who/inspiration",
+        "resourceTitle": "anytype - what inspires us",
+        "resourceType": ["Blog"],
+        "authors": ["anytype.io"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Styling"]
+    },     
+    "833": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/how-to-highlight-required-and-optional-form-fields-8caee538a103",
+        "resourceTitle": "How to highlight required and optional form fields",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Silver", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Form fields"]
+    },     
+    "832": {
+        "resourceLink": "https://medium.com/design-ibm/area-631-what-i-learned-in-ibms-start-up-and-innovation-program-d87ed98f9549",
+        "resourceTitle": "Area 631: what I learned in IBM’s start-up and innovation program",
+        "resourceType": ["Blog"],
+        "authors": ["Breanne Lewis", "IBM Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Innovation program"]
+    },     
+    "831": {
+        "resourceLink": "https://uxplanet.org/a-deep-dive-into-the-product-design-process-f3808df5d400",
+        "resourceTitle": "A Deep Dive into the Product Design Process",
+        "resourceType": ["Blog"],
+        "authors": ["Christine Calo", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Process"]
+    },     
+    "830": {
+        "resourceLink": "https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/",
+        "resourceTitle": "What is Information Architecture? How to Create Userflows and Sitemaps for UX Design",
+        "resourceType": ["Blog"],
+        "authors": ["Ijelekhai Faith Olohijere"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Diagramming", "Information architecture"]
+    },     
+    "829": {
+        "resourceLink": "https://uidecisions.com/",
+        "resourceTitle": "Master the Skill of Warp-Speed Design Decisions",
+        "resourceType": ["Documentation"],
+        "authors": ["Dan Saffer"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Book", "Decision making"]
+    },     
+    "828": {
+        "resourceLink": "https://odannyboy.medium.com/lessons-from-a-job-search-1dbf55ead51b",
+        "resourceTitle": "Lessons from a Job Search",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Saffer"],
+        "notes": {
+                    "description": "Purpose of portfolio is to get the hiring manager to want to have a conversation",
+                    "bulletPoints": ["Interview intros no more than 5 minutes", "Animations more impactful than images", "Show summary slide for each project", "Problem and context of each project", "Results - how my work moved the needle"]
+                },
+        "category": ["Career"],
+        "tags": ["Recruitment", "Portfolio"]
+    },     
+    "827": {
+        "resourceLink": "https://odannyboy.medium.com/design-strategy-for-design-portfolios-195f77b5bb14",
+        "resourceTitle": "Design Strategy for Design Portfolios",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Saffer"],
+        "notes": {
+                    "description": "Purpose of portfolio is to get the hiring manager to want to have a conversation",
+                    "bulletPoints": ["Two portfolios - one online and another for presentation", "The online portfolio does not need to have every piece of information about process", "Only show enough to demonstrate your competence", "Hiring manager is likely looking at online portfolios in batches, sometimes 10 or more", "About 30 seconds on landing page at most to engage them enough to keep looking", "Once they start looking through your projects, you’ve got about five minutes of their time", "Two types: professional or weird. Professional should be clean, not distracting, but engaging", "Sections: home screen, projects/case studies, resume, about me, contact info - easily findable", "Home screen is critical - first line is critical - identifier + differentiator - key experience", "Case studies - highlights, headlines, bullet points, imagery, very short videos - scannable", "5 case studies - 2 sizeable; best first; some can be small", "What the project is; who is the client; my role; project duration; team size; problem being solved <-- most important", "Context, problem, process, result <-- storytelling", "Visual storytelling is better than long paragraphs", "Highlight anything unusual or of interest - findings, problems, setbacks, drama", "'What I learned' is not impactful - objective outcomes only", "About me - hiring managers look for 'good to work with' cues", "About me - outside design, interests, hobbies, projects", "Photo doing something fun, personal side", "Testimonials not needed"]
+                },
+        "category": ["Career"],
+        "tags": ["Recruitment", "Portfolio"]
+    },     
+    "826": {
+        "resourceLink": "https://the-hustle.hubspot.com/put-your-most-professional-foot-forward-4-career-path-prep-kits-for-ya",
+        "resourceTitle": "the Hustle - 4 career path prep kits for ya",
+        "resourceType": ["Blog"],
+        "authors": ["the Hustle"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "Networking"]
+    },     
+    "825": {
+        "resourceLink": "https://uxpin.medium.com/design-handoff-is-a-collaborative-effort-learn-how-to-structure-it-better-edc18388c0a2",
+        "resourceTitle": "Design Handoff is a Collaborative Effort — Learn to Structure it Better",
+        "resourceType": ["Blog"],
+        "authors": ["UXPin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design handoff"]
+    },     
+    "824": {
+        "resourceLink": "https://laugri.medium.com/role-and-responsibilities-of-a-design-leader-226a075a54d3",
+        "resourceTitle": "Role and Responsibilities of a Design Leader",
+        "resourceType": ["Blog"],
+        "authors": ["Laurent Grima"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design Leadership"]
+    },     
+    "823": {
+        "resourceLink": "https://medium.com/@manuellask/ux-workflow-why-the-design-system-is-so-often-misunderstood-98ecafbb242d",
+        "resourceTitle": "UX Workflow — Why the Design System is so often misunderstood",
+        "resourceType": ["Blog"],
+        "authors": ["Manuel Lask"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design System"]
+    },     
+    "822": {
+        "resourceLink": "https://uxplanet.org/6-awesome-ai-tools-for-user-research-95c30a64ab22",
+        "resourceTitle": "6 Awesome AI Tools for User Research",
+        "resourceType": ["Blog"],
+        "authors": ["Sergushkin.com", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research", "AI tools"]
+    },     
+    "821": {
+        "resourceLink": "https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a",
+        "resourceTitle": "Loading & progress indicators — UI Components series",
+        "resourceType": ["Blog"],
+        "authors": ["Taras Bakusevych", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Spinners", "Progress indicators"]
+    },     
+    "820": {
+        "resourceLink": "https://developer.chrome.com/blog/scroll-animation-performance-case-study/",
+        "resourceTitle": "A case study on scroll-driven animations performance",
+        "resourceType": ["Blog"],
+        "authors": ["Yuriko Hirota", "Chrome Developers"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Scroll animations"]
+    },     
+    "819": {
+        "resourceLink": "https://medium.com/tap-to-dismiss/scaling-design-building-lyfts-plug-and-play-payment-system-bc3eb6f64003",
+        "resourceTitle": "Scaling Design: Building Lyft’s plug-and-play payment system”",
+        "resourceType": ["Blog"],
+        "authors": ["Runi Goswami", "Tap to Dismiss"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Scaling design"]
+    },     
+    "818": {
+        "resourceLink": "https://medium.com/randstad-design/design-documentation-a-practical-guide-c5852fbb5c90",
+        "resourceTitle": "Design documentation: A practical guide”",
+        "resourceType": ["Blog"],
+        "authors": ["Dirkjan Kraan", "Design Stories by Randstad"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design documentation"]
+    },     
+    "817": {
+        "resourceLink": "https://medium.com/@ki.aguero/instead-of-democritization-try-putting-some-research-on-rails-d44b550f814",
+        "resourceTitle": "Instead of democritization, try putting some research “on rails”",
+        "resourceType": ["Blog"],
+        "authors": ["Ki Aguero"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "816": {
+        "resourceLink": "https://medium.com/@Mcondesa/naming-components-31c3180a50fd",
+        "resourceTitle": "Naming components",
+        "resourceType": ["Blog"],
+        "authors": ["Marta Conde"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    },     
+    "815": {
+        "resourceLink": "https://uxplanet.org/my-first-week-defining-a-design-process-and-leadership-hierarchy-6b85ad1c864f",
+        "resourceTitle": "My first week: Defining a design process and leadership hierarchy",
+        "resourceType": ["Blog"],
+        "authors": ["Russell Diaz", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design process"]
+    },     
+    "814": {
+        "resourceLink": "https://cloudfour.com/thinks/animating-slack-reminders-with-the-view-transitions-api/",
+        "resourceTitle": "Animating Slack reminders with the View Transitions API",
+        "resourceType": ["Blog"],
+        "authors": ["Paul Hebert", "CloudFour"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["CSS", "Interaction", "Transitions API"]
+    },     
+    "813": {
+        "resourceLink": "https://sparktoro.com",
+        "resourceTitle": "SparkToro",
+        "resourceType": ["Tool"],
+        "authors": ["SparkToro"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["User testing"]
+    },     
+    "812": {
+        "resourceLink": "https://www.nngroup.com/articles/resumes-ux-career-changers/",
+        "resourceTitle": "Effective Resumes for UX Career Changers",
+        "resourceType": ["Blog"],
+        "authors": ["NNGroup", "Evan Sunwall"],
+        "notes": {
+                    "description": "Achievements make a resume shine: [verb] [quantitative outcome] [context] using [skill / tool / technology]",
+                    "bulletPoints": ["hiring-manager persona: 6-7 second scan; F-shapped pattern; applicant-tracking system (ATS)", "Take time to target resume for each application", "Prioritize collaboration and interpersonal skills", " Relevant job experience as a predictor of future job performance", "P    enalize candidates with short job tenures as 'flight risks' likely to quit", "Guidelines: PDF, selectable text, links work", "1 page, summarize, frontload important content, and eliminate filler", "Simple layout - no headers, footers, tables or columns as they confuse ATS", "Consistent across Linkedin and folio site; relatively, no significant differences", "May use a high contrast accent color, single font, print-friendly", "No embellishments or fabrications", "Contact info at top: name, location, portfolio link, email address, mobile", "UX Experience: job title, employer, dates, location,", "Responsibilities - summarize 2-3 concise sentences", "Lead with verbs, use numbers when appropriate for scope and context, type of client helped", "Achievements: - make resume shine", "Impactful results via my skills, abilities, and talents; convey effectiveness", "Bulleted list (circle bullet for ATS)", "Emphasize quantitative results; keep to 1 line each", "Order achievements by impact", "At least 1 per job; list more for recent jobs", "Quantitative and non-quantitative achievements - latter is less effective but valid", "Avoid: - lists of skills or technologies (no context or outcome), skill rating charts", "No headshots - unconscious bias", "No mission or objective statements - persuade with achievements", "No references, subheadings, hobbies, volunteering, memberships, personal projects (add to portfolio instead; lack of constraints, compromises, or deadlines)", "Employment gaps can be negative; avoid specific dates, can be duration instead", "Design for successful patterns, not uniqueness"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    },  
+    "811": {
+        "resourceLink": "https://component.gallery/design-systems/",
+        "resourceTitle": "The Component Gallery - Design Systems",
+        "resourceType": ["Library"],
+        "authors": ["Iain Bean"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design systems"]
+    }, 
+    "810": {
+        "resourceLink": "https://component.gallery/components/",
+        "resourceTitle": "The Component Gallery",
+        "resourceType": ["Library"],
+        "authors": ["Iain Bean"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    }, 
+    "809": {
+        "resourceLink": "https://www.linkedin.com/pulse/resume-optimization-ats-dos-donts-righting-content/",
+        "resourceTitle": "Resume Optimization for ATS: The Dos and Don'ts",
+        "resourceType": ["Blog"],
+        "authors": ["Righting Content"],
+        "notes": {
+                    "description": "Applicant Tracking Systems (ATS) - optimize resume to make it past the initial screening process",
+                    "bulletPoints": ["Include relevant keywords to match the job posting", "Tailor resume to specific job", "Don't include info not relevant", "Use industry-specific terminaology and avoid acronyms or abbreviations", "No images or graphics (custom bullets, profile photo)", "Simple clean layout", "Use standard section headings: Experience, Education", "Avoid bold or italicized text", "Avoid columns; they can be difficult for ATS to parse", "Avoid headers and footers"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    }, 
+    "808": {
+        "resourceLink": "https://www.linkedin.com/pulse/20140917045901-24454816-the-5-biggest-mistakes-i-see-on-resumes-and-how-to-correct-them/",
+        "resourceTitle": "The Biggest Mistakes I See on Resumes, and How to Correct Them",
+        "resourceType": ["Blog"],
+        "authors": ["Laszlo Bock"],
+        "notes": {
+                    "description": "Sole purpose of a resume is to get an interview",
+                    "bulletPoints": ["Mistake 1: typos - interpreted as lack of detail-orientation; failure to care about quality", "Mistake 2: length - 1 page for every 10 years of work experience. Demonstrates ability to synthesize, prioritize, convey most important info", "Mistake 3: formatting - clean, legible, half-inch margins, black text on white; PDF", "Mistake 4: confidential information - demonstrate trust", "Mistake 5: lies"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    }, 
+    "807": {
+        "resourceLink": "https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/",
+        "resourceTitle": "My Personal Formula for a Winning Resume",
+        "resourceType": ["Blog"],
+        "authors": ["Laszlo Bock"],
+        "notes": {
+                    "description": "X by Y by Z formula, formatting, and customization",
+                    "bulletPoints": ["Start with an active verb", "Numerically measure an accomplishment", "Provide a baseline for comparison", "Detail on how my goal was achieved"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    }, 
+    "806": {
+        "resourceLink": "https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html",
+        "resourceTitle": "Google Recruiters Say Using the X-Y-Z Formula on Your Resume Will Improve Your Odds of Getting Hired at Google",
+        "resourceType": ["Blog"],
+        "authors": ["Inc.", "Bill Murphy Jr"],
+        "notes": {
+                    "description": "X by Y by Z formula, formatting, and customization",
+                    "bulletPoints": ["Accomplished [X] as measured by [Y], by doing [Z].", "Focus on quantitative results; my impact", "Use data, metrics and context/comparison", "Action-oriented language",  "Formatting: 1 page only", "Bullet points limited to a single line instead of descriptive paragraphs", "Keep formatting simple", "Ensure resume is highly readable", "Typography simple and consistent", "No typos; PDF format", "Contact info at top - name and email address; relevant links", "Experience before education", "Customization: tailor resume for every role", "Cut older positions and achievements if not relevant", "Contacts & Links > Experience (employer, position, dates) > Leadership & Awards > Education", "Human resume-reviewers are likely reading dozens of resumes at a time", "No statements on career objectives or goals are necessary"]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    }, 
+    "805": {
+        "resourceLink": "https://resume.io/resume-examples/google",
+        "resourceTitle": "Google Resume Example & Writing Guide",
+        "resourceType": ["Blog"],
+        "authors": ["Resume.io"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Resume", "CV"]
+    }, 
+    "804": {
+        "resourceLink": "https://medium.com/@DOOR3Dev/roi-of-ux-the-power-of-a-carefully-considered-user-experience-fbf8d489d040",
+        "resourceTitle": "ROI of UX: The Power of a Carefully Considered User Experience",
+        "resourceType": ["Blog"],
+        "authors": ["DOOR3"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Outcomes"]
+    }, 
+    "803": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/how-to-measure-the-impact-of-a-design-system-7b6771673473",
+        "resourceTitle": "How to Measure the Impact of a Design System?",
+        "resourceType": ["Blog"],
+        "authors": ["Marion Zoé", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    }, 
+    "802": {
+        "resourceLink": "https://www.uxpin.com/studio/blog/design-frameworks/",
+        "resourceTitle": "UX Design Frameworks – What Are The Most Useful Ones?",
+        "resourceType": ["Blog"],
+        "authors": ["UXPin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Frameworks", "Design thinking", "Double diamond", "Hooked model", "Lean UX", "Agile UX", "BASIC framework", "The UX Honeycomb", "Fogg Behavior Model"]
+    }, 
+    "801": {
+        "resourceLink": "https://medium.com/workday-design/design-for-emotion-with-mindsets-d1fa6ccac86e",
+        "resourceTitle": "Design for Emotion with Mindsets",
+        "resourceType": ["Blog"],
+        "authors": ["Workday Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Mindsets"]
+    }, 
+    "800": {
+        "resourceLink": "https://uxplanet.org/5-essential-ux-rules-for-dialog-design-4de258c22116",
+        "resourceTitle": "5 Essential UX Rules for Dialog Design",
+        "resourceType": ["Blog"],
+        "authors": ["Nick Babich", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Component", "Dialog"]
+    }, 
+    "799": {
+        "resourceLink": "https://medium.com/@DOOR3Dev/ux-audit-checklist-to-improve-design-from-insight-to-action-cdf08ed5a681",
+        "resourceTitle": "UX Audit Checklist To Improve Design: From Insight to Action",
+        "resourceType": ["Blog"],
+        "authors": ["DOOR3"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Heuristics", "UX audit"]
+    }, 
+    "798": {
+        "resourceLink": "https://design.lyft.com/why-storytelling-in-uxr-matters-and-how-to-uplevel-your-skills-4a6c5d464589",
+        "resourceTitle": "Why storytelling in UXR matters and how to uplevel your skills",
+        "resourceType": ["Blog"],
+        "authors": ["Karuna Harishanker","Lyft Design+"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Storytelling"]
+    }, 
+    "797": {
+        "resourceLink": "https://blog.bitsrc.io/building-a-composable-material-ui-design-system-with-bit-875a0bdeaac8",
+        "resourceTitle": "Building a Composable Material UI Design System with Bit",
+        "resourceType": ["Blog"],
+        "authors": ["Nitsan Cohen","Bits and Pieces"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    }, 
+    "796": {
+        "resourceLink": "https://medium.com/design-bridges/disastrous-design-thinking-70343abdf554",
+        "resourceTitle": "Disastrous Design Thinking: 3 top pains in the ass",
+        "resourceType": ["Blog"],
+        "authors": ["Slava Shestopalov","Design Bridges"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    }, 
+    "795": {
+        "resourceLink": "https://medium.com/design-bridges/accessibility-testing-babe2d84e817",
+        "resourceTitle": "Testing sites and apps with blind users: a detailed cheatsheet",
+        "resourceType": ["Blog"],
+        "authors": ["Slava Shestopalov","Design Bridges"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    }, 
+    "794": {
+        "resourceLink": "https://blog.overflow.io/adapting-user-flows-to-your-audience-9cad138108d",
+        "resourceTitle": "Adapting user flows to your audience",
+        "resourceType": ["Blog"],
+        "authors": ["Overflow Team"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User flows"]
+    }, 
+    "793": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/form-design-best-practices-4df6002ae3ce",
+        "resourceTitle": "Form Design Best Practices",
+        "resourceType": ["Blog"],
+        "authors": ["Elisa Viglianese", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Forms"]
+    }, 
+    "792": {
+        "resourceLink": "https://library.gv.com/how-to-test-prototypes-with-customers-the-five-act-interview-80305d98c407",
+        "resourceTitle": "How to Test Prototypes with Customers: The Five-Act Interview",
+        "resourceType": ["Blog"],
+        "authors": ["Jake Knapp", "GV Library"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Workshopping", "Prototypes", "User testing"]
+    }, 
+    "791": {
+        "resourceLink": "https://medium.com/@mluvinh/beyond-design-systems-for-interfaces-an-megasystem-of-design-systems-4f87dd6d8df8",
+        "resourceTitle": "Beyond design systems for interfaces: a mega system of design systems",
+        "resourceType": ["Blog"],
+        "authors": ["Marie Lu Vinh"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    }, 
+    "790": {
+        "resourceLink": "https://medium.com/design-bridges/design-docs-6bb34589f7a9",
+        "resourceTitle": "Designing better design documentation",
+        "resourceType": ["Blog"],
+        "authors": ["Slava Shestopalov", "Design bridges"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    }, 
+    "789": {
+        "resourceLink": "https://medium.com/@FlowMapp/progressive-disclosure-10-great-examples-to-check-5e54c5e0b5b6",
+        "resourceTitle": "Progressive Disclosure: 10 Great Examples to Check",
+        "resourceType": ["Blog"],
+        "authors": ["FlowMapp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Components", "Progressive disclosure"]
+    }, 
+    "788": {
+        "resourceLink": "https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a",
+        "resourceTitle": "Mind maps in the product design process",
+        "resourceType": ["Blog"],
+        "authors": ["Overflow Team"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Diagramming", "Ideation"]
+    }, 
+    "787": {
+        "resourceLink": "https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a",
+        "resourceTitle": "Loading & progress indicators — UI Components series",
+        "resourceType": ["Blog"],
+        "authors": ["Taras Bakusevych", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Components", "Loaders", "Spinners", "Progress indicators"]
+    }, 
+    "786": {
+        "resourceLink": "https://medium.com/design-ibm/design-thinking-and-relentless-innovation-the-legacy-of-the-roman-legion-1a0093ba5868",
+        "resourceTitle": "Design Thinking and Relentless Innovation: The Legacy of the Roman Legion",
+        "resourceType": ["Blog"],
+        "authors": ["Jin Leem", "IBM Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking"]
+    }, 
+    "785": {
+        "resourceLink": "https://css-irl.info/learning-in-the-open/",
+        "resourceTitle": "Learning in the Open",
+        "resourceType": ["Blog"],
+        "authors": ["css-irl"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Networking"]
+    }, 
+    "784": {
+        "resourceLink": "https://www.invisionapp.com/inside-design/measure-value-design/",
+        "resourceTitle": "How to measure the impact of your work",
+        "resourceType": ["Blog"],
+        "authors": ["Alexa Roman", "invision"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Metrics", "Outcomes", "Validation"]
+    }, 
+    "783": {
+        "resourceLink": "https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7",
+        "resourceTitle": "Experiments at Airbnb",
+        "resourceType": ["Blog"],
+        "authors": ["Jan Overgoor", "AirbnbEng"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Experiments"]
+    }, 
+    "782": {
+        "resourceLink": "https://itamargilad.medium.com/evidence-based-scoring-a-systematic-way-to-know-if-you-have-a-good-idea-44d39e166abf",
+        "resourceTitle": "Evidence scores — the acid test of your ideas",
+        "resourceType": ["Blog"],
+        "authors": ["Itamar Gilad"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Metrics", "Outcomes", "Validation"]
+    }, 
+    "781": {
+        "resourceLink": "https://medium.com/ux-power-tools/10-ways-to-measure-your-success-in-design-7b3bc1762803",
+        "resourceTitle": "10 Ways to Measure Your Success in Design",
+        "resourceType": ["Blog"],
+        "authors": ["Jon Moore", "UX Power Tools"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Metrics", "Outcomes", "Validation"]
+    }, 
+    "780": {
+        "resourceLink": "https://uxdesign.cc/how-to-measure-success-in-design-f63f96a0c541",
+        "resourceTitle": "10 frameworks to help you measure success in design",
+        "resourceType": ["Blog"],
+        "authors": ["Kaiting Huang", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Metrics", "Outcomes", "Validation"]
+    }, 
+    "779": {
+        "resourceLink": "https://underdogio.notion.site/Underdog-io-s-Just-Enough-Prep-Guide-b35cd15456e74be9bd5739b532e8fe38",
+        "resourceTitle": "Underdog.io’s Just Enough Prep Guide",
+        "resourceType": ["Documentation"],
+        "authors": ["Underdog.io"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Resume"]
+    }, 
+    "778": {
+        "resourceLink": "https://thegood.com/insights/optimizing-testing-program/",
+        "resourceTitle": "How to Run Concurrent A/B Tests without Compromising Results",
+        "resourceType": ["Blog"],
+        "authors": ["Natalie Thomas", "thegood.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["A/B testing"]
+    }, 
+    "777": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/30-non-surface-level-ux-terms-every-designer-must-know-72d56570ed83",
+        "resourceTitle": "30 non-surface level UX terms every designer must know",
+        "resourceType": ["Blog"],
+        "authors": ["Christian Leong", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Jargon"]
+    }, 
+    "776": {
+        "resourceLink": "https://hackernoon.com/sorting-arrow-confusion-in-data-tables-5a3117698fdf",
+        "resourceTitle": "Sorting arrow confusion in data tables",
+        "resourceType": ["Blog"],
+        "authors": ["Hackernoon"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Data tables"]
+    }, 
+    "775": {
+        "resourceLink": "https://medium.com/mytake/the-guide-to-ux-leadership-part-1-402c256bb559",
+        "resourceTitle": "The Guide to UX Leadership — part 1",
+        "resourceType": ["Blog"],
+        "authors": ["UXPin", "Dave Malouf"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Leadership"]
+    }, 
+    "774": {
+        "resourceLink": "https://medium.com/mytake/the-guide-to-ux-leadership-part-1-402c256bb559",
+        "resourceTitle": "The Guide to UX Leadership — part 1",
+        "resourceType": ["Blog"],
+        "authors": ["UXPin", "Dave Malouf"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Leadership"]
+    }, 
+    "773": {
+        "resourceLink": "https://medium.com/eightshapes-llc/creating-excellent-ux-flow-charts-df6f1e46e524",
+        "resourceTitle": "Creating Excellent UX Flow Charts",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Brown", "EightShapes"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Flow charts", "Diagramming"]
+    }, 
+    "772": {
+        "resourceLink": "https://uxdesign.cc/want-loyal-subscribers-build-experiences-instead-of-features-c4a2e31335d5",
+        "resourceTitle": "Building experiences instead of features",
+        "resourceType": ["Blog"],
+        "authors": ["Tim McCollum", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Frameworks"]
+    }, 
+    "771": {
+        "resourceLink": "https://medium.com/built-to-adapt/intro-to-the-8-point-grid-system-d2573cde8632",
+        "resourceTitle": "Intro to The 8-Point Grid System",
+        "resourceType": ["Blog"],
+        "authors": ["Built to Adapt", "Elliot Dahl"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Grid"]
+    }, 
+    "770": {
+        "resourceLink": "https://dribbble.com/anjavanstaden",
+        "resourceTitle": "Anja van Staden portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Anja van Staden"],
+        "notes": {
+                    "description": "Portfolio",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Portfolio"]
+    }, 
+    "769": {
+        "resourceLink": "https://retentionx.com",
+        "resourceTitle": "RetentionX",
+        "resourceType": ["Tool"],
+        "authors": ["RetentionX"],
+        "notes": {
+                    "description": "Customer Intelligence Platform",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Retention", "User analytics"]
+    }, 
+    "768": {
+        "resourceLink": "https://validately.com/",
+        "resourceTitle": "Validately",
+        "resourceType": ["Tool"],
+        "authors": ["Stately"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["State management", "Diagramming"]
+    }, 
+    "767": {
+        "resourceLink": "https://stately.ai/viz",
+        "resourceTitle": "XState",
+        "resourceType": ["Tool"],
+        "authors": ["Stately"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["State management", "Diagramming"]
+    }, 
+    "766": {
+        "resourceLink": "https://usabilityhub.com",
+        "resourceTitle": "UsabilityHub",
+        "resourceType": ["Tool"],
+        "authors": ["UsabilityHub"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    }, 
+    "765": {
+        "resourceLink": "https://uxarchive.com",
+        "resourceTitle": "UX Archive",
+        "resourceType": ["Library"],
+        "authors": ["Waldo"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Repository"]
+    }, 
+    "764": {
+        "resourceLink": "https://gojs.net/latest/index.html",
+        "resourceTitle": "GoJS",
+        "resourceType": ["Tool"],
+        "authors": ["GoJS"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Interactive diagrams"]
+    }, 
+    "763": {
+        "resourceLink": "https://optimize.withgoogle.com/",
+        "resourceTitle": "Google Optimize",
+        "resourceType": ["Tool"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Validate", "User research"]
+    }, 
+    "762": {
+        "resourceLink": "https://any-api.com/",
+        "resourceTitle": "Any API",
+        "resourceType": ["Tool"],
+        "authors": ["Any API"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["APIs"]
+    }, 
+    "761": {
+        "resourceLink": "https://uxtools.co/blog/usability-testing-in-4-simplified-steps/",
+        "resourceTitle": "Usability Testing in 4 Simplified Steps",
+        "resourceType": ["Tool"],
+        "authors": ["Jordan Bowman", "UX Tools"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Usability Testing"]
+    }, 
+    "760": {
+        "resourceLink": "https://miragejs.com",
+        "resourceTitle": "Mirage APIs",
+        "resourceType": ["Tool"],
+        "authors": ["Mirage"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["APIs"]
+    }, 
+    "759": {
+        "resourceLink": "https://a11y-101.com",
+        "resourceTitle": "a11y 101",
+        "resourceType": ["Documentation"],
+        "authors": ["a11y-101"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Accessibility"]
+    }, 
+    "758": {
+        "resourceLink": "https://www.glyphicons.com",
+        "resourceTitle": "Glyphicons",
+        "resourceType": ["Library"],
+        "authors": ["Glyphicons"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Icons"]
+    }, 
+    "757": {
+        "resourceLink": "https://blog.8faces.com/",
+        "resourceTitle": "Type Worship: Inspirational Typography & Lettering",
+        "resourceType": ["Documentation"],
+        "authors": ["8faces", "Elliot Jay Stocks"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    }, 
+    "756": {
+        "resourceLink": "https://www.youtube.com/watch?v=cW46ySJmLD8",
+        "resourceTitle": "Validate Your Ideas with the Test Card",
+        "resourceType": ["Video"],
+        "authors": ["Strategyzer", "Alexander Osterwalder"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Validation"]
+    }, 
+    "755": {
+        "resourceLink": "https://component-party.dev/",
+        "resourceTitle": "Component Party",
+        "resourceType": ["Library"],
+        "authors": ["Component Party"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Components"]
+    }, 
+    "754": {
+        "resourceLink": "https://driverjs.com/",
+        "resourceTitle": "driver.js product tours",
+        "resourceType": ["Library"],
+        "authors": ["driver.js"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Tours"]
+    }, 
+    "753": {
+        "resourceLink": "https://uxmastery.com/resources/techniques/",
+        "resourceTitle": "UX Methods Bank",
+        "resourceType": ["Documentation"],
+        "authors": ["UX Mastery"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    }, 
+    "752": {
+        "resourceLink": "https://www.nngroup.com/articles/ux-research-cheat-sheet/",
+        "resourceTitle": "UX Research Cheat Sheet",
+        "resourceType": ["Blog"],
+        "authors": ["Susan Farrell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    }, 
+    "751": {
+        "resourceLink": "https://medium.com/design-ibm/the-vital-role-of-user-research-8c2f51a9cead",
+        "resourceTitle": "The vital role of user research in design",
+        "resourceType": ["Blog"],
+        "authors": ["Arin Bhowmick", "IBM Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    }, 
+    "750": {
+        "resourceLink": "https://validation.run/blog/lean-market-research",
+        "resourceTitle": "Lean Market Research: How To Test A Business Idea",
+        "resourceType": ["Blog"],
+        "authors": ["Michael Terwindt", "Validation.run"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Research"]
+    }, 
+    "749": {
+        "resourceLink": "https://maa1.medium.com/michael-margolis-user-research-quick-and-dirty-1-6b6668ce5c3",
+        "resourceTitle": "Michael Margolis: “user research, quick and dirty” (1)",
+        "resourceType": ["Blog"],
+        "authors": ["MAA1"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    }, 
+    "748": {
+        "resourceLink": "https://uxdesign.cc/user-research-as-a-design-team-of-one-c8d45e21dad3",
+        "resourceTitle": "How to do UX research When There’s No Time or Resources",
+        "resourceType": ["Blog"],
+        "authors": ["Richard Yang", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    }, 
+    "747": {
+        "resourceLink": "https://indeed.design/article/ux-design-portfolio-advice-from-hiring-managers",
+        "resourceTitle": "UX Design Portfolio Advice from Hiring Managers",
+        "resourceType": ["Blog"],
+        "authors": ["Sriratana Sutasirisap", "Indeed"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"]
+    }, 
+    "746": {
+        "resourceLink": "https://hackernoon.com/metrics-game-framework-5e3dce1be8ac",
+        "resourceTitle": "4 Steps to Defining GREAT Metrics for ANY Product",
+        "resourceType": ["Blog"],
+        "authors": ["Vince Law"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Metrics"]
+    }, 
+    "745": {
+        "resourceLink": "https://usabilityhub.com/blog/product-design-vs-user-experience-design",
+        "resourceTitle": "Product design vs user experience design",
+        "resourceType": ["Blog"],
+        "authors": ["Kai Tomboc"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Product design"]
+    }, 
+    "744": {
+        "resourceLink": "https://asktog.com/atc/principles-of-interaction-design/",
+        "resourceTitle": "First Principles of Interaction Design (Revised & Expanded)",
+        "resourceType": ["Documentation"],
+        "authors": ["Bruce 'Tog' Tognazzini"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Interaction design"]
+    }, 
+    "743": {
+        "resourceLink": "https://www.youtube.com/watch?v=8MQmYa_zq0g",
+        "resourceTitle": "My Uber Whiteboarding UX Challenge // How to approach design whiteboarding exercises",
+        "resourceType": ["Video"],
+        "authors": ["femke.design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": ["Don't work in silence; be collaborative; not a solution straight away", "Articulate context background how to get to solution", "It's ok to go down wrong paths, just acknowledge it", "Check time regularly / 10 minute", "1. articulate problem statement on whiteboard <-- write down; clarifying questions; state my interpretation of problem statement; get good understanding of goal - what are we trying to achieve?", "2. understand context <-- write down a frame: why is it a problem? what's been done before? what has worked / not worked?", "3. set constraints and assumptions; narrow focus; technical constraint; assume research is done; discuss collaborating with data and research teams", "4. involve designer; use as sounding board", "5. start sketching screens; focus, explain; get something valuable; don't worry about completing; edge cases can be mentioned", "6. summarise; talk through the story; walk through the flow; mention imperfections; not a test of UI skills, decisions; core of UX"]
+                },
+        "category": ["Career"],
+        "tags": ["Whiteboarding", "UX challenge"]
+    },              
+    "742": {
+        "resourceLink": "https://uxdesign.cc/100-example-ux-problems-f90e7f61dd9f",
+        "resourceTitle": "100 example UX problems",
+        "resourceType": ["Blog"],
+        "authors": ["Jon Crabb", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Whiteboarding", "UX exercises"]
+    },              
+    "741": {
+        "resourceLink": "https://mixpanel.com/home",
+        "resourceTitle": "Mixpanel",
+        "resourceType": ["Tool"],
+        "authors": ["Mixpanel"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Analytics"]
+    },              
+    "740": {
+        "resourceLink": "https://www.awwwards.com",
+        "resourceTitle": "Awwwards",
+        "resourceType": ["Library"],
+        "authors": ["Awwwards"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Inspiration"]
+    },              
+    "739": {
+        "resourceLink": "https://www.youtube.com/watch?v=gHGN6hs2gZY",
+        "resourceTitle": "What Is Design Thinking? An Overview",
+        "resourceType": ["Video"],
+        "authors": ["AJ&Smart", "Jonathan Courtney"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking"]
+    },              
+    "738": {
+        "resourceLink": "https://www.youtube.com/watch?v=hx7XyA8RNIw",
+        "resourceTitle": "How to Write & Structure Your UX Case Study | Website Presentation Design",
+        "resourceType": ["Video"],
+        "authors": ["Sharon Yeun Kim"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio", "UX case study"]
+    },              
+    "737": {
+        "resourceLink": "https://www.youtube.com/watch?v=gPj--xFcfpA",
+        "resourceTitle": "My IBM UX Design Challenge | PASSED",
+        "resourceType": ["Video"],
+        "authors": ["Sharon Yeun Kim"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "Whiteboarding"]
+    },              
+    "736": {
+        "resourceLink": "https://medium.com/tap-to-dismiss/a-better-segmented-control-9e662de2ef57",
+        "resourceTitle": "A better segmented control",
+        "resourceType": ["Blog"],
+        "authors": ["Runi Goswami", "Tap to Dismiss"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Controls", "Segment controls"]
+    },              
+    "735": {
+        "resourceLink": "https://www.theleagueofmoveabletype.com/",
+        "resourceTitle": "The League of Moveable Type - open-source font foundry",
+        "resourceType": ["Library"],
+        "authors": ["Micah Rich", "The League of Moveable Type"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },              
+    "734": {
+        "resourceLink": "https://uxplanet.org/lightning-decision-jam-a-workshop-to-solve-any-problem-65bb42af41dc",
+        "resourceTitle": "Lightning Decision Jam: A Workshop to Solve Any Problem",
+        "resourceType": ["Blog"],
+        "authors": ["Jonathan Courtney", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Lightening Decision Jam", "Workshopping"]
+    },              
+    "733": {
+        "resourceLink": "https://medium.com/design-bridges/icon-set-3b4fc87dc6b5",
+        "resourceTitle": "Designing tidy and balanced interface icons",
+        "resourceType": ["Blog"],
+        "authors": ["Slava Shestopalov", "Design Bridges"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Tools"]
+    },              
+    "732": {
+        "resourceLink": "https://medium.com/free-code-camp/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248",
+        "resourceTitle": "Tools I wish I had known about when I started coding",
+        "resourceType": ["Blog"],
+        "authors": ["Mario Hoyos", "FreeCodeCamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Tools"]
+    },              
+    "731": {
+        "resourceLink": "https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36#:~:text=The%20error%20messages%20should%20clearly,%2C%20friendly%20and%20jargon%2Dfree.",
+        "resourceTitle": "How to Write a Perfect Error Message",
+        "resourceType": ["Blog"],
+        "authors": ["Vitaly Dulenko", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Error messages", "UX writing"]
+    },              
+    "730": {
+        "resourceLink": "https://setapp.com/how-to/edit-mac-hosts-file",
+        "resourceTitle": "How to quickly edit Mac's Hosts file",
+        "resourceType": ["Blog"],
+        "authors": ["Setapp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Hosts file", "MacOS"]
+    },              
+    "729": {
+        "resourceLink": "https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a",
+        "resourceTitle": "The Modern Day Good Product Manager/Bad Product",
+        "resourceType": ["Blog"],
+        "authors": ["Hemal Shah"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Product Manager"]
+    },              
+    "728": {
+        "resourceLink": "https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a",
+        "resourceTitle": "The Modern Day Good Product Manager/Bad Product",
+        "resourceType": ["Blog"],
+        "authors": ["Hemal Shah"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Product Manager"]
+    },              
+    "727": {
+        "resourceLink": "https://a16z.com/2012/06/15/good-product-managerbad-product-manager/",
+        "resourceTitle": "Good Product Manager/Bad Product Manager",
+        "resourceType": ["Blog"],
+        "authors": ["Ben Horowitz", "a16z"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Product Manager"]
+    },              
+    "726": {
+        "resourceLink": "https://blog.prototypr.io/what-is-the-key-to-developing-a-killer-ux-case-study-3c5f07585f3a",
+        "resourceTitle": "What is the key to developing a killer UX case study?",
+        "resourceType": ["Blog"],
+        "authors": ["Yutika Pahuja", "Prototypr"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Case study"]
+    },              
+    "725": {
+        "resourceLink": "https://medium.muz.li/10-best-ux-practices-for-your-ecommerce-store-2ebdbcf77d75",
+        "resourceTitle": "10+ Best UX Practices For Your Ecommerce Store",
+        "resourceType": ["Blog"],
+        "authors": ["Galaxy Weblinks"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Ecommerce"]
+    },              
+    "724": {
+        "resourceLink": "https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/",
+        "resourceTitle": "Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar",
+        "resourceType": ["Blog"],
+        "authors": ["Kevin Kononenko", "FreeCodeCamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["MVC"]
+    },              
+    "723": {
+        "resourceLink": "https://www.spur.org/sites/default/files/2019-07/Design%20Dash%20-%20Facilitators%20Guide.pdf",
+        "resourceTitle": "Design Dash - Facilitator’s Guide",
+        "resourceType": ["Blog"],
+        "authors": ["SPUR"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design dash", "Design sprint"]
+    },              
+    "722": {
+        "resourceLink": "https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812",
+        "resourceTitle": "How to apply a design thinking, HCD, UX or any creative process from scratch",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Nessler", "Digital Experience Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking", "HCD"]
+    },              
+    "721": {
+        "resourceLink": "https://www.outsystems.com/blog/posts/when-design-thinking-meets-design-doing/",
+        "resourceTitle": "When Design Thinking Meets Design Doing (And When It Doesn´t)",
+        "resourceType": ["Blog"],
+        "authors": ["David Holland", "Outsystems"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking"]
+    },              
+    "720": {
+        "resourceLink": "https://medium.com/eightshapes-llc/design-systems-architecture-diagrams-3fc13ec979e3",
+        "resourceTitle": "Design Systems Architecture Diagrams",
+        "resourceType": ["Blog"],
+        "authors": ["Nathan Curtis", "EightShapes"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design system"]
+    },              
+    "719": {
+        "resourceLink": "https://www.nngroup.com/articles/design-systems-101/",
+        "resourceTitle": "Design Systems 101",
+        "resourceType": ["Blog"],
+        "authors": ["Therese Fessenden", "NNGroup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design system"]
+    },              
+    "718": {
+        "resourceLink": "https://medium.com/purplebricks-digital/how-to-name-your-design-system-722a83da287",
+        "resourceTitle": "How to name your Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Stokes"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design system"]
+    },              
+    "717": {
+        "resourceLink": "https://didoo.medium.com/measuring-the-impact-of-a-design-system-7f925af090f7",
+        "resourceTitle": "Measuring the Impact of a Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Cristiano Rastelli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design system"]
+    },              
+    "716": {
+        "resourceLink": "https://www.invisionapp.com/inside-design/design-sprint-2/",
+        "resourceTitle": "The Design Sprint 2.0: What is it and what does it look like?",
+        "resourceType": ["Blog"],
+        "authors": ["Jonathan Courtney", "invision"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"]
+    },              
+    "715": {
+        "resourceLink": "https://designsprintkit.withgoogle.com/methodology/overview",
+        "resourceTitle": "Design Sprint Methodology",
+        "resourceType": ["Blog"],
+        "authors": ["Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design sprint"]
+    },              
+    "714": {
+        "resourceLink": "https://medium.com/design-leadership-notebook/a-new-model-of-the-design-process-35ea103441be",
+        "resourceTitle": "A new model of the design process",
+        "resourceType": ["Blog"],
+        "authors": ["Dennis Hambeukers", "Design Leadership Notebook"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design process"]
+    },              
+    "713": {
+        "resourceLink": "https://uxdesign.cc/everything-you-need-to-know-about-design-principles-32bd60442ae0",
+        "resourceTitle": "Everything you need to know about design principles",
+        "resourceType": ["Blog"],
+        "authors": ["Billy Frazier", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design principles"]
+    },              
+    "712": {
+        "resourceLink": "https://www.invisionapp.com/inside-design/structuring-design-team/",
+        "resourceTitle": "Structuring a design team in a continuous delivery agile environment",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Thelwell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Agile"]
+    },              
+    "711": {
+        "resourceLink": "https://jeffgothelf.com/blog/agile-vs-lean-vs-design-thinking/",
+        "resourceTitle": "Agile vs Lean vs Design Thinking",
+        "resourceType": ["Blog"],
+        "authors": ["Jeff Gothelf"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Lean UX", "Agile", "Design Thinking"]
+    },              
+    "710": {
+        "resourceLink": "https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808",
+        "resourceTitle": "Kano Model — Ways to use it and NOT use it",
+        "resourceType": ["Blog"],
+        "authors": ["IBM Design", "Cary-Anne Olsen-Landis"],
+        "notes": {
+                    "description": "Kando model is a theory of product development. What are the must-haves and what is already expected?",
+                    "bulletPoints": ["Very good at prioritising features, guaging depth of pain points, baselining features over a product lifecycle, natural decay of delight over time", "The natural decay of delight - Daniel Zacarias", "Innovative ideas move from exiting to expected", "Understand customer perspectives on product features", "each feature: measure satisfaction and sentiment", "five categories: attractive, performance, indifferent, must-be, undesired", "How to use: questionnaire with each feature listed separately; ideally have a prototype; no demo, use text description; have / don't have feature - how do you feel?", "Test 15-20 features max to avoid overwhelming interviewees", "Add third question? how important is this feature?", "7 point Likert scale, analytical process, numbers don't say WHY", "Using scenarios is good but they must be validated beforehand"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Kano model"]
+    },          
+    "709": {
+        "resourceLink": "https://hbr.org/2013/05/a-better-way-to-think-about-yo",
+        "resourceTitle": "A Better Way to Think About Your Business Model",
+        "resourceType": ["Blog"],
+        "authors": ["Alexander Osterwalder", "HBR"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Business model"]
+    },          
+    "708": {
+        "resourceLink": "https://www.newyorker.com/magazine/2012/01/30/groupthink",
+        "resourceTitle": "Groupthink - The brainstorming myth",
+        "resourceType": ["Blog"],
+        "authors": ["Jonah Lehrer"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Brainstorming"]
+    },          
+    "707": {
+        "resourceLink": "https://itamargilad.com/gist-framework/",
+        "resourceTitle": "Why you should stop using product roadmaps and try the GIST Framework",
+        "resourceType": ["Blog"],
+        "authors": ["Itamar Gilad"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["GIST"]
+    },          
+    "706": {
+        "resourceLink": "http://www.jschlossberg.com/writing/design-doesnt-deserve-a-seat-at-the-table/",
+        "resourceTitle": "Design doesn't deserve a seat at the table",
+        "resourceType": ["Blog"],
+        "authors": ["Jon Schlossberg"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["UX maturity"]
+    },          
+    "705": {
+        "resourceLink": "https://www.impactplus.com/blog/what-is-the-darci-accountability-grid",
+        "resourceTitle": "What Is the DARCI Accountability Grid & How Can It Save Your Next Project?",
+        "resourceType": ["Blog"],
+        "authors": ["Liz Murphy", "ImpactPlus"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["DARCI", "Framework"]
+    },          
+    "704": {
+        "resourceLink": "https://uxdesign.cc/four-definitions-of-design-9e107fb057c5",
+        "resourceTitle": "Four Definitions of Design",
+        "resourceType": ["Blog"],
+        "authors": ["Sonja Sarah Porter", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design definitions"]
+    },          
+    "703": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/ui-copywriting-tips-that-save-time-and-money-6b1c231bc1df",
+        "resourceTitle": "UI copywriting tips that save time and money",
+        "resourceType": ["Blog"],
+        "authors": ["Bootcamp", "Prasana"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Copywriting"]
+    },          
+    "702": {
+        "resourceLink": "https://uxdesign.cc/the-key-to-personal-branding-for-ux-designers-9fea6d52580d",
+        "resourceTitle": "The key to personal branding for UX designers",
+        "resourceType": ["Blog"],
+        "authors": ["Samuel Harper"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Personal branding"]
+    },          
+    "701": {
+        "resourceLink": "https://www.nateliason.com/blog/deliberate-practice",
+        "resourceTitle": "How to Use Deliberate Practice to Reach the Top 1% of Your Field",
+        "resourceType": ["Blog"],
+        "authors": ["Nat Eliason"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Deliberate practice"]
+    },          
+    "700": {
+        "resourceLink": "https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/",
+        "resourceTitle": "Card Sorting Beginner’s Guide: Improving Your Information Architecture",
+        "resourceType": ["Blog"],
+        "authors": ["Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Card sorting"]
+    },          
+    "699": {
+        "resourceLink": "https://www.creativelive.com/blog/typography-mistakes-checklist/",
+        "resourceTitle": "Avoid Typography Mistakes With This Checklist",
+        "resourceType": ["Blog"],
+        "authors": ["Ilene Strizver"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },          
+    "698": {
+        "resourceLink": "https://medium.com/@hannah.heinson/atomic-2-0-d94e5601200c",
+        "resourceTitle": "Atomic 2.0 - Revisiting the Atomic Design Method for Design Systems",
+        "resourceType": ["Blog"],
+        "authors": ["Hannah Heinson"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Atomic design", "Design system"]
+    },          
+    "697": {
+        "resourceLink": "https://uxdesign.cc/ux-writing-exercises-loading-animations-74a2230f61f8",
+        "resourceTitle": "Loading animations — a UX writing exercise",
+        "resourceType": ["Blog"],
+        "authors": ["UX Collective", "Andy Carney"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Loading animations"]
+    },          
+    "696": {
+        "resourceLink": "https://medium.muz.li/starting-your-career-as-a-ux-designer-2021-guide-eca786479828",
+        "resourceTitle": "Starting your career as a UX designer (2021 Guide)",
+        "resourceType": ["Blog"],
+        "authors": ["Om Arya", "Muzli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Career"],
+        "tags": ["Playbook", "Toolkit"]
+    },          
+    "695": {
+        "resourceLink": "https://blog.sourcerer.io/designing-a-perfect-onboarding-flow-5285c4c3ca91",
+        "resourceTitle": "Designing a perfect onboarding flow",
+        "resourceType": ["Blog"],
+        "authors": ["Ryan Osilla", "Sourcerer Blog"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Onboarding", "User flow"]
+    },          
+    "694": {
+        "resourceLink": "https://uxdesign.cc/selection-controls-ui-component-series-3badc0bdb546",
+        "resourceTitle": "Selection controls — UI component series",
+        "resourceType": ["Blog"],
+        "authors": ["Taras Bakusevych", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Selection controls"]
+    },          
+    "693": {
+        "resourceLink": "https://uxdesign.cc/pop-up-popover-or-popper-a-quick-look-into-ui-terms-cb4114fca2a",
+        "resourceTitle": "Pop-up, popover or popper? — a quick look into UI terms",
+        "resourceType": ["Blog"],
+        "authors": ["Shan Shen", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Poppover"]
+    },          
+    "692": {
+        "resourceLink": "https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202",
+        "resourceTitle": "Leading-Trim: The Future of Digital Typesetting",
+        "resourceType": ["Blog"],
+        "authors": ["Ethan Wang", "Microsoft Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },          
+    "691": {
+        "resourceLink": "https://www.scaleway.com/en/blog/saas-multi-tenant-vs-multi-instance-architectures/",
+        "resourceTitle": "SaaS Solutions - What is the difference between a multi-instance and a multi-tenant architecture",
+        "resourceType": ["Blog"],
+        "authors": ["Louis Moreau", "Scaleway"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["Architecture", "SaaS"]
+    },          
+    "690": {
+        "resourceLink": "https://www.industrialempathy.com/posts/image-optimizations/",
+        "resourceTitle": "Maximally optimizing image loading for the web",
+        "resourceType": ["Blog"],
+        "authors": ["Industrial Empathy", "Malte Ubl"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Performance"]
+    },          
+    "689": {
+        "resourceLink": "https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e",
+        "resourceTitle": "How to Merge K Sorted Arrays",
+        "resourceType": ["Blog"],
+        "authors": ["Sergey Piterman", "Outco"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Design system"]
+    },          
+    "688": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/design-dev-building-scalable-user-interface-the-painless-way-404dc6924e3c",
+        "resourceTitle": "Design + Dev: building scalable user interface the painless way",
+        "resourceType": ["Blog"],
+        "authors": ["Bootcamp", "Angie Sasmita"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    },          
+    "687": {
+        "resourceLink": "https://betterprogramming.pub/libraries-to-increase-productivity-8fb0c1b7994a",
+        "resourceTitle": "11 JavaScript Libraries To Increase Productivity",
+        "resourceType": ["Blog"],
+        "authors": ["mbvissers.eth", "Better Programming"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JS libraries"]
+    },          
+    "686": {
+        "resourceLink": "https://uxdesign.cc/everything-you-need-to-know-about-digital-images-c30801632093",
+        "resourceTitle": "Digital images 101: all you need to know as a designer",
+        "resourceType": ["Blog"],
+        "authors": ["Usama Tahir", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Digital images"]
+    },          
+    "685": {
+        "resourceLink": "https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902",
+        "resourceTitle": "How to Write and Design User-Friendly Error Messages",
+        "resourceType": ["Blog"],
+        "authors": ["Thinking Design", "Nick Babich"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Error messages"]
+    },          
+    "684": {
+        "resourceLink": "https://medium.com/swlh/two-design-system-trends-to-keep-alive-and-two-to-avoid-b306b96fc50a",
+        "resourceTitle": "Two Design System Trends to Keep Alive (and Two to Avoid)",
+        "resourceType": ["Blog"],
+        "authors": ["Supernova"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    },          
+    "683": {
+        "resourceLink": "https://www.emergeinteractive.com/insights/detail/the-essentials-of-favicons/",
+        "resourceTitle": "The 2022 Guide to FavIcons for Nearly Everyone and Every Browser",
+        "resourceType": ["Blog"],
+        "authors": ["Greg Gant", "Emerge"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Favicons"]
+    },          
+    "682": {
+        "resourceLink": "https://prototypr.io/post/design-tokens-cheatsheet",
+        "resourceTitle": "Design Tokens Cheatsheet",
+        "resourceType": ["Blog"],
+        "authors": ["Oscar Gonzalez", "Prototypr"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design tokens", "Design system"]
+    },          
+    "681": {
+        "resourceLink": "https://uxplanet.org/modality-the-one-ux-concept-you-need-to-understand-when-designing-intuitive-user-interfaces-e5e941c7acb1",
+        "resourceTitle": "Modality Is the One UX Concept That Most Designers Don’t Fully Understand",
+        "resourceType": ["Blog"],
+        "authors": ["Fabian Sebastian", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Modal screens"]
+    },          
+    "680": {
+        "resourceLink": "https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931",
+        "resourceTitle": "The Most Important Rule in UX Design that Everyone Breaks",
+        "resourceType": ["Blog"],
+        "authors": ["Jeff Davidson"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Miller's Law"]
+    },          
+    "679": {
+        "resourceLink": "https://buninux.com",
+        "resourceTitle": "Buninux - Figma UI Kits",
+        "resourceType": ["Library"],
+        "authors": ["Buninux"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "UI kits"]
+    },          
+    "678": {
+        "resourceLink": "https://blog.hiri.com/a-novel-approach-to-onboarding-4a6c952a3e62",
+        "resourceTitle": "A novel approach to onboarding",
+        "resourceType": ["Blog"],
+        "authors": ["David Power", "Hiri"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Onboarding"]
+    },          
+    "677": {
+        "resourceLink": "https://blog.hiri.com/a-novel-approach-to-onboarding-4a6c952a3e62",
+        "resourceTitle": "6 visual design principles that UX designers should be aware of",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Lee", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Principles"]
+    },          
+    "676": {
+        "resourceLink": "https://uxdesign.cc/6-visual-design-principles-that-ux-designers-should-be-aware-of-f609f9293703",
+        "resourceTitle": "6 visual design principles that UX designers should be aware of",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Lee", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Principles"]
+    },          
+    "675": {
+        "resourceLink": "https://webfieldmanual.com/design.html",
+        "resourceTitle": "Web Field Manual",
+        "resourceType": ["Documentation"],
+        "authors": ["Justin Baker", "Muzli"],
+        "notes": {
+                    "description": "Curated list of resources",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Accessibility", "Playbook"]
+    },          
+    "674": {
+        "resourceLink": "https://medium.muz.li/the-science-of-color-contrast-an-expert-designers-guide-33e84c41d156",
+        "resourceTitle": "The Science of Color Contrast — An Expert Designer’s Guide",
+        "resourceType": ["Documentation"],
+        "authors": ["Justin Baker", "Muzli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Accessibility", "Color"]
+    },          
+    "673": {
+        "resourceLink": "https://moritzgiessmann.de/accessibility-cheatsheet/",
+        "resourceTitle": "Accessibility Cheatsheet",
+        "resourceType": ["Documentation"],
+        "authors": ["Moritz Giessmann"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"]
+    },          
+    "672": {
+        "resourceLink": "https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/",
+        "resourceTitle": "A Complete Guide To Accessible Front-End Components",
+        "resourceType": ["Blog"],
+        "authors": ["Vitaly Friedman"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Accessibility"]
+    },          
+    "671": {
+        "resourceLink": "https://medium.com/@NateBaldwin/creating-a-flexible-design-token-taxonomy-for-intuits-design-system-81c8ff55c59b",
+        "resourceTitle": "Creating a flexible design token taxonomy for Intuit’s Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Nate Baldwin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Design tokens", "Design system"]
+    },          
+    "670": {
+        "resourceLink": "https://rauno.me/craft/interaction-design",
+        "resourceTitle": "Invisible Details of Interaction Design",
+        "resourceType": ["Blog"],
+        "authors": ["Rauno Freiberg"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Interaction design"]
+    },          
+    "659": {
+        "resourceLink": "https://pimpmytype.com/figma-typography-tips/",
+        "resourceTitle": "Figma Typography Secrets – Seven Pro Tips Revealed",
+        "resourceType": ["Blog"],
+        "authors": ["Oliver Schöndorfer"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Typography"]
+    },          
+    "658": {
+        "resourceLink": "https://danmall.com/posts/what-is-a-design-system/",
+        "resourceTitle": "What is a Design System?",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Mall"],
+        "notes": {
+                    "description": "6 different types of design systems",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design System"]
+    },          
+    "657": {
+        "resourceLink": "https://www.youtube.com/watch?v=MHm2YuszaFM",
+        "resourceTitle": "Agile API Development: Epics, User Stories & Tasks",
+        "resourceType": ["Video"],
+        "authors": ["Apigee"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Agile", "Scrum"]
+    },          
+    "656": {
+        "resourceLink": "https://www.youtube.com/watch?v=ldYzbV0NDp8",
+        "resourceTitle": "IDEO U | What is Design Thinking?",
+        "resourceType": ["Video"],
+        "authors": ["RETHINK", "David Kelley"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design Thinking"]
+    },          
+    "655": {
+        "resourceLink": "https://www.youtube.com/watch?v=yOFau-6qUc8",
+        "resourceTitle": "The Imposter's Design System - Ed Chao, Product Designer, Dropbox",
+        "resourceType": ["Video"],
+        "authors": ["IDEO U", "Ed Chao"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design System"]
+    },          
+    "654": {
+        "resourceLink": "https://www.usertesting.com",
+        "resourceTitle": "UserTesting - human insights platform",
+        "resourceType": ["Tool"],
+        "authors": ["UserTesting"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User research", "User testing"]
+    },          
+    "653": {
+        "resourceLink": "https://dovetail.com",
+        "resourceTitle": "Dovetail - customer insights hub",
+        "resourceType": ["Tool"],
+        "authors": ["Dovetail"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["User research", "User testing"]
+    },          
+    "652": {
+        "resourceLink": "https://maze.co",
+        "resourceTitle": "Maze - Product Insights",
+        "resourceType": ["Tool"],
+        "authors": ["Maze"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["Product"],
+        "tags": ["User research", "User testing"]
+    },          
+    "651": {
+        "resourceLink": "https://uxdesign.cc/one-variant-to-rule-them-all-92e685bae918",
+        "resourceTitle": "One Figma component — 3,360 Variants",
+        "resourceType": ["Blog"],
+        "authors": ["Luke Cardoni", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Components", "Figma"]
+    },          
+    "650": {
+        "resourceLink": "https://www.typeform.com/surveys/survey-design-101/",
+        "resourceTitle": "How to design a survey—11 tips from the experts",
+        "resourceType": ["Blog"],
+        "authors": ["Typeform"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Surveys", "UX research"]
+    },          
+    "649": {
+        "resourceLink": "https://www.youtube.com/watch?v=RFUSvevDwGc",
+        "resourceTitle": "5 steps to the job search process | Wonsulting",
+        "resourceType": ["Video"],
+        "authors": ["Jerry Lee", "Wonsulting"],
+        "notes": {
+                    "description": "Figuring out what career to enter and getting going",
+                    "bulletPoints": ["5 steps - finding the right target jobs, building your resume, crafting your LinkedIn, networking to get an interview, and interviewing", "Resume - recruiters alot 6 seconds to review; structured, good content, predictable", "Linkedin - about section is short and crisp; get recruiters to contact", "Network on Linkedin - college alumni, see where they worked", "Interviews - behavioral (past experience, culture), situational (problem solving, thought process), technical"]
+                },
+        "category": ["Career"],
+        "tags": ["Job search", "Recruitment"]
+    },          
+    "648": {
+        "resourceLink": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/",
+        "resourceTitle": "Things You Should Never Do, Part I",
+        "resourceType": ["Blog"],
+        "authors": ["Swizec Teller"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Software design"]
+    },          
+    "647": {
+        "resourceLink": "https://uxdesign.cc/write-more-design-less-and-better-a454d15f6795",
+        "resourceTitle": "You can't stop the business, or why rewrites fail",
+        "resourceType": ["Blog"],
+        "authors": ["Joel Spolsky"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Software design"]
+    },          
+    "646": {
+        "resourceLink": "https://uxdesign.cc/write-more-design-less-and-better-a454d15f6795",
+        "resourceTitle": "Write more, design less (and better)",
+        "resourceType": ["Blog"],
+        "authors": ["Calo Amico", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Writing", "Design Thinking"]
+    },          
+    "645": {
+        "resourceLink": "https://dev.to/philip-ainberger/understanding-jwts-a-simple-guide-for-beginners-aba",
+        "resourceTitle": "Understanding JWTs: A Simple Guide for Beginners",
+        "resourceType": ["Blog"],
+        "authors": ["Philip"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["JSON", "JWT"]
+    },          
+    "644": {
+        "resourceLink": "https://www.designsystemsforfigma.com",
+        "resourceTitle": "Design Systems For Figma",
+        "resourceType": ["Library"],
+        "authors": ["Josh Cusick"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UI"],
+        "tags": ["Design System", "Figma"]
+    },          
+    "643": {
+        "resourceLink": "https://www.youtube.com/watch?v=hMSSg-pA9lk&t=27s",
+        "resourceTitle": "What is a Design System? 6 Different Types of Design Systems",
+        "resourceType": ["Video"],
+        "authors": ["Dan Mall"],
+        "notes": {
+                    "description": "Identify 6 different types of design systems.",
+                    "bulletPoints": ["Alla Kholmatova - connected patterns, shared practices, coherently organized, serve a digital product", "Andrew Couldwell - laying the foundations; order and consistency, protect brand, elevate UX, increase speed and efficiency in design and build", "Invision/DesignBetter - reusable components, guided by clear standards, assemble for any app ", "Nathan Curtis - library of visual style, components, documentation as code and design for efficient and cohesive products", "Jared Spool definition of design - design is the rendering of intent", "Donella Meadows definition of systems - set of interconnected things that produce their own pattern of behavior over time", "01 - brand identity/visual language (eg Nike, Absolut Vodka, National Parks)", "02 - as tools (UI kits, Figma libraries, code-base frameworks)", "03 - as a product (larger organizations with dedicated team with a backlog; Material Design, Lightening Design, Polaris)", "04 - as a process (how products are built, user-centered flow, process and workflow)", "05 - as a service (internal agency or consultancy to several feature teams)", "06 - as a practice (any repetitive actions, scale)"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design System"]
+    },          
+    "642": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/unlocking-the-power-of-data-driven-design-in-product-development-3a182047d66c",
+        "resourceTitle": "Unlocking the power of data-driven design in product development",
+        "resourceType": ["Blog"],
+        "authors": ["Ana Treviño", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Data-driven"]
+    },          
+    "641": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/beyond-smoothness-examining-friction-as-a-function-in-ux-a18f42d7d789",
+        "resourceTitle": "Beyond Smoothness: Examining Friction as a Function in UX",
+        "resourceType": ["Blog"],
+        "authors": ["Elizabeth Eagle-Simbeye", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Fricionless"]
+    },          
+    "640": {
+        "resourceLink": "https://bootcamp.uxdesign.cc/when-hiring-product-designers-i-look-for-%E1%B4%84%E1%B4%80%CA%80%E1%B4%85%C9%AA%E1%B4%8F-764efdeb033",
+        "resourceTitle": "When hiring product designers, I look for ᴄᴀʀᴅɪᴏ",
+        "resourceType": ["Blog"],
+        "authors": ["Pavel Samsonov", "Bootcamp"],
+        "notes": {
+                    "description": "CARDIO - context, assumptions, research, discoveries, iterations, outcome",
+                    "bulletPoints": ["A design is only as good as its effectiveness at addressing some problem", "Wicked problems — with no clear boundaries or inherent solution conditions", "Tell me about a change you had to make to your initial design that ended up improving it.", "Context - why did it matter? problem being solved from user perspective? Why business prioritize?", "Assumptions - what was the initial hypothesis? Show thought process. Why believe right thing? Ownership of solution and direction?", "Research - how was hypothesis tested? Feedback loops? Seek to disprove hypothesis, or merely validate assumptions?", "Discoveries - useful conclusions from data? Effective synthesis, nuance, refinements? Conflict with business needs? Present and convince stakeholders?", "Iteration - research is only as valuable as the actions that it drives. Compromises? Refinement of design", "Outcome - impact of the decisions? What metrics/KPIs affected? Compare with initial objective.", "30min of CARDIO everyday - regularly reflect on work with these 6 dimensions.", "Able to link decisions to tangible business outcomes, so that value of work is clear?"]
+                },
+        "category": ["Career"],
+        "tags": ["CARDIO", "STAR", "Recruitment"]
+    },    
+    "639": {
+        "resourceLink": "https://brian-le.medium.com/the-decline-in-design-thinking-8fd0145fb4d2",
+        "resourceTitle": "The Decline in Design (Thinking)",
+        "resourceType": ["Blog"],
+        "authors": ["Brian Le"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Design thinking"]
+    },    
+    "638": {
+        "resourceLink": "https://uxplanet.org/ux-debt-vs-ux-backlog-in-the-era-of-product-design-c1d7ae9361f4",
+        "resourceTitle": "UX Backlog, UX Debt and those Shining 5 Stars in Product Design",
+        "resourceType": ["Blog"],
+        "authors": ["Andy Bhattacharyya", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["UX Backlog", "Design Debt "]
+    },    
+    "637": {
+        "resourceLink": "https://www.browserlondon.com/blog/2019/10/01/applying-jobs-to-be-done-framework-saas/",
+        "resourceTitle": "Applying the Jobs to be Done framework to our SaaS platform",
+        "resourceType": ["Blog"],
+        "authors": ["Connor Ward", "Browser London"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": [""]
+                },
+        "category": ["UX"],
+        "tags": ["Jobs-to-be-done", "SaaS"]
+    },    
+    "636": {
+        "resourceLink": "https://www.browserlondon.com/blog/2023/06/23/lean-product-design-a-playbook/",
+        "resourceTitle": "Lean Product Design: A Playbook",
+        "resourceType": ["Blog"],
+        "authors": ["Robert McWhirter", "Browser London"],
+        "notes": {
+                    "description": "Recognise assumptions and prove they are correct",
+                    "bulletPoints": ["Creating a new product - market fit discovery with fast, cheap experiments", "Research existing products and competitors and recruit some beta users for v1", "Explore the ‘problem’ space rigorously, before moving to solutions", "Focus on benefits, not features", "Target customer > underserved needs > product-market fit > value proposition > feature set > UX", "Interviews and surveys, dummy landing pages and ad campaigns to test buying intent", "1 - map out customer jobs, pains and gains", "2 - assumption mapping quadrants; known / unknown / crucial / non-crucial - top right being highest risk", "3 - test assumptions; customer interviews, expert interviews, search trends, shadowing, discussion forums, surveys, user test existing products", "4 - Create multiple test cards for each hypothesis - hypothesis, test, metric, criteria", "5 - document tests on riskiest assumptions in results cards - belief, observations, learnings, actions", "6 - develop value propositon; gain creators, pain relievers, products and services", "7 - business model canvas; desirability, feasibility, validity", "8 - prototype testing; simple landing page, clickable prototype, low-code product, single feature MVP", "8 - Design sprint; test beta with small amount of users", "9 - define a product strategy and roadmap; rank hypothesis in priority, now, next, later", "10 - OKRs to measure effectiveness", "11 - mindset of experimentation; continuous discovery"]
+                },
+        "category": ["UX"],
+        "tags": ["Lean Product Design", "Jobs-to-be-done", "Case study"]
+    },    
+    "635": {
+        "resourceLink": "https://www.youtube.com/watch?v=RfXt_qHDEPw",
+        "resourceTitle": "Sorting Algorithms Explained Visually",
+        "resourceType": ["Video"],
+        "authors": ["Beyond Fireship"],
+        "notes": {
+                    "description": "Implement 7 sorting algorithms with javascript and analyze their performance visually.",
+                    "bulletPoints": ["Selection sort", "Merge sort", "Quick sort", "Radix sort", "Stupid sword"]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript algorithms", "Search", "Sort"]
+    },    
+    "634": {
+        "resourceLink": "https://mazedesign.notion.site/69479454c71a48c49dae6e4f8406bd9a?v=eeb8b6ff563c4f47a69a70ccd5d36c56",
+        "resourceTitle": "Maze Question Bank",
+        "resourceType": ["Documentation"],
+        "authors": ["Maze"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["UX Research"]
+    },    
+    "633": {
+        "resourceLink": "https://underdog.io/blog/how-to-write-a-good-professional-summary",
+        "resourceTitle": "How to Write a Good Professional Summary",
+        "resourceType": ["Blog"],
+        "authors": ["Underdog.io"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Professional summary"]
+    },    
+    "632": {
+        "resourceLink": "https://spectrum.adobe.com/page/axis/",
+        "resourceTitle": "Adobe Spectrum data visualization",
+        "resourceType": ["Blog"],
+        "authors": ["Adobe"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"]
+    },    
+    "631": {
+        "resourceLink": "https://dataschool.com/how-to-design-a-dashboard/find-the-best-visualizations-for-your-metrics/",
+        "resourceTitle": "Find the Best Visualizations for Your Metrics",
+        "resourceType": ["Blog"],
+        "authors": ["The Data School"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"]
+    },    
+    "630": {
+        "resourceLink": "https://datavizcatalogue.com/",
+        "resourceTitle": "The Data Visualisation Catalogue",
+        "resourceType": ["Documentation"],
+        "authors": ["Severino Ribecca"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz"]
+    },    
+    "629": {
+        "resourceLink": "https://www.freefaces.gallery/sans-serif",
+        "resourceTitle": "Free Faces font library",
+        "resourceType": ["Library"],
+        "authors": ["Simon Foster"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Free fonts"]
+    },    
+    "628": {
+        "resourceLink": "https://www.smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
+        "resourceTitle": "The UX Of Flight Searches: How We Challenged Industry Standards",
+        "resourceType": ["Blog"],
+        "authors": ["Robert Goesch"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Case Study"]
+    },    
+    "627": {
+        "resourceLink": "https://varun.ca",
+        "resourceTitle": "Varun Vachhar portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Varun Vachhar"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Portfolio"]
+    },    
+    "626": {
+        "resourceLink": "https://www.eikedrescher.com/",
+        "resourceTitle": "Eike Drescher portfolio",
+        "resourceType": ["Blog"],
+        "authors": ["Eike Drescher"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Portfolio"]
+    },    
+    "625": {
+        "resourceLink": "https://automattic.design/2023/07/05/twentieth-year-of-wordpress-designed/",
+        "resourceTitle": "Twentieth year of WordPress, Designed",
+        "resourceType": ["Blog"],
+        "authors": ["Markoserb", "Automattic"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Wordpress"]
+    },    
+    "624": {
+        "resourceLink": "https://starlight.astro.build/",
+        "resourceTitle": "Starlight - Build Documentation",
+        "resourceType": ["Library"],
+        "authors": ["Astro"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Documentation"]
+    },    
+    "623": {
+        "resourceLink": "https://d3-graph-gallery.com",
+        "resourceTitle": "The D3.js  Graph Gallery",
+        "resourceType": ["Library"],
+        "authors": ["Yan Holtz"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz", "D3.js"]
+    },    
+    "622": {
+        "resourceLink": "https://www.react-graph-gallery.com/",
+        "resourceTitle": "The React Graph Gallery",
+        "resourceType": ["Library"],
+        "authors": ["Yan Holtz"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data viz", "React", "D3.js"]
+    },    
+    "621": {
+        "resourceLink": "https://world.hey.com/dhh/design-for-the-web-without-figma-4bc3a218",
+        "resourceTitle": "Design for the web without Figma",
+        "resourceType": ["Blog"],
+        "authors": ["David Heinemeier Hansson"],
+        "notes": {
+                    "description": "Designing directly with HTML and CSS.",
+                    "bulletPoints": ["Figma is an intermediary abstraction", "Work faster without this abstraction layer", "Web designers work directly with native materials - HTML, CSS, JavaScript... with some Ruby", "Design process and its iterations are with real code in the real app against real data", "Creativity thrives on constraints", "Figma is best used at early conceptual stages or for native app design"]
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Site speed"]
+    },    
+    "620": {
+        "resourceLink": "https://csswizardry.com/2023/06/site-speed-topography-remapped/",
+        "resourceTitle": "Site-Speed Topography Remapped",
+        "resourceType": ["Blog"],
+        "authors": ["Harry Roberts", "CSS Wizardry"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Site speed"]
+    },    
+    "619": {
+        "resourceLink": "https://www.nan.fyi/svg-paths",
+        "resourceTitle": "Understanding SVG Paths",
+        "resourceType": ["Documentation"],
+        "authors": ["Nanda Syahrasyad"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["svg"]
+    },    
+    "618": {
+        "resourceLink": "https://medium.com/@to.design/storybook-to-figma-the-ultimate-guide-93234198784f",
+        "resourceTitle": "Storybook to Figma — The ultimate guide",
+        "resourceType": ["Blog"],
+        "authors": ["to.design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Figma", "Storybook"]
+    },    
+    "617": {
+        "resourceLink": "https://medium.com/flexport-ux/designing-a-design-team-a9a066bc48a5",
+        "resourceTitle": "Designing a Design Team",
+        "resourceType": ["Blog"],
+        "authors": ["Andrew Coyle", "Flexport UX"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Desing Ops"],
+        "tags": ["Design Team"]
+    },    
     "616": {
         "resourceLink": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
         "resourceTitle": "28 Javascript Array Methods: A Cheat Sheet for Developer",
@@ -335,7 +2891,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Database"]
+        "tags": ["Database", "API"]
     },    
     "589": {
         "resourceLink": "https://sketch.systems/",
@@ -1325,10 +3881,10 @@
         "resourceLink": "https://indeed.design/article/the-art-of-storytelling-for-case-studies",
         "resourceTitle": "The Art of Storytelling for Case Studies",
         "resourceType": ["Blog"],
-        "authors": ["Ingrid Elias"],
+        "authors": ["Ingrid Elias", "Indeed Design"],
         "notes": {
-                    "description": "",
-                    "bulletPoints": []
+                    "description": "Story - anticipation, conflict buildup, climax, payoff; plot, characters and conflict (pain-points)",
+                    "bulletPoints": ["Hiring manager questions: where project started, why started, what was outcome"]
                 },
         "category": ["Career"],
         "tags": ["Portfolio"]
@@ -5015,11 +7571,11 @@
         "resourceType": ["Blog"],
         "authors": ["Jano le Roux", "The Startup"],
         "notes": {
-                    "description": "Good UX designers make their products the heroes; Great UX designers make their customer’s the heroes.",
-                    "bulletPoints": ["Story: identifiable character; authentic emotion; turning point moment; details that matter"]
+                    "description": "Customer is the 'hero' - not project",
+                    "bulletPoints": ["Tell a visual story", "Not what 'you' say - what 'they' say'", "Story: identifiable character; authentic emotion; turning point moment; details that matter", "Empathy - your customer's triggers, problems, why they choose you, how product can help them"]
                 },
         "category": ["Career"],
-        "tags": ["Portfolio", "Case studies", "Empathy"],
+        "tags": ["Portfolio", "Case studies", "Empathy", "Story telling"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
