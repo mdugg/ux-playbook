@@ -3,9 +3,7 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch(
-		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
-	)
+	fetch("../../data/resources.json")
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(resourceCard(json));
@@ -21,7 +19,6 @@ const resourceCard = (json) => {
 	resourceCountEl.innerHTML += `${resourceCount.length}`;
 
 	// card
-	// loop in reverse order - Object.keys() array https://bobbyhadz.com/blog/javascript-loop-object-reverse-order
 	const allResults = document.getElementById("searchResults");
 	allResults.innerHTML = Object.entries(json)
 		.reverse()
