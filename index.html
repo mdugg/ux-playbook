@@ -9,33 +9,35 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Libre+Baskerville:wght@700&family=Libre+Franklin:wght@100;300;400;600;700;800;900&family=Patua+One&display=swap" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script> 
     <!-- Local JS -->
     <script src="./assets/js/scripts.js" defer></script>
     <!-- Local Styles -->
     <link href="./assets/styles/global.css" rel="stylesheet">   
-    <title>UX Playbook | Martin Duggan | Product Designer</title>
+    <title>UX Toolkit | Martin Duggan | Product Designer</title>
 </head>
-<body class="ux-grid">
-    <header class="ux-header"> 
+<body class="uxtk-template">
+    <header class="uxtk-header"> 
+        <div class="count">
+            Loaded: 
+            <span id="resourceCountLoaded"></span> 
+                of 
+            <span id="resourceCount"></span>
+        </div> 
         <h1 class="title">
-            <span>UX Playbook</span> 
-            <span>Martin Duggan / Product Designer</span>
+            UX Toolkit 
         </h1>
     </header>
-    <main class="ux-content">
-        <section class="ux-results">
-            <div class="count">
-                Loaded: 
-                <span id="resourceCountLoaded"></span> 
-                    of 
-                <span id="resourceCount"></span>
-            </div>        
+    <main class="uxtk-content">
+        <div class="uxtk-categories-block">
+            <ul id="categories" class="uxtk-categories"></ul>
+        </div>
+        <section class="uxtk-results">       
             <ul id="searchResults" class="search-results">
             </ul>
         </section>
-        <aside class="ux-sidebar"></aside>
-        <aside class="ux-sidebar"></aside>
+        <aside class="uxtk-sidebar">
+            <ul id="tags"></ul>
+        </aside>
     </main>
 </body>
 </html>

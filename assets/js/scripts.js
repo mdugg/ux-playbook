@@ -3,10 +3,14 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch("../../data/resources.json")
+	fetch(
+		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
+	)
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(resourceCard(json));
+			resolve(buildCategories(json));
+			resolve(buildTags(json));
 		})
 		.catch((error) => reject(error));
 });
@@ -37,18 +41,37 @@ const resourceCard = (json) => {
 						<dl class="resource-card__meta">
 							<span class="resource-card__meta-item category">
 								<dt class="resource-card__meta-tag">Category</dt>
-								<dd class="resource-card__meta-value">${value.category}</dd>
+								<dd class="resource-card__meta-value">
+									${value.category}
+								</dd>
 							</span>
 							<span class="resource-card__meta-item tags">
 								<dt class="resource-card__meta-tag">Tags</dt>
-								<dd class="resource-card__meta-value">${value.tags.join(", ")}</dd>
+								<dd class="resource-card__meta-value">
+									${value.tags.join(", ")}
+								</dd>
 							</span>
 							<span class="resource-card__meta-item media">
 								<dt class="resource-card__meta-tag">Media</dt>
-								<dd class="resource-card__meta-value">${value.resourceType}</dd>
+								<dd class="resource-card__meta-value">
+									${value.resourceType}
+								</dd>
 							</span>
-							<span class="resource-card__count"># ${key}</span>
+							<span class="resource-card__count">
+								# ${key}
+							</span>
 						</dl>
+						<ul>
+							${
+								value.notes.description
+									? value.notes.bulletPoints
+											.map((bullet) => {
+												return `<li>${bullet}</li>`;
+											})
+											.join("")
+									: ""
+							}
+						</ul>
 					</article>
 				</li>
 				`;
@@ -56,6 +79,7 @@ const resourceCard = (json) => {
 		})
 		.join("");
 };
+
 // COUNT HOW MANY RESOURCES LOADED ON PAGE
 // https://dev.to/isabelxklee/how-to-loop-through-an-htmlcollection-379k
 // research Array.from (...nodelist / HTMLCollection)
@@ -69,6 +93,106 @@ window.addEventListener("DOMContentLoaded", (event) => {
 	}, "1000");
 });
 
-const buildCategories = () => {};
-const buildTags = () => {};
-const resultCounter = () => {};
+// CATEGORIES
+const buildCategories = (json) => {
+	// DOM hooks
+	let categoriesDOM = document.getElementById("categories");
+	// empty array to receive each category array, flatten later
+	let categories = [];
+	for (const obj in json) {
+		categories.push(json[obj].category);
+	}
+	// flatten nested arrays
+	let categoriesCombined = categories.flat();
+	let categoriesCount = {};
+
+	// Count occurrences of each category
+	categoriesCombined.forEach((category) => {
+		if (categoriesCount[category]) {
+			categoriesCount[category]++;
+		} else {
+			categoriesCount[category] = 1;
+		}
+	});
+	// unique categories only using new Set; remove duplicates
+	let uniqueCategories = Array.from(new Set(categoriesCombined));
+	// Sort unique categories alphabetically
+	let sortedCategories = uniqueCategories.slice().sort();
+
+	categoriesDOM.innerHTML = sortedCategories
+		.map((category) => {
+			return `
+			<li class="item">
+				<button data-category="${category}" class="button">
+					<span class="label">${category}</span> 
+					<span class="count">(${categoriesCount[category]})</span>
+				</button>
+			</li>
+			`;
+		})
+		.join("");
+};
+
+// TAGS
+const buildTags = (json) => {
+	let tagsDOM = document.getElementById("tags");
+	let categories = [];
+	for (const obj in json) {
+		categories.push(json[obj].tags);
+	}
+	let categoriesCombined = categories.flat();
+	let categoriesCount = {};
+
+	categoriesCombined.forEach((category) => {
+		if (categoriesCount[category]) {
+			categoriesCount[category]++;
+		} else {
+			categoriesCount[category] = 1;
+		}
+	});
+	let uniqueCategories = Array.from(new Set(categoriesCombined));
+	let sortedCategories = uniqueCategories.slice().sort();
+
+	tagsDOM.innerHTML = sortedCategories
+		.map((category) => {
+			return `
+			<li class="tag">
+				<button data-category="${category}">
+					${category} (${categoriesCount[category]})
+				</button>
+			</li>
+			`;
+		})
+		.join("");
+};
+
+/* categories click event filter
+Prompt:
+write javascript for a button click event that will filter a JSON object with nested objects that all have a categories property with an array as a value. Filter all the objects that where a string in the categories array matches the label of the button clicked
+*/
+const jsonData = {
+	child1: {
+		categories: ["CategoryA", "CategoryB", "CategoryC"],
+	},
+	child2: {
+		categories: ["CategoryC", "CategoryD"],
+	},
+};
+
+// Function to filter JSON based on button click
+const filterJSONByCategory = (category) => {
+	const filteredData = {};
+	for (const key in jsonData) {
+		if (jsonData[key].categories.includes(category)) {
+			filteredData[key] = jsonData[key];
+		}
+	}
+	return filteredData;
+};
+const button = document.getElementById("filterButton");
+
+button.addEventListener("click", (event) => {
+	const clickedCategory = event.target.textContent;
+	const filteredJSON = filterJSONByCategory(clickedCategory);
+	console.log(filteredJSON);
+});

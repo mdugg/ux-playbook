@@ -20,12 +20,14 @@
     &__content {
         display:flex;
         flex-direction: column;
+        margin-top: 0;
+        margin-bottom: 0;
     }
     &__link {
         font-family: var(--font-display);
         font-weight: var(--font-regular);
         font-style: regular;
-        font-size: 1.5rem;
+        font-size: 2rem;
         color: var(--gray-600);
         text-decoration: none;
         transition: var(--transition-all);
