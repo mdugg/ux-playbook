@@ -38,29 +38,28 @@ const resourceCard = (json) => {
 								${value.resourceTitle}
 							</a>
 						</h3>
-						<dl class="resource-card__meta">
-							<span class="resource-card__meta-item category">
-								<dt class="resource-card__meta-tag">Category</dt>
-								<dd class="resource-card__meta-value">
-									${value.category}
-								</dd>
-							</span>
-							<span class="resource-card__meta-item tags">
-								<dt class="resource-card__meta-tag">Tags</dt>
-								<dd class="resource-card__meta-value">
-									${value.tags.join(", ")}
-								</dd>
+						<div class="resource-card__meta">
+							<span class="resource-card__meta-value">
+								${value.authors.join(", ")}
 							</span>
 							<span class="resource-card__meta-item media">
-								<dt class="resource-card__meta-tag">Media</dt>
-								<dd class="resource-card__meta-value">
-									${value.resourceType}
-								</dd>
+								${value.resourceType}
 							</span>
 							<span class="resource-card__count">
 								# ${key}
 							</span>
-						</dl>
+						</div>
+						<div class="resource-card__meta">
+							<span class="resource-card__meta-value">
+								${value.category}
+							</span>
+							<span class="resource-card__meta-value">
+								${value.tags.join(", ")}
+							</span>
+							<span class="resource-card__meta-item media">
+								${value.resourceType}
+							</span>
+						</div>
 						<ul>
 							${
 								value.notes.description
@@ -123,7 +122,7 @@ const buildCategories = (json) => {
 		.map((category) => {
 			return `
 			<li class="item">
-				<button data-category="${category}" class="button">
+				<button data-category="${category}" class="button-category">
 					<span class="label">${category}</span> 
 					<span class="count">(${categoriesCount[category]})</span>
 				</button>
@@ -157,8 +156,9 @@ const buildTags = (json) => {
 		.map((category) => {
 			return `
 			<li class="tag">
-				<button data-category="${category}">
-					${category} (${categoriesCount[category]})
+				<button data-category="${category}" class="button-tags">
+					<span class="label">${category}</span> 
+					<span class="count">(${categoriesCount[category]})</span>
 				</button>
 			</li>
 			`;
@@ -170,29 +170,23 @@ const buildTags = (json) => {
 Prompt:
 write javascript for a button click event that will filter a JSON object with nested objects that all have a categories property with an array as a value. Filter all the objects that where a string in the categories array matches the label of the button clicked
 */
-const jsonData = {
-	child1: {
-		categories: ["CategoryA", "CategoryB", "CategoryC"],
-	},
-	child2: {
-		categories: ["CategoryC", "CategoryD"],
-	},
-};
 
-// Function to filter JSON based on button click
-const filterJSONByCategory = (category) => {
-	const filteredData = {};
-	for (const key in jsonData) {
-		if (jsonData[key].categories.includes(category)) {
-			filteredData[key] = jsonData[key];
-		}
-	}
-	return filteredData;
+let initCategories = () => {
+	let categoryButtons = document.querySelectorAll(".button-category");
+	console.log(categoryButtons);
+	categoryButtons.forEach((button) => {
+		button.addEventListener("click", () => {
+			console.log("button clicked: ", button.textContent);
+		});
+	});
 };
-const button = document.getElementById("filterButton");
-
-button.addEventListener("click", (event) => {
-	const clickedCategory = event.target.textContent;
-	const filteredJSON = filterJSONByCategory(clickedCategory);
-	console.log(filteredJSON);
-});
+let categoryBtnFilter = () => {};
+// observe category filters container
+let categoryButtonsContainer = document.querySelector(".uxtk-categories");
+let categoryFiltersObserverConfig = { childList: true };
+let categoryFiltersObserver = new MutationObserver(initCategories);
+categoryFiltersObserver.observe(
+	categoryButtonsContainer,
+	categoryFiltersObserverConfig
+);
+// categoryFiltersObserver.disconnect;

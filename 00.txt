@@ -1,5 +1,21 @@
-Design Playbook app with vanilla js
-- second brain
+==== DATA
+    "schema": {
+        "version": "v2.2.0",
+        "resourceLink": "url",
+        "resourceTitle": "Title",
+        "resourceType": ["Blog", "Video", "Course", "Documentation", "Library", "Tool"],
+        "authors": ["Author Name", "Publisher Name", "Platform Name"],
+        "notes": {
+                    "description": "Summary",
+                    "bulletPoints": ["bullet 1", "bullet point 2"]
+                },
+        "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
+        "tags": ["tag 1", "tag 2"]
+    }, 
+
+
+==== PRODUCT NOTES
+
 - core: what is the 20% that gives the 80% / Pareto principle / 
 - signal from the noise, but searchable peripheral knowledge
 - track everything that I'm consuming for my Product Design profession
@@ -7,12 +23,7 @@ Design Playbook app with vanilla js
 - keyword search
 	https://www.udemy.com/courses/search/?src=ukw&q=javascript
 - categories
-- work with JSON and vanilla JS only
-- this is a curated list only, be discerning on what gets included
-- have an archive function
-articles
-	- read true/false (bookmarked)
-	- takeaways / bullet highlights / summary
+- JSON ... flexible format for re-purposing
 URIs for each resource to make it shareable 
 - URL params
 - REST api ?
