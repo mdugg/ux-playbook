@@ -3,9 +3,7 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch(
-		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
-	)
+	fetch("../../data/resources.json")
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(resourceCard(json));
@@ -18,9 +16,9 @@ new Promise((resolve, reject) => {
 // MAIN RESULTS SECTION
 const resourceCard = (json) => {
 	// count resources in the JSON db
-	let resourceCount = Object.entries(json);
-	let resourceCountEl = document.getElementById("resourceCount");
-	resourceCountEl.innerHTML += `${resourceCount.length}`;
+	// let resourceCount = Object.entries(json);
+	// let resourceCountEl = document.getElementById("resourceCount");
+	// resourceCountEl.innerHTML += `${resourceCount.length}`;
 
 	// card
 	const allResults = document.getElementById("searchResults");
@@ -88,7 +86,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 		let resourcesCount =
 			document.getElementsByClassName("resource-item").length;
 		resourceCountEl.innerHTML += `${resourcesCount}`;
-		console.log(resourcesCount);
+		// console.log(resourcesCount);
 	}, "1000");
 });
 
@@ -173,7 +171,7 @@ write javascript for a button click event that will filter a JSON object with ne
 
 let initCategories = () => {
 	let categoryButtons = document.querySelectorAll(".button-category");
-	console.log(categoryButtons);
+	// console.log(categoryButtons);
 	categoryButtons.forEach((button) => {
 		button.addEventListener("click", () => {
 			console.log("button clicked: ", button.textContent);

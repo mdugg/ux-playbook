@@ -11,23 +11,27 @@
     <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Libre+Baskerville:wght@700&family=Libre+Franklin:wght@100;300;400;600;700;800;900&family=Patua+One&display=swap" rel="stylesheet">
     <!-- Local JS -->
     <script src="./assets/js/scripts.js" defer></script>
+    <script src="app.js" type="module"></script>    
     <!-- Local Styles -->
     <link href="./assets/styles/global.css" rel="stylesheet">   
     <title>UX Toolkit | Martin Duggan | Product Designer</title>
 </head>
 <body class="uxtk-template">
+    <toolkit-header></toolkit-header>
+    <!-- 
     <header class="uxtk-header"> 
         <h1 class="title">UX Toolkit </h1>
-    </header>
+    </header> 
     <div class="resource-count">
         Loaded: <span id="resourceCountLoaded"></span> of <span id="resourceCount"></span>
     </div> 
+    -->
     <main class="uxtk-content">
         <div class="uxtk-categories-block">
             <ul id="categories" class="uxtk-categories"></ul>
         </div>
-        <section class="uxtk-results">       
-            <ul id="searchResults" class="search-results">
+        <section class="uxtk-results toolkit-results">       
+            <ul id="searchResults" class="search-results toolkit-results-list">
             </ul>
         </section>
         <aside class="uxtk-sidebar">

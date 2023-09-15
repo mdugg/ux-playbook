@@ -1,0 +1,19 @@
+.header {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: var(--pale-cyan);
+    border-radius: 1rem;
+}
+.title {
+    font-family: var(--font-display);
+    font-weight: var(--font-light);
+    font-size: var(--font-size-display);
+    line-height: 1;
+    color: var(--white);
+    margin: 0;
+}
+.resource-count {
+    font-size: var(--font-size-small);
+}
