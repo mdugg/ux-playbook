@@ -3,7 +3,9 @@
 
 // GET MAIN RESOURCE
 new Promise((resolve, reject) => {
-	fetch("../../data/resources.json")
+	fetch(
+		"https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
+	)
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(resourceCard(json));
