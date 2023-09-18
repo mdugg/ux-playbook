@@ -9,7 +9,7 @@ new Promise((resolve, reject) => {
 		.then((data) => data.json())
 		.then((json) => {
 			resolve(resourceCard(json));
-			resolve(buildCategories(json));
+			// resolve(buildCategories(json));
 			resolve(buildTags(json));
 		})
 		.catch((error) => reject(error));
@@ -79,23 +79,25 @@ const resourceCard = (json) => {
 		.join("");
 };
 
-// COUNT HOW MANY RESOURCES LOADED ON PAGE
-// https://dev.to/isabelxklee/how-to-loop-through-an-htmlcollection-379k
-// research Array.from (...nodelist / HTMLCollection)
+/* 
+COUNT HOW MANY RESOURCES LOADED ON PAGE
+https://dev.to/isabelxklee/how-to-loop-through-an-htmlcollection-379k
+research Array.from (...nodelist / HTMLCollection)
 window.addEventListener("DOMContentLoaded", (event) => {
 	let resourceCountEl = document.getElementById("resourceCountLoaded");
 	setTimeout(() => {
 		let resourcesCount =
 			document.getElementsByClassName("resource-item").length;
 		resourceCountEl.innerHTML += `${resourcesCount}`;
-		// console.log(resourcesCount);
 	}, "1000");
 });
+*/
 
 // CATEGORIES
+/*
 const buildCategories = (json) => {
 	// DOM hooks
-	let categoriesDOM = document.getElementById("categories");
+	let categoriesDOM = document.getElementById("categories2");
 	// empty array to receive each category array, flatten later
 	let categories = [];
 	for (const obj in json) {
@@ -131,6 +133,7 @@ const buildCategories = (json) => {
 		})
 		.join("");
 };
+*/
 
 // TAGS
 const buildTags = (json) => {
@@ -165,28 +168,3 @@ const buildTags = (json) => {
 		})
 		.join("");
 };
-
-/* categories click event filter
-Prompt:
-write javascript for a button click event that will filter a JSON object with nested objects that all have a categories property with an array as a value. Filter all the objects that where a string in the categories array matches the label of the button clicked
-*/
-
-let initCategories = () => {
-	let categoryButtons = document.querySelectorAll(".button-category");
-	// console.log(categoryButtons);
-	categoryButtons.forEach((button) => {
-		button.addEventListener("click", () => {
-			console.log("button clicked: ", button.textContent);
-		});
-	});
-};
-let categoryBtnFilter = () => {};
-// observe category filters container
-let categoryButtonsContainer = document.querySelector(".uxtk-categories");
-let categoryFiltersObserverConfig = { childList: true };
-let categoryFiltersObserver = new MutationObserver(initCategories);
-categoryFiltersObserver.observe(
-	categoryButtonsContainer,
-	categoryFiltersObserverConfig
-);
-// categoryFiltersObserver.disconnect;

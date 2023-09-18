@@ -1,0 +1,32 @@
+.toolkit-categories {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0;
+}
+.toolkit-categories-item {
+    display: inline;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    list-style-type: none;
+}
+
+.button {
+    height: 2rem;
+    padding: 0 1rem;
+    border-style: none;
+    border-radius: 0.4rem;
+    background-color: var(--tint-categories);
+    transition: var(--transition-all);
+}
+.button:hover {
+  cursor: pointer;
+  background-color: var(--light-aquamarine);
+}
+.button-label {
+    font-size: var(--font-size-text);
+    line-height: 1;
+}
+.button-count {
+    font-size: var(--font-size-small);
+}
+

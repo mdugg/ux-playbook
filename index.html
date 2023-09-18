@@ -18,17 +18,9 @@
 </head>
 <body class="uxtk-template">
     <toolkit-header></toolkit-header>
-    <!-- 
-    <header class="uxtk-header"> 
-        <h1 class="title">UX Toolkit </h1>
-    </header> 
-    <div class="resource-count">
-        Loaded: <span id="resourceCountLoaded"></span> of <span id="resourceCount"></span>
-    </div> 
-    -->
     <main class="uxtk-content">
         <div class="uxtk-categories-block">
-            <ul id="categories" class="uxtk-categories"></ul>
+            <toolkit-filter-categories></toolkit-filter-categories>
         </div>
         <section class="uxtk-results toolkit-results">       
             <ul id="searchResults" class="search-results toolkit-results-list">
@@ -40,3 +32,4 @@
     </main>
 </body>
 </html>
+

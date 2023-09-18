@@ -1,13 +1,3 @@
-/*
-https://raw.githubusercontent.com/mdugg/ux-playbook/main/services/API.js
-../main/services/API.js
-../services/API.js
-
-./main/components/header.css
-./components/header.css
-
-*/
-
 import MainArticles from "../services/API.js";
 
 export default class ToolkitHeader extends HTMLElement {
@@ -45,8 +35,8 @@ export default class ToolkitHeader extends HTMLElement {
 	}
 	render(data) {
 		this.root.innerHTML = `
+			<link rel="stylesheet" href="./components/header.css">
 			<header class="header">
-				<link rel="stylesheet" href="./components/header.css">
 				<h1 class="title">UX Toolkit</h1>
 				<div class="resource-count">
 					Loaded: 
