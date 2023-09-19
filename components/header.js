@@ -4,6 +4,7 @@ export default class ToolkitHeader extends HTMLElement {
 	constructor() {
 		super();
 		this.root = this.attachShadow({ mode: "open" });
+		this.root.innerHTML = `<p>Loading ...</p>`;
 	}
 	connectedCallback() {
 		// get the data first, then build the UI

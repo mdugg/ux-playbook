@@ -11,23 +11,21 @@
     <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Libre+Baskerville:wght@700&family=Libre+Franklin:wght@100;300;400;600;700;800;900&family=Patua+One&display=swap" rel="stylesheet">
     <!-- JS -->
     <script src="app.js" type="module"></script>    
-    <script src="./assets/js/scripts.js" defer></script>
-    <!-- Local Styles -->
+    <!-- Styles -->
     <link href="./assets/styles/global.css" rel="stylesheet">   
     <title>UX Toolkit | Martin Duggan | Product Designer</title>
 </head>
 <body class="uxtk-template">
     <toolkit-header></toolkit-header>
     <main class="uxtk-content">
-        <div class="uxtk-categories-block">
+        <aside class="uxtk-categories-block">
             <toolkit-filter-categories></toolkit-filter-categories>
-        </div>
-        <section class="uxtk-results toolkit-results">       
-            <ul id="searchResults" class="search-results toolkit-results-list">
-            </ul>
+        </aside>
+        <section class="uxtk-results">
+            <toolkit-resources-listed></toolkit-resources-listed>
         </section>
         <aside class="uxtk-sidebar">
-            <ul id="tags"></ul>
+            <toolkit-filter-tags></toolkit-filter-tags>
         </aside>
     </main>
 </body>

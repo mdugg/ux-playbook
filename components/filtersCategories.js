@@ -4,6 +4,7 @@ export default class FiltersCategories extends HTMLElement {
 	constructor() {
 		super();
 		this.root = this.attachShadow({ mode: "open" });
+		this.root.innerHTML = `<p>Loading ...</p>`;
 	}
 
 	async connectedCallback() {
@@ -18,7 +19,6 @@ export default class FiltersCategories extends HTMLElement {
 			});
 		});
 
-		// Create an HTML list container using template literals
 		this.root.innerHTML = `
 		<link rel="stylesheet" href="./components/filtersCategories.css">
         <ul id="categories" class="toolkit-categories">
@@ -38,41 +38,22 @@ export default class FiltersCategories extends HTMLElement {
       `;
 	}
 }
-
-// Define the custom HTML element
 customElements.define("toolkit-filter-categories", FiltersCategories);
 
 /*
-pseudo code
-create the Web Component again with the following edits:
-1. import JSON data: "import MainArticles from "../services/API.js";"
-2. create a custom HTML element "customElements.define("toolkit-filter-catergories", FiltersCategories);"
-3. attach the ShadowDOM this.root = this.attachShadow({ mode: "open" });
-4. loop through the JSON data that has the following schema:
-{        
-    "key": {   
-        "resourceLink": "url",
-        "resourceTitle": "string",
-        "resourceType": [],
-        "authors": [],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": [],
-        "tags": []
-    },  
-}
-5. collect all "category" string values into an array and count occurrences of each category
-6. output an HTML list container: <ul id="categories" class="uxtk-categories">
-7. output each category with the occurance count with the HTML :
-    <li class="item">
-        <button data-category="${category}" class="button-category">
-            <span class="label">${category}</span> 
-            <span class="count">(${categoriesCount[category]})</span>
-        </button>
-    </li>
-8. use template literals to render all HTML
-9. the result should be a Web Component that renders the category values with an occurance count as an HTML list on an HTML page
+I want this custom component to have a click event which will filter the JSON data and return an array of objects that have the category matching the button label.
+
+The matching array needs to be rendered on the HTML page, replacing the existing rendered search results; which is another custom element.
+
+If clicked, the button should have a selected state. If clicked again it should be deselected, and the search results revert to show all of the objects in the JSON data.
+
+Only one category button can have a selected state at a time; multi-select is not permitted. If a different category button is selected, any existing selected state will be cleared and applied to the most recently clicked button.
+
+Each new button click event will filter the JSON data accordingly and update the search results.
+
+Advise if it's better to include this functionality within this web component or if it should be accessibile as a separate service.
+
+
+
 
 */

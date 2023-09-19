@@ -8,76 +8,76 @@ new Promise((resolve, reject) => {
 	)
 		.then((data) => data.json())
 		.then((json) => {
-			resolve(resourceCard(json));
+			// resolve(resourceCard(json));
 			// resolve(buildCategories(json));
-			resolve(buildTags(json));
+			// resolve(buildTags(json));
 		})
 		.catch((error) => reject(error));
 });
 
 // MAIN RESULTS SECTION
-const resourceCard = (json) => {
-	// count resources in the JSON db
-	// let resourceCount = Object.entries(json);
-	// let resourceCountEl = document.getElementById("resourceCount");
-	// resourceCountEl.innerHTML += `${resourceCount.length}`;
+// const resourceCard = (json) => {
+// count resources in the JSON db
+// let resourceCount = Object.entries(json);
+// let resourceCountEl = document.getElementById("resourceCount");
+// resourceCountEl.innerHTML += `${resourceCount.length}`;
 
-	// card
-	const allResults = document.getElementById("searchResults");
-	allResults.innerHTML = Object.entries(json)
-		.reverse()
-		.map(([key, value]) => {
-			if (key !== "schema") {
-				return `
-				<li class="resource-item">
-					<article class="resource-card">
-						<h3 class="resource-card__content">
-							<a class="resource-card__link"
-								href="${value.resourceLink}" 
-								target="_blank">
-								${value.resourceTitle}
-							</a>
-						</h3>
-						<div class="resource-card__meta">
-							<span class="resource-card__meta-value">
-								${value.authors.join(", ")}
-							</span>
-							<span class="resource-card__meta-item media">
-								${value.resourceType}
-							</span>
-							<span class="resource-card__count">
-								# ${key}
-							</span>
-						</div>
-						<div class="resource-card__meta">
-							<span class="resource-card__meta-value">
-								${value.category}
-							</span>
-							<span class="resource-card__meta-value">
-								${value.tags.join(", ")}
-							</span>
-							<span class="resource-card__meta-item media">
-								${value.resourceType}
-							</span>
-						</div>
-						<ul>
-							${
-								value.notes.description
-									? value.notes.bulletPoints
-											.map((bullet) => {
-												return `<li>${bullet}</li>`;
-											})
-											.join("")
-									: ""
-							}
-						</ul>
-					</article>
-				</li>
-				`;
-			}
-		})
-		.join("");
-};
+// card
+// 	const allResults2 = document.getElementById("searchResults2");
+// 	allResults2.innerHTML = Object.entries(json)
+// 		.reverse()
+// 		.map(([key, value]) => {
+// 			if (key !== "schema") {
+// 				return `
+// 				<li class="resource-item">
+// 					<article class="resource-card">
+// 						<h3 class="resource-card__content">
+// 							<a class="resource-card__link"
+// 								href="${value.resourceLink}"
+// 								target="_blank">
+// 								${value.resourceTitle}
+// 							</a>
+// 						</h3>
+// 						<div class="resource-card__meta">
+// 							<span class="resource-card__meta-value">
+// 								${value.authors.join(", ")}
+// 							</span>
+// 							<span class="resource-card__meta-item media">
+// 								${value.resourceType}
+// 							</span>
+// 							<span class="resource-card__count">
+// 								# ${key}
+// 							</span>
+// 						</div>
+// 						<div class="resource-card__meta">
+// 							<span class="resource-card__meta-value">
+// 								${value.category}
+// 							</span>
+// 							<span class="resource-card__meta-value">
+// 								${value.tags.join(", ")}
+// 							</span>
+// 							<span class="resource-card__meta-item media">
+// 								${value.resourceType}
+// 							</span>
+// 						</div>
+// 						<ul>
+// 							${
+// 								value.notes.description
+// 									? value.notes.bulletPoints
+// 											.map((bullet) => {
+// 												return `<li>${bullet}</li>`;
+// 											})
+// 											.join("")
+// 									: ""
+// 							}
+// 						</ul>
+// 					</article>
+// 				</li>
+// 				`;
+// 			}
+// 		})
+// 		.join("");
+// };
 
 /* 
 COUNT HOW MANY RESOURCES LOADED ON PAGE
@@ -136,35 +136,35 @@ const buildCategories = (json) => {
 */
 
 // TAGS
-const buildTags = (json) => {
-	let tagsDOM = document.getElementById("tags");
-	let categories = [];
-	for (const obj in json) {
-		categories.push(json[obj].tags);
-	}
-	let categoriesCombined = categories.flat();
-	let categoriesCount = {};
+// const buildTags = (json) => {
+// 	let tagsDOM = document.getElementById("tags");
+// 	let categories = [];
+// 	for (const obj in json) {
+// 		categories.push(json[obj].tags);
+// 	}
+// 	let categoriesCombined = categories.flat();
+// 	let categoriesCount = {};
 
-	categoriesCombined.forEach((category) => {
-		if (categoriesCount[category]) {
-			categoriesCount[category]++;
-		} else {
-			categoriesCount[category] = 1;
-		}
-	});
-	let uniqueCategories = Array.from(new Set(categoriesCombined));
-	let sortedCategories = uniqueCategories.slice().sort();
+// 	categoriesCombined.forEach((category) => {
+// 		if (categoriesCount[category]) {
+// 			categoriesCount[category]++;
+// 		} else {
+// 			categoriesCount[category] = 1;
+// 		}
+// 	});
+// 	let uniqueCategories = Array.from(new Set(categoriesCombined));
+// 	let sortedCategories = uniqueCategories.slice().sort();
 
-	tagsDOM.innerHTML = sortedCategories
-		.map((category) => {
-			return `
-			<li class="tag">
-				<button data-category="${category}" class="button-tags">
-					<span class="label">${category}</span> 
-					<span class="count">(${categoriesCount[category]})</span>
-				</button>
-			</li>
-			`;
-		})
-		.join("");
-};
+// 	tagsDOM.innerHTML = sortedCategories
+// 		.map((category) => {
+// 			return `
+// 			<li class="tag">
+// 				<button data-category="${category}" class="button-tags">
+// 					<span class="label">${category}</span>
+// 					<span class="count">(${categoriesCount[category]})</span>
+// 				</button>
+// 			</li>
+// 			`;
+// 		})
+// 		.join("");
+// };

@@ -1,5 +1,3 @@
-// "https://raw.githubusercontent.com/mdugg/ux-playbook/main/data/resources.json"
-// or
 // "https://mdugg.github.io/ux-playbook/data/resources.json"
 // "../data/resources.json"
 
@@ -19,7 +17,7 @@ const MainArticles = {
 			// console.log(data);
 			return dataArray;
 		} catch (error) {
-			console.error("Error fetching data: ", error);
+			console.error("Error fetching... resources.json - ", error);
 			throw error;
 		}
 	},
