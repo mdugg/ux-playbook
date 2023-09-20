@@ -2242,7 +2242,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["UX"],
-        "tags": ["Narrative"]
+        "tags": ["Framework"]
     },     
     "964": {   
         "resourceLink": "https://bootcamp.uxdesign.cc/how-i-structured-my-design-system-using-figmas-new-variables-7b1be33ce2aa",
@@ -2614,7 +2614,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Networking"]
+        "tags": ["Internet"]
     },     
     "933": {   
         "resourceLink": "https://www.servicedesignshow.com/customer-journey/templates-and-examples/",
@@ -3178,7 +3178,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Microservices", "API"]
+        "tags": ["API"]
     },     
     "886": {
         "resourceLink": "https://medium.com/ideas-by-idean/workshop-how-to-prioritize-your-design-system-components-d7fc8334b712",
@@ -3382,7 +3382,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Mobile first"]
+        "tags": ["Framework"]
     },     
     "869": {
         "resourceLink": "https://danramsden.medium.com/the-limitations-of-the-double-diamond-b43728b59b74",
@@ -3910,7 +3910,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Resume", "Networking"]
+        "tags": ["Resume"]
     },     
     "825": {
         "resourceLink": "https://uxpin.medium.com/design-handoff-is-a-collaborative-effort-learn-how-to-structure-it-better-edc18388c0a2",
@@ -4210,7 +4210,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Mindsets"]
+        "tags": ["Framework"]
     }, 
     "800": {
         "resourceLink": "https://uxplanet.org/5-essential-ux-rules-for-dialog-design-4de258c22116",
@@ -4402,7 +4402,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Networking"]
+        "tags": ["Marketing"]
     }, 
     "784": {
         "resourceLink": "https://www.invisionapp.com/inside-design/measure-value-design/",
@@ -5122,7 +5122,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["MVC"]
+        "tags": ["Patterns"]
     },              
     "723": {
         "resourceLink": "https://www.spur.org/sites/default/files/2019-07/Design%20Dash%20-%20Facilitators%20Guide.pdf",
@@ -5638,7 +5638,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Modal screens"]
+        "tags": ["Framework"]
     },          
     "680": {
         "resourceLink": "https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931",
@@ -5650,7 +5650,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Miller's Law"]
+        "tags": ["Heuristics"]
     },          
     "679": {
         "resourceLink": "https://buninux.com",
@@ -6382,7 +6382,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["No handoff"]
+        "tags": ["Framework"]
     },    
     "608": {
         "resourceLink": "https://uxdesign.cc/is-agile-an-anti-design-pattern-1a5d6a87c069",
@@ -6766,7 +6766,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Product Design", "Notion", "Playbook"]
+        "tags": ["Playbook"]
     },    
     "575": {
         "resourceLink": "https://accessibility-for-teams.com/",
@@ -6946,7 +6946,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Figma", "Plugin", "Motion Design"]
+        "tags": ["Figma"]
     },    
     "560": {
         "resourceLink": "https://nicklawrencedesign.com/",
@@ -7078,7 +7078,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["CSS", "Media queries", "Responsive design"]
+        "tags": ["CSS", "Responsive design"]
     },    
     "549": {
         "resourceLink": "https://www.kodingkitty.com/blog/blend-modes/",
@@ -7306,7 +7306,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Memory", "Computer science"]
+        "tags": ["Computer science"]
     },    
     "530": {
         "resourceLink": "https://motion.zajno.com",
@@ -7318,7 +7318,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Motion", "Animation"]
+        "tags": ["Animation"]
     },    
     "529": {
         "resourceLink": "https://adamsilver.io/blog/material-design-text-fields-are-badly-designed/",
@@ -7330,7 +7330,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Material Design", "Forms", "Text fields"]
+        "tags": ["Components", "Forms"]
     },    
     "528": {
         "resourceLink": "https://subtls.pages.dev/",
@@ -7510,7 +7510,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["UX", "Mobile", "Navigation"]
+        "tags": ["Responsive design", "Cheatsheet"]
     },    
     "513": {
         "resourceLink": "https://garden.bradwoods.io/notes/css/blend-modes",
@@ -7534,7 +7534,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Ontology", "Modeling"]
+        "tags": ["Framework"]
     },    
     "511": {
         "resourceLink": "https://www.youtube.com/watch?v=ByGJQzlzxQg",
@@ -8592,7 +8592,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Parallax"],
+        "tags": ["JavaScript"],
         "reviewedDates": []
     },
     "424": {
@@ -9177,7 +9177,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Offline"],
+        "tags": ["Apps"],
         "reviewedDates": []
     },
     "379": {
@@ -9436,8 +9436,8 @@
                     "description": "",
                     "bulletPoints": []
                 },
-        "category": ["UX"],
-        "tags": ["Material Design"],
+        "category": ["UI"],
+        "tags": ["Design system"],
         "reviewedDates": []
     },
     "359": {
@@ -10081,7 +10081,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["No-code", "Site builder"],
+        "tags": ["No-code"],
         "reviewedDates": [],
         "archived": false,
         "status": "Core /  Reference"
@@ -10618,7 +10618,7 @@
                     "bulletPoints": ["Three-step decision framework - Current (today) vs. future (to-be); Hypothesis vs. research; Low-fidelity vs. high-fidelity", "Empathy maps help team members understand the user’s mindset.", "A customer journey map is a visualization of the process that a person goes through in order to accomplish a goal tied to a specific business or product.", "An experience map is a visualization of an entire end-to-end experience that a “generic” person goes through in order to accomplish a goal", "Service blueprints are counterparts to customer journey maps, focused on the employees."]
                 },
         "category": ["UX"],
-        "tags": ["Mapping", "Mental models"],
+        "tags": ["Mapping", "Framework"],
         "reviewedDates": ["12", "2022"] ,
         "archived": false,
         "status": "Reference"
@@ -10633,7 +10633,7 @@
                     "bulletPoints": ["The bigger your map’s audience, the more polished it should be.", "Start by designing a visual system for the map", "Bbuild a structure for your map"]
                 },
         "category": ["UX"],
-        "tags": ["Mapping", "Mental models"],
+        "tags": ["Mapping", "Framework"],
         "reviewedDates": ["12", "2022"] ,
         "archived": false,
         "status": "Reference"
@@ -10813,7 +10813,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["User story map", "Miro"],
+        "tags": ["Mapping", "Template"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Core"
@@ -10993,7 +10993,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Notifications"],
+        "tags": ["Components"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -11008,7 +11008,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Notifications"],
+        "tags": ["Components"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -11053,7 +11053,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Mobile", "Notifications"],
+        "tags": ["Mobile", "Components"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -11399,7 +11399,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Mobile", "Navigation"],
+        "tags": ["Mobile", "Components"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11624,7 +11624,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["iOS", "Native", "Prototype"],
+        "tags": ["Prototyping"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -12451,7 +12451,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["Marketing", "SEO", "SaaS"],
+        "tags": ["SaaS"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12766,7 +12766,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "Memoize", "Memoization"],
+        "tags": ["JavaScript"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"

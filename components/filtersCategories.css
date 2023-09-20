@@ -16,7 +16,9 @@
     border-style: none;
     border-radius: 0.4rem;
     background-color: var(--tint-categories);
-    transition: var(--transition-all);
+    transition-property: background-color;
+    transition-duration: 300ms;
+    transition-timing-function: ease-out;
 }
 .button:hover {
   cursor: pointer;
@@ -30,3 +32,7 @@
     font-size: var(--font-size-small);
 }
 
+.button.active {
+    color: white;
+    background-color: var(--blue);
+}

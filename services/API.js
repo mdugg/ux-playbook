@@ -2,7 +2,7 @@
 // "../data/resources.json"
 
 const MainArticles = {
-	url: "https://mdugg.github.io/ux-playbook/data/resources.json",
+	url: "../data/resources.json",
 	fetchArticles: async () => {
 		try {
 			const result = await fetch(MainArticles.url);
@@ -17,7 +17,7 @@ const MainArticles = {
 			// console.log(data);
 			return dataArray;
 		} catch (error) {
-			console.error("Error fetching... resources.json - ", error);
+			console.error("Error fetching resources.json - ", error);
 			throw error;
 		}
 	},

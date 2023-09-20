@@ -83,3 +83,15 @@ export default class ResourcesListed extends HTMLElement {
 	}
 }
 customElements.define("toolkit-resources-listed", ResourcesListed);
+
+/*
+- I want to change where this component gets its data
+- I want it to 'react' to a separate Javascript file called 'Results.js'
+- Results.js will have the initial state of including all the data as currently imported by 'import MainArticles from "../services/API.js";'
+- this data will be controlled by category and tag filters included in this application
+- the category and tag filters will act in combination to only show the objects that contain the selected category and tags
+- this component, ReourcesListed will react to category and tag filters and render the new results using the HTML within the template literal
+
+
+
+*/
