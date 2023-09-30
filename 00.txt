@@ -10,7 +10,13 @@
                     "bulletPoints": ["bullet 1", "bullet point 2"]
                 },
         "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
-        "tags": ["tag 1", "tag 2"]
+        "tags": ["tag 1", "tag 2"],
+        "imageThumb": "https://url",
+        "imageThumbAlt": "alt text"
+        ///
+        "reviewedDates": [],
+        "archived": false,
+        "status": "Reference"
     }, 
 
 

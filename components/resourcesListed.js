@@ -1,4 +1,5 @@
 import MainArticles from "../services/API.js";
+import { resultsList } from "../services/Results.js";
 
 export default class ResourcesListed extends HTMLElement {
 	constructor() {
@@ -7,25 +8,38 @@ export default class ResourcesListed extends HTMLElement {
 			mode: "open",
 		};
 		this.root = this.attachShadow(configShadow);
-		this.root.innerHTML = `<p>Loading ...</p>`;
-		// initialize the data property
-		this.data = null;
+		this.root.innerHTML = `<p>Loading resources...</p>`;
+		// initialize the dataFiltered property
+		this.dataFiltered = null;
 		this.loadData = async () => {
-			this.data = await MainArticles.fetchArticles();
+			this.dataFiltered = await MainArticles.fetchArticles();
+		};
+		this.resultsData = null;
+		this.loadResultsData = async () => {
+			// this.resultsData = await Results.dataState();
+			this.resultsData = await resultsList;
 		};
 	}
 	connectedCallback() {
-		// Call render() after the data is loaded
+		// Call render() after the dataFiltered is loaded
 		this.loadData().then(() => {
 			this.render();
 		});
+		this.loadResultsData().then(() => {
+			console.log("Results data : ", this.resultsData);
+		});
+		document.addEventListener("CategoryFilterChanged", () => {
+			// Call your render function to re-render the component
+			this.render();
+		});
 	}
+	// Function to re-render the component when data changes
 	render() {
-		if (this.data) {
+		if (this.dataFiltered) {
 			this.root.innerHTML = `
 		    <link rel="stylesheet" href="./components/resourcesListed.css">
             <ul class="toolkit-results-list">
-                ${Object.entries(this.data)
+                ${Object.entries(this.dataFiltered)
 					.reverse()
 					.map(
 						([key, value]) => `
@@ -85,13 +99,5 @@ export default class ResourcesListed extends HTMLElement {
 customElements.define("toolkit-resources-listed", ResourcesListed);
 
 /*
-- I want to change where this component gets its data
-- I want it to 'react' to a separate Javascript file called 'Results.js'
-- Results.js will have the initial state of including all the data as currently imported by 'import MainArticles from "../services/API.js";'
-- this data will be controlled by category and tag filters included in this application
-- the category and tag filters will act in combination to only show the objects that contain the selected category and tags
-- this component, ReourcesListed will react to category and tag filters and render the new results using the HTML within the template literal
-
-
 
 */

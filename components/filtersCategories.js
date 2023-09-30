@@ -5,26 +5,26 @@ export default class FiltersCategories extends HTMLElement {
 		super();
 		this.root = this.attachShadow({ mode: "open" });
 		this.root.innerHTML = "<p>Loading categories ...</p>";
-		this.data = null; // Store the fetched data
-		this.loadData();
+		this.dataUI = null; // Store the fetched dataUI
+		this.loadDataUI();
 		this.activeCategory = null; // Track the active category
 	}
 
 	connectedCallback() {}
 
-	async loadData() {
-		this.data = await MainArticles.fetchArticles();
+	async loadDataUI() {
+		this.dataUI = await MainArticles.fetchArticles();
 		this.render();
 	}
 
 	render() {
-		if (!this.data) {
+		if (!this.dataUI) {
 			this.root.innerHTML = "<p>Failed to load the Category filters</p>";
 			return;
 		}
-		// Process JSON data to collect category values and count occurrences
+		// Process JSON dataUI to collect category values and count occurrences
 		const categoriesCount = {};
-		this.data.forEach((item) => {
+		this.dataUI.forEach((item) => {
 			item.category.forEach((category) => {
 				categoriesCount[category] =
 					(categoriesCount[category] || 0) + 1;
@@ -41,11 +41,17 @@ export default class FiltersCategories extends HTMLElement {
 		const categoriesList = this.root.querySelector("#categories");
 
 		// Define the event handler function
-		const handleCategoryClick = (category) => {
-			// this.activeCategory = category; Update active category
+		let handleCategoryClick = (category) => {
 			this.setActiveCategory(category); // Update active category
-			console.log(category);
-			// FiltersManager.setSelectedCategory(category);
+			// Create a custom event
+			let CustomCategoryFilter = new CustomEvent(
+				"CategoryFilterChanged",
+				{
+					detail: { selectedCategory: category },
+				}
+			);
+			// Dispatch the custom event
+			document.dispatchEvent(CustomCategoryFilter);
 		};
 
 		// Dynamically create and attach buttons with event listeners
@@ -102,19 +108,6 @@ export default class FiltersCategories extends HTMLElement {
 customElements.define("toolkit-filter-categories", FiltersCategories);
 
 /*
-          ${Object.entries(categoriesCount)
-				.map(
-					([category, count]) => `
-                <li class="toolkit-categories-item">
-                	<button 
-						onclick="handleCategoryClick('${category}')"
-						class="button">
-                		<span class="button-label">${category}</span> 
-                		<span class="button-count">(${count})</span>
-                	</button>
-                </li>
-              `
-				)
-				.join("")}
+
 
 */

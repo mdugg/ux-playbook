@@ -1,5 +1,923 @@
 
 {        
+    "1228": {   
+        "resourceLink": "https://briefs.video/videos/what-are-accessibility-overlays/",
+        "resourceTitle": "What Are Accessibility Overlays?",
+        "resourceType": ["Video"],
+        "authors": ["Heydon Pickering"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"]
+    },     
+    "1227": {   
+        "resourceLink": "https://overlayfactsheet.com",
+        "resourceTitle": "Web Accessibility Overlay Fact Sheet",
+        "resourceType": ["Documentation"],
+        "authors": ["Heydon Pickering"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Accessibility"]
+    },     
+    "1226": {   
+        "resourceLink": "https://www.designbetter.co/",
+        "resourceTitle": "invision Design Better library",
+        "resourceType": ["Documentation"],
+        "authors": ["invision"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Playbook"]
+    },     
+    "1225": {   
+        "resourceLink": "https://lea.verou.me/blog/2020/09/the-failed-promise-of-web-components/",
+        "resourceTitle": "The failed promise of Web Components",
+        "resourceType": ["Blog"],
+        "authors": ["Lea Verou"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Web components", "Critique"]
+    },     
+    "1224": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/mastering-chatgpt-jobs-to-be-done-activities-in-design-thinking-a-comprehensive-guide-for-the-c29cc24a7c5a",
+        "resourceTitle": "Mastering ChatGPT+‘Jobs to Be Done’ Activities in Design Thinking: A Comprehensive Guide for the Digital Era",
+        "resourceType": ["Blog"],
+        "authors": ["Cezary Gesikowski", "Bootcamp"],
+        "notes": {
+                    "description": "The primary goal of the Jobs to Be Done (JTBD) activity is to break down the steps required to achieve a task or goal",
+                    "bulletPoints": ["Put each step in context; identify pain points for each action", "Prompts: generate questions; analyze feedback; categorize insights; create job statements; evaluate potential"]
+                },
+        "category": ["UX"],
+        "tags": ["AI", "Jobs-to-be-done", "Templates"],
+        "imageThumb": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VQ7S1wGrXoiWlImQIdrGjw.png",
+        "imageThumbAlt": "Whiteboarding with stickies"
+    },     
+    "1223": {   
+        "resourceLink": "https://uxplanet.org/mobile-first-design-guide-2023-fdd597455d",
+        "resourceTitle": "Mobile-First Design Guide 2023",
+        "resourceType": ["Blog"],
+        "authors": ["Design Studio", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Mobile", "Responsive design"]
+    },     
+    "1222": {   
+        "resourceLink": "https://medium.com/@mariah.ore/how-to-engage-your-long-term-memory-for-better-qualitative-user-research-296287758daf",
+        "resourceTitle": "Why it’s important to use memory strategically in qualitative research",
+        "resourceType": ["Blog"],
+        "authors": ["Mariah Ore"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1221": {   
+        "resourceLink": "https://leonardocolor.io",
+        "resourceTitle": "Leonardo Color - color tools for design systems",
+        "resourceType": ["Tool"],
+        "authors": ["Adobe"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design system", "Color"]
+    },     
+    "1220": {   
+        "resourceLink": "https://contentauthenticity.org",
+        "resourceTitle": "Content Authenticity Initiative",
+        "resourceType": ["Documentation"],
+        "authors": ["Adobe"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["AI"]
+    },     
+    "1219": {   
+        "resourceLink": "https://labs.adobe.com/",
+        "resourceTitle": "Adobe Labs",
+        "resourceType": ["Tool"],
+        "authors": ["Adobe"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["AI"]
+    },     
+    "1218": {   
+        "resourceLink": "https://tobiasahlin.com/blog/introduction-to-ab-testing/",
+        "resourceTitle": "A brief introduction to A/B-testing",
+        "resourceType": ["Blog"],
+        "authors": ["Tobias Ahlin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["User testing", "Validation"]
+    },     
+    "1217": {   
+        "resourceLink": "https://matejlatin.com/resources",
+        "resourceTitle": "Matej Latin typography resources",
+        "resourceType": ["Blog"],
+        "authors": ["Matej Latin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography", "Portfolio"]
+    },     
+    "1216": {   
+        "resourceLink": "https://themarkup.org/blacklight/2020/09/22/what-they-know-now",
+        "resourceTitle": "The surveillance economy is getting creepier and more personal",
+        "resourceType": ["Blog"],
+        "authors": ["Julia Angwin", "The Markup"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },     
+    "1215": {   
+        "resourceLink": "https://medium.muz.li/cracking-the-design-challenge-a-guide-for-senior-product-designers-9d6e2456ec39",
+        "resourceTitle": "Cracking the Design Challenge: A Guide for Senior Product Designers",
+        "resourceType": ["Blog"],
+        "authors": ["Deovrat Dwivedi", "Muzli - Design Inspiration"],
+        "notes": {
+                    "description": "Job interview presentations",
+                    "bulletPoints": ["Interactive Figma decks get the best response in interview presentations", "Make your deck look like the company’s brand", "Problem statement is more impactful than final design", "60:40 process-to-product ratio in your slides", "Show verbal, written, and visual communication skills", "Show curiosity, ask questions about design problem; request assets like competitive analysis, personas, brand guidelines", "Demonstrate advanced abilities with design tool; Figma prototyping"]
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio", "Case study", "Jobs"]
+    },     
+    "1214": {   
+        "resourceLink": "https://www.youtube.com/watch?v=730UiP7dZeo",
+        "resourceTitle": "Formative vs. Summative Usability Evaluation",
+        "resourceType": ["Blog"],
+        "authors": ["NNgroup", "Maria Rosala"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    },     
+    "1213": {   
+        "resourceLink": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+        "resourceTitle": "RICE: Simple prioritization for product managers",
+        "resourceType": ["Blog"],
+        "authors": ["Sean McBride", "Intercom"],
+        "notes": {
+                    "description": "RICE: Reach x Impact x Confidence / Effort = RICE score",
+                    "bulletPoints": ["Prioritization formula and scoring system for a Product roadmap", "Pet ideas vs broad reach; clever ideas vs impact; new ideas vs confidence; effort vs costs and benefits"]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Framework"],
+        "imageThumb": "https://www.intercom.com/blog/wp-content/uploads/2016/03/formula.png",
+        "imageThumbAlt": "Equation: Reach x Impact x Confidence / Effort = RICE score"
+    },     
+    "1212": {   
+        "resourceLink": "https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb",
+        "resourceTitle": "Concepts I use every day: BAPO",
+        "resourceType": ["Blog"],
+        "authors": ["Jason Yip", "Nerd For Tech"],
+        "notes": {
+                    "description": "BAPO: Business → Architecture → Process → Organization",
+                    "bulletPoints": ["'Structure drives strategy' is an inside-out way of thinking", "'Strategy drives structure' is an outside-in way of thinking.", "Business (or product) strategy drives technical Architecture which drives Process (aka ways of working) which drives Organisation structure."]
+                },
+        "category": ["Design Ops"],
+        "tags": ["Framework"],
+        "imageThumb": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*I45BFF7rSy5BA2uq.jpg",
+        "imageThumbAlt": "Diagram for business, architecture, process, organization"
+    },     
+    "1211": {   
+        "resourceLink": "https://userpilot.medium.com/user-behavior-analytics-examples-and-use-cases-fe33c39e53b6",
+        "resourceTitle": "User Behavior Analytics Examples And Use Cases",
+        "resourceType": ["Blog"],
+        "authors": ["Userpilot Team"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Analytics", "Metrics", "Validation"]
+    },     
+    "1210": {   
+        "resourceLink": "https://medium.com/3rd-corner/frameworks-for-design-research-in-diverse-scenarios-8fe1c88b0a7b",
+        "resourceTitle": "Frameworks for Design Research in Diverse Scenarios",
+        "resourceType": ["Blog"],
+        "authors": ["Julian Jordan", "3rd corner"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1209": {   
+        "resourceLink": "https://maximeheckel.com/",
+        "resourceTitle": "Maxime Heckel portfolio",
+        "resourceType": ["Documentation"],
+        "authors": ["Maxime Heckel"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"]
+    },     
+    "1208": {   
+        "resourceLink": "https://rbefored.com/create-customer-journey-maps-that-dont-suck-337e62eb39d1",
+        "resourceTitle": "Create Customer Journey Maps That Don’t Suck",
+        "resourceType": ["Blog"],
+        "authors": ["Debbie Levitt", "R Before D"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Artifacts", "Mapping"]
+    },     
+    "1207": {   
+        "resourceLink": "https://uxtbe.medium.com/ten-myths-about-ux-metrics-4e87e7769c0",
+        "resourceTitle": "Ten myths about UX metrics",
+        "resourceType": ["Blog"],
+        "authors": ["Torresburriel Estudio"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Validation", "Metrics"]
+    },     
+    "1206": {   
+        "resourceLink": "https://optinmonster.com/best-keyword-research-tools-to-boost-your-organic-traffic/",
+        "resourceTitle": "13 Best Keyword Research Tools to Boost Your Organic Traffic",
+        "resourceType": ["Blog"],
+        "authors": ["optinmonster.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1205": {   
+        "resourceLink": "https://css-irl.info/cool-tools/",
+        "resourceTitle": "CSS In Real Life - Cool Tools",
+        "resourceType": ["Library"],
+        "authors": ["css-irl"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["CSS"]
+    },     
+    "1204": {   
+        "resourceLink": "https://growth.design/psychology",
+        "resourceTitle": "The Psychology of Design",
+        "resourceType": ["Documentation"],
+        "authors": ["Growth Design inc"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Principles"]
+    },     
+    "1203": {   
+        "resourceLink": "https://ux.shopify.com/design-lead-starter-kit-9dc4b03ecfa",
+        "resourceTitle": "(Design) Lead Starter Kit",
+        "resourceType": ["Blog"],
+        "authors": ["Meg Robichaud", "Shopify UX"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Process"]
+    },     
+    "1202": {   
+        "resourceLink": "https://medium.com/people-ai-research/generative-ai-a-golden-opportunity-for-ux-fe02c927a599",
+        "resourceTitle": "Generative AI: A Golden Opportunity for UX",
+        "resourceType": ["Blog"],
+        "authors": ["Ayça Çakmakli", "People + AI Research @ Google"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research", "AI"]
+    },     
+    "1201": {   
+        "resourceLink": "https://jtbdtoolkit.medium.com/using-ai-to-augment-jtbd-research-be0265953fcb",
+        "resourceTitle": "Using AI To Augment JTBD Research",
+        "resourceType": ["Blog"],
+        "authors": ["JTBD Toolkit"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Jobs-to-be-done", "Artifacts", "AI"]
+    },     
+    "1200": {   
+        "resourceLink": "https://redesigningdesign.systems/component-process/getting-started.html",
+        "resourceTitle": "Redesigning Design Systems",
+        "resourceType": ["Documentation"],
+        "authors": ["Ness Grixti"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system"]
+    },     
+    "1199": {   
+        "resourceLink": "https://uxplanet.org/complete-guide-to-user-flows-your-map-to-ux-success-1fc0975f49ea",
+        "resourceTitle": "Complete guide to user flows — your map to UX success",
+        "resourceType": ["Blog"],
+        "authors": ["Justinmind", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Mapping", "User flow"]
+    },     
+    "1198": {   
+        "resourceLink": "https://coyleandrew.medium.com/the-downsides-of-design-systems-10cd88f861ec",
+        "resourceTitle": "The downsides of design systems",
+        "resourceType": ["Blog"],
+        "authors": ["Andrew Coyle"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Design system", "Critique"]
+    },     
+    "1197": {   
+        "resourceLink": "https://productcoalition.com/moving-from-a-project-to-a-product-mindset-699385d125d9",
+        "resourceTitle": "Moving From a Project to a Product Mindset",
+        "resourceType": ["Blog"],
+        "authors": ["Caspar Mahoney", "Product Coalition"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Framework"]
+    },     
+    "1196": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/why-im-inlove-with-lean-ux-f4168360955c",
+        "resourceTitle": "Why I’m in love with Lean UX",
+        "resourceType": ["Blog"],
+        "authors": ["Jorge Valencia"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["LeanUX", "Framework"]
+    },     
+    "1195": {   
+        "resourceLink": "https://medium.com/@smashingmag/designing-a-better-design-handoff-file-in-figma-e86b44d9068d",
+        "resourceTitle": "Designing A Better Design Handoff File In Figma",
+        "resourceType": ["Blog"],
+        "authors": ["Smashing Magazine"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Figma"]
+    },     
+    "1194": {   
+        "resourceLink": "https://uxdesign.cc/the-design-of-design-teams-f6e7a675077",
+        "resourceTitle": "The design of design teams",
+        "resourceType": ["Blog"],
+        "authors": ["Matthew Godfrey"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Team"]
+    },     
+    "1193": {   
+        "resourceLink": "https://userpilot.medium.com/jobs-to-be-done-template-framework-and-examples-e9e336dc7d84",
+        "resourceTitle": "Jobs-to-Be-Done Template: Framework and Examples",
+        "resourceType": ["Blog"],
+        "authors": ["Userpilot Team"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Framework", "Jobs-to-be-done"]
+    },     
+    "1192": {   
+        "resourceLink": "https://andy-bell.co.uk/a-more-modern-css-reset/",
+        "resourceTitle": "A (more) Modern CSS Reset",
+        "resourceType": ["Blog"],
+        "authors": ["Andy Bell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["CSS"]
+    },     
+    "1191": {   
+        "resourceLink": "https://userpilot.medium.com/product-led-growth-plg-funnel-vs-flywheel-f3659e45322a",
+        "resourceTitle": "Product-Led Growth (PLG) Funnel vs. Flywheel",
+        "resourceType": ["Blog"],
+        "authors": ["Userpilot Team"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Framework"]
+    },     
+    "1190": {   
+        "resourceLink": "https://uxdesign.cc/responsive-ui-design-with-figmas-variables-and-modes-2f97a36be6f7",
+        "resourceTitle": "Responsive UI design with Figma’s variables and modes",
+        "resourceType": ["Blog"],
+        "authors": ["Christine Vallaure", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Figma"]
+    },     
+    "1189": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/user-interviews-101-567acc1d477f",
+        "resourceTitle": "User interviews can be a time sink. Here’s 5 tips to be more efficient",
+        "resourceType": ["Blog"],
+        "authors": ["Rosie Hoggmascall", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1188": {   
+        "resourceLink": "https://danramsden.medium.com/how-to-lead-discovery-8fef017f5577",
+        "resourceTitle": "How to lead 'discovery' ",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Ramsden"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Research"]
+    },     
+    "1187": {   
+        "resourceLink": "https://douglaspowell1.medium.com/design-career-frameworks-the-messy-plumbing-of-scaled-design-programs-500f599f0724",
+        "resourceTitle": "Design Career Frameworks: The Messy Plumbing of Scaled Design Programs",
+        "resourceType": ["Blog"],
+        "authors": ["Doug Powell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Process", "Framework"]
+    },     
+    "1186": {   
+        "resourceLink": "https://www.wordsoftype.com",
+        "resourceTitle": "Words of Type",
+        "resourceType": ["Documentation"],
+        "authors": ["Lisa Huang"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },     
+    "1185": {   
+        "resourceLink": "https://medium.com/@adam.fard/ux-prototyping-in-ux-design-guide-97b93a7b0c8f",
+        "resourceTitle": "UX Prototyping in UX Design Guide",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Fard"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Prototyping"]
+    },     
+    "1184": {   
+        "resourceLink": "https://medium.com/@jnblatz/ux-interviews-how-to-ruin-research-by-messing-up-the-questions-b853649b9f03",
+        "resourceTitle": "UX Interviews: How to Ruin Research by Messing up the Questions",
+        "resourceType": ["Blog"],
+        "authors": ["Jen Blatz"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research", "Critique"]
+    },     
+    "1183": {   
+        "resourceLink": "https://medium.com/thinking-design/how-to-turn-user-research-into-smart-design-decisions-c2c6f02f98b",
+        "resourceTitle": "How to Turn User Research into Smart Design Decisions",
+        "resourceType": ["Blog"],
+        "authors": ["Nick Babich", "Thinking Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1182": {   
+        "resourceLink": "https://uxdesign.cc/how-to-build-trust-with-others-by-cleaning-your-figma-files-f283e72cb057",
+        "resourceTitle": "How to build trust with others by organizing your Figma files",
+        "resourceType": ["Blog"],
+        "authors": ["Raquel Piqueras", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Figma", "Team"]
+    },     
+    "1181": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/whiteboard-challenge-3-biggest-mistakes-1d24e981f74e",
+        "resourceTitle": "Whiteboard UX Design Challenge: 3 Biggest mistakes",
+        "resourceType": ["Blog"],
+        "authors": ["Alicja Suska", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Whiteboarding"]
+    },     
+    "1180": {   
+        "resourceLink": "https://medium.com/@designerswho/everything-you-need-to-design-fail-proof-ux-surveys-for-your-product-7af94073a796",
+        "resourceTitle": "Everything you need to design fail-proof UX Surveys for your product",
+        "resourceType": ["Blog"],
+        "authors": ["Designers Who"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1179": {   
+        "resourceLink": "https://lawtonpybus.medium.com/building-and-evaluating-ux-research-portfolios-f191f83bd713",
+        "resourceTitle": "Building and evaluating UX Research portfolios",
+        "resourceType": ["Blog"],
+        "authors": ["Lawton Pybus"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"]
+    },     
+    "1178": {   
+        "resourceLink": "https://uxplanet.org/a-designers-guide-to-weekly-scrappy-rapid-iteration-and-testing-7a53c2e32",
+        "resourceTitle": "A designer’s guide to weekly, scrappy, rapid iteration and testing",
+        "resourceType": ["Blog"],
+        "authors": ["Tina Musich", "UX Planet"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    },     
+    "1177": {   
+        "resourceLink": "https://jakubbrabec.medium.com/you-are-not-a-product-manager-e164baf87594",
+        "resourceTitle": "You are not a Product Manager",
+        "resourceType": ["Blog"],
+        "authors": ["Jakub Brabec"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Roles"]
+    },     
+    "1176": {   
+        "resourceLink": "https://uxdesign.cc/are-designers-ready-for-a-product-first-process-ffdbf01768b7",
+        "resourceTitle": "Are designers ready for a product-first process?",
+        "resourceType": ["Blog"],
+        "authors": ["Rémy Rey-De Barros", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Framework"]
+    },     
+    "1175": {   
+        "resourceLink": "https://medium.com/thinking-design/design-systems-101-what-why-how-e58ee0e7a48",
+        "resourceTitle": "Getting Started with Design Systems — Part 1",
+        "resourceType": ["Blog"],
+        "authors": ["Linn Vizard", "Thinking Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Design system"]
+    },     
+    "1174": {   
+        "resourceLink": "https://rogermartin.medium.com/what-is-strategic-thinking-b0173112bb3d",
+        "resourceTitle": "What is Strategic Thinking?",
+        "resourceType": ["Blog"],
+        "authors": ["Roger Martin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Strategy"]
+    },     
+    "1173": {   
+        "resourceLink": "https://medium.com/integrating-research/mapping-research-impact-in-product-development-2bc8448d01c2",
+        "resourceTitle": "Mapping research impact in product development",
+        "resourceType": ["Blog"],
+        "authors": ["Jake Burghardt", "Integrating Research"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research", "Mapping"]
+    },     
+    "1172": {   
+        "resourceLink": "https://medium.com/uber-design/field-research-at-uber-297a46892843",
+        "resourceTitle": "Field Research at Uber",
+        "resourceType": ["Blog"],
+        "authors": ["Uber Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research", "Case study"]
+    },     
+    "1171": {   
+        "resourceLink": "https://blog.designdept.co/ai-and-the-future-of-design-roles-8ab66fc51e7d",
+        "resourceTitle": "Five designers talk about the influence and impact of AI",
+        "resourceType": ["Blog"],
+        "authors": ["Design Dept", "Design, or be designed"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["AI"]
+    },     
+    "1170": {   
+        "resourceLink": "https://loop11.medium.com/a-quick-guide-to-ux-metrics-e08205472eae",
+        "resourceTitle": "A quick guide to UX Metrics",
+        "resourceType": ["Blog"],
+        "authors": ["Loop11"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Metrics"]
+    },     
+    "1169": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/is-ux-dead-resetting-the-expectation-of-a-ux-career-e17e76674eb7",
+        "resourceTitle": "Is UX Dead? — resetting the expectation of a UX career",
+        "resourceType": ["Blog"],
+        "authors": ["Kem-Laurin Lubin, PH.D - C"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Roles", "Critique"]
+    },     
+    "1168": {   
+        "resourceLink": "https://rbefored.com/the-coming-cx-ux-correction-and-shift-19b23ed8af22",
+        "resourceTitle": "The Coming CX/UX Correction and Shift",
+        "resourceType": ["Blog"],
+        "authors": ["Debbie Levitt", "R Before D"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Roles"]
+    },     
+    "1167": {   
+        "resourceLink": "https://theuxrsannotations.substack.com/p/the-past-present-and-future-of-usability",
+        "resourceTitle": "The Past, Present, & Future of Usability Labs",
+        "resourceType": ["Blog"],
+        "authors": ["Thomas Stokes"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Research"]
+    },     
+    "1166": {   
+        "resourceLink": "https://rivet.ironcladapp.com/docs",
+        "resourceTitle": "Rivet Application IDE",
+        "resourceType": ["Tool"],
+        "authors": ["ironcladapp.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["AI", "Prototyping"]
+    },     
+    "1165": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/a-growth-framework-for-design-teams-e0c1775615d2",
+        "resourceTitle": "A Growth Framework for Design Teams",
+        "resourceType": ["Blog"],
+        "authors": ["Shannon E. Thomas", "Bootcamp"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Team"]
+    },     
+    "1164": {   
+        "resourceLink": "https://medium.com/@DOOR3Dev/ux-audit-an-in-depth-look-at-improving-user-experience-a10717087964",
+        "resourceTitle": "UX Audit: An In-Depth Look at Improving User Experience",
+        "resourceType": ["Blog"],
+        "authors": ["DOOR3"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["UX audit"]
+    },     
+    "1163": {   
+        "resourceLink": "https://uxdesign.cc/one-user-testing-question-can-help-uncover-the-gap-between-conceptual-and-mental-models-867550e9cc82",
+        "resourceTitle": "One user testing question can help uncover the gap between conceptual and mental models",
+        "resourceType": ["Blog"],
+        "authors": ["Kai Wong", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["User testing"]
+    },     
+    "1162": {   
+        "resourceLink": "https://nicklawrencedesign.medium.com/ux-design-idiomatic-object-oriented-design-b9b3109ae572",
+        "resourceTitle": "UX Design: Idiomatic, Object-Oriented Design",
+        "resourceType": ["Blog"],
+        "authors": ["Nick Lawrence"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Framework", "Case study"]
+    },     
+    "1161": {   
+        "resourceLink": "https://rbefored.com/collaboration-vs-design-by-committee-or-democratization-fa65a0091765",
+        "resourceTitle": "Collaboration vs. ‘Design by Committee’ or ‘Democratization’",
+        "resourceType": ["Blog"],
+        "authors": ["Debbie Levitt", "R Before D"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Collaboration", "Process"]
+    },     
+    "1160": {   
+        "resourceLink": "https://craft.faire.com/controlling-the-design-debt-chaos-e81bc3eea348",
+        "resourceTitle": "Controlling the (design debt) chaos",
+        "resourceType": ["Blog"],
+        "authors": ["Ivette Felix Uy", "The Craft"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Case study", "Design system"]
+    },     
+    "1159": {   
+        "resourceLink": "https://cwodtke.medium.com/designs-unsexy-middle-bits-a8cc17f0246d",
+        "resourceTitle": "Design’s Unsexy Middle Bits",
+        "resourceType": ["Blog"],
+        "authors": ["Christina Wodtke"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Framework", "Critique"]
+    },     
+    "1158": {   
+        "resourceLink": "https://medium.com/razorpay-design/behind-the-scenes-of-designing-a-design-system-component-7969636fabf4",
+        "resourceTitle": "Behind the scenes of designing a design system component",
+        "resourceType": ["Blog"],
+        "authors": ["Rama Krushna Behera", "Razorpay.Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Case study", "Design system"]
+    },     
+    "1157": {   
+        "resourceLink": "https://smart-interface-design-patterns.com/articles/color-contrast-cheat-sheet/",
+        "resourceTitle": "Color Contrast Cheat Sheet PDF",
+        "resourceType": ["Blog"],
+        "authors": ["Vitaly Friedman", "Smart Interface Design Patterns"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Cheatsheet", "Color", "Accessibility"]
+    },     
+    "1156": {   
+        "resourceLink": "https://medium.com/@adam.fard/ux-workshop-activities-101-7b4f68b75df5",
+        "resourceTitle": "UX Workshop Activities 101",
+        "resourceType": ["Blog"],
+        "authors": ["Adam Fard"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Workshopping"]
+    },     
+    "1155": {   
+        "resourceLink": "https://uxdesign.cc/color-for-brand-designers-working-with-product-teams-3a0edb7b3cb9",
+        "resourceTitle": "Color for brand designers working with product teams",
+        "resourceType": ["Blog"],
+        "authors": ["Katie Cooper", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Color"]
+    },     
+    "1154": {   
+        "resourceLink": "https://coreyhobson.medium.com/streamlining-ux-design-team-organization-role-definitions-collaboration-frameworks-2022c2b2071b",
+        "resourceTitle": "Streamlining UX Design Team Organization: Role definitions & collaboration frameworks",
+        "resourceType": ["Blog"],
+        "authors": ["Corey Hobson"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Team", "Roles"]
+    },     
+    "1153": {   
+        "resourceLink": "https://medium.com/choice-hacking/this-common-ux-mistake-totally-kills-engagement-8ed7c078e3f7",
+        "resourceTitle": "This common UX mistake totally kills engagement",
+        "resourceType": ["Blog"],
+        "authors": ["Jennifer Clinehens", "Choice Hacking"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Framework", "Research"]
+    },     
     "1152": {   
         "resourceLink": "https://medium.com/swlh/outcome-based-roadmaps-unleash-the-power-of-a-shared-vision-and-purpose-851401c7aa54",
         "resourceTitle": "OUTCOME BASED ROADMAPS : Unleash the Power of a Shared Vision and Purpose",
@@ -142,7 +1060,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Screen flows"]
+        "tags": ["Screen flow"]
     },     
     "1140": {   
         "resourceLink": "https://wearecolorblind.com/articles/how-do-the-colorblind-see-the-world/",
@@ -442,7 +1360,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["svg"]
+        "tags": ["SVG"]
     },     
     "1115": {   
         "resourceLink": "https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc",
@@ -898,7 +1816,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Performance"]
+        "tags": ["Soft skills"]
     },     
     "1077": {   
         "resourceLink": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
@@ -910,7 +1828,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Programming"]
+        "tags": ["Code"]
     },     
     "1076": {   
         "resourceLink": "https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/",
@@ -922,7 +1840,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Programming"]
+        "tags": ["Code"]
     },     
     "1075": {   
         "resourceLink": "https://universaldesignguide.com",
@@ -1077,8 +1995,8 @@
                     "description": "",
                     "bulletPoints": []
                 },
-        "category": ["UX Engineering"],
-        "tags": ["SVG"]
+        "category": ["Career"],
+        "tags": ["JavaScript"]
     },     
     "1062": {   
         "resourceLink": "https://blog.richardekwonye.com/bezier-curves",
@@ -1090,7 +2008,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SVG"]
+        "tags": ["Frontend"]
     },     
     "1061": {   
         "resourceLink": "https://2023.stateofcss.com/en-US",
@@ -1330,7 +2248,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Problem solving"]
+        "tags": ["Problem"]
     },     
     "1041": {   
         "resourceLink": "https://michalmalewicz.medium.com/duck-your-figma-workflow-33afaefb4c8a",
@@ -2074,7 +2992,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["Design Ops"],
-        "tags": ["Teams"]
+        "tags": ["Team"]
     },     
     "978": {   
         "resourceLink": "https://zagjs.com/overview/introduction",
@@ -2194,7 +3112,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["Design Ops"],
-        "tags": ["Product Managers"]
+        "tags": ["Roles"]
     },     
     "968": {   
         "resourceLink": "https://djfluffkins.medium.com/why-airbnbs-shift-in-the-pm-function-isn-t-an-indictment-of-product-managers-but-a-celebration-of-7772eb6f54d0",
@@ -2206,7 +3124,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["Design Ops"],
-        "tags": ["Product Managers"]
+        "tags": ["Process"]
     },     
     "967": {   
         "resourceLink": "https://jon-patterson.medium.com/how-to-make-a-product-design-portfolio-that-gets-you-hired-fad18f941e37",
@@ -2278,7 +3196,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["UX"],
-        "tags": ["Ideation", "Product discovery"]
+        "tags": ["Ideation", "Research"]
     },     
     "961": {   
         "resourceLink": "https://journal.everypixel.com/how-ai-is-changing-art",
@@ -2365,7 +3283,7 @@
         "tags": ["CSS"]
     },     
     "954": {   
-        "resourceLink": "https://roadmap.sh/design-system",
+        "resourceLink": "https://trends.uxdesign.cc/",
         "resourceTitle": "The State of UX in 2023 - A vibe shift is coming",
         "resourceType": ["Blog"],
         "authors": ["Fabricio Teixeira", "Caio Braga"],
@@ -2374,7 +3292,7 @@
                     "bulletPoints": [""]
                 },
         "category": ["Career"],
-        "tags": ["State of UX"]
+        "tags": ["Roles"]
     },     
     "953": {   
         "resourceLink": "https://roadmap.sh/design-system",
@@ -2434,7 +3352,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["Shape-up"]
+        "tags": ["Framework"]
     },     
     "948": {   
         "resourceLink": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-creative-process-is-fabulously-unpredictable-a-great-idea-cannot-be-predicted#/",
@@ -2686,7 +3604,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Study guides"]
+        "tags": ["Courses"]
     },     
     "927": {   
         "resourceLink": "https://medium.com/design-leadership-notebook/why-dont-designers-give-a-rats-ass-about-impact-43d7cff534ff",
@@ -2914,7 +3832,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["30-60-90", "Recruitment", "Trello board"]
+        "tags": ["30-60-90", "Template"]
     },     
     "908": {   
         "resourceLink": "https://ux.shopify.com/starting-a-new-ux-job-you-need-to-learn-to-unlearn-ab23bf5d82db",
@@ -3034,7 +3952,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Personas"]
+        "tags": ["Persona"]
     },     
     "898": {   
         "resourceLink": "https://daverupert.com/2023/07/why-not-webcomponents/",
@@ -3310,7 +4228,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SEO"]
+        "tags": ["Marketing"]
     },     
     "875": {
         "resourceLink": "https://theuxcookbook.com/",
@@ -3358,7 +4276,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Regular expressions", "JavaScript"]
+        "tags": ["Regex", "JavaScript"]
     },     
     "871": {
         "resourceLink": "https://www.freecodecamp.org/news/cloud-storage-options/",
@@ -3430,7 +4348,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["CSS", "Styleguides"]
+        "tags": ["CSS"]
     },     
     "865": {
         "resourceLink": "https://www.youtube.com/watch?v=r34LOmCw99k",
@@ -3442,7 +4360,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Tech4Africa conference"]
+        "tags": ["Conference"]
     },     
     "864": {
         "resourceLink": "https://www.youtube.com/watch?v=7OSkB4BCx00",
@@ -3526,7 +4444,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["AI", "uizard.io"]
+        "tags": ["AI", "Case study"]
     },     
     "857": {
         "resourceLink": "https://blog.prototypr.io/ux-design-101-value-vs-effort-choosing-a-user-research-methodology-a3d23f9a781c",
@@ -3562,7 +4480,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Tables", "Components"]
+        "tags": ["Components"]
     },     
     "854": {
         "resourceLink": "https://uxdesign.cc/solving-the-accessibility-palette-riddle-a816a7fb6168",
@@ -3646,7 +4564,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Sorting algorithms", "JavaScript"]
+        "tags": ["Algorithm", "JavaScript"]
     },     
     "847": {
         "resourceLink": "https://overapi.com/JavaScript",
@@ -3694,7 +4612,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Personas"]
+        "tags": ["Persona"]
     },     
     "843": {
         "resourceLink": "https://blog.bitsrc.io/transform-your-spaghetti-code-into-clean-architecture-with-these-refactoring-tricks-4d40b6976308",
@@ -3706,7 +4624,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Refactoring"]
+        "tags": ["Code"]
     },     
     "842": {
         "resourceLink": "https://proportio.app/",
@@ -3718,7 +4636,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Scales", "Proportions"]
+        "tags": ["Harmonics"]
     },     
     "841": {
         "resourceLink": "https://uxtools.co/products/master-your-ux-portfolio/",
@@ -3814,7 +4732,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Styling"]
+        "tags": ["CSS"]
     },     
     "833": {
         "resourceLink": "https://bootcamp.uxdesign.cc/how-to-highlight-required-and-optional-form-fields-8caee538a103",
@@ -3970,7 +4888,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Spinners", "Progress indicators"]
+        "tags": ["Components"]
     },     
     "820": {
         "resourceLink": "https://developer.chrome.com/blog/scroll-animation-performance-case-study/",
@@ -3982,7 +4900,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Scroll animations"]
+        "tags": ["JavaScript"]
     },     
     "819": {
         "resourceLink": "https://medium.com/tap-to-dismiss/scaling-design-building-lyfts-plug-and-play-payment-system-bc3eb6f64003",
@@ -3994,7 +4912,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["Scaling design"]
+        "tags": ["Process"]
     },     
     "818": {
         "resourceLink": "https://medium.com/randstad-design/design-documentation-a-practical-guide-c5852fbb5c90",
@@ -4318,7 +5236,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Workshopping", "Prototypes", "User testing"]
+        "tags": ["Workshopping", "Prototyping", "User testing"]
     }, 
     "791": {
         "resourceLink": "https://medium.com/@mluvinh/beyond-design-systems-for-interfaces-an-megasystem-of-design-systems-4f87dd6d8df8",
@@ -4354,7 +5272,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Components", "Progressive disclosure"]
+        "tags": ["Components"]
     }, 
     "788": {
         "resourceLink": "https://uxdesign.cc/loading-progress-indicators-ui-components-series-f4b1fc35339a",
@@ -4582,7 +5500,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Retention", "User analytics"]
+        "tags": ["Analytics"]
     }, 
     "768": {
         "resourceLink": "https://validately.com/",
@@ -4594,19 +5512,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["State management", "Diagramming"]
-    }, 
-    "767": {
-        "resourceLink": "https://stately.ai/viz",
-        "resourceTitle": "XState",
-        "resourceType": ["Tool"],
-        "authors": ["Stately"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["UX"],
-        "tags": ["State management", "Diagramming"]
+        "tags": ["Diagramming"]
     }, 
     "766": {
         "resourceLink": "https://usabilityhub.com",
@@ -4630,7 +5536,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Repository"]
+        "tags": ["Patterns"]
     }, 
     "764": {
         "resourceLink": "https://gojs.net/latest/index.html",
@@ -4741,7 +5647,7 @@
         "tags": ["Validation"]
     }, 
     "755": {
-        "resourceLink": "https://component-party.dev/",
+        "resourceLink": "https://component-party.dev",
         "resourceTitle": "Component Party",
         "resourceType": ["Library"],
         "authors": ["Component Party"],
@@ -4753,7 +5659,7 @@
         "tags": ["Components"]
     }, 
     "754": {
-        "resourceLink": "https://driverjs.com/",
+        "resourceLink": "https://driverjs.com",
         "resourceTitle": "driver.js product tours",
         "resourceType": ["Library"],
         "authors": ["driver.js"],
@@ -4762,7 +5668,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Tours"]
+        "tags": ["Onboarding"]
     }, 
     "753": {
         "resourceLink": "https://uxmastery.com/resources/techniques/",
@@ -4870,7 +5776,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Product design"]
+        "tags": ["Roles"]
     }, 
     "744": {
         "resourceLink": "https://asktog.com/atc/principles-of-interaction-design/",
@@ -5013,8 +5919,8 @@
                     "description": "",
                     "bulletPoints": []
                 },
-        "category": ["UX Engineering"],
-        "tags": ["Tools"]
+        "category": ["UI"],
+        "tags": ["Icons"]
     },              
     "732": {
         "resourceLink": "https://medium.com/free-code-camp/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248",
@@ -5026,7 +5932,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Tools"]
+        "tags": ["Code"]
     },              
     "731": {
         "resourceLink": "https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36#:~:text=The%20error%20messages%20should%20clearly,%2C%20friendly%20and%20jargon%2Dfree.",
@@ -5051,19 +5957,7 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["Development"]
-    },              
-    "729": {
-        "resourceLink": "https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a",
-        "resourceTitle": "The Modern Day Good Product Manager/Bad Product",
-        "resourceType": ["Blog"],
-        "authors": ["Hemal Shah"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["Product"],
-        "tags": ["Product Manager"]
-    },              
+    },                           
     "728": {
         "resourceLink": "https://medium.com/@hemal/the-modern-day-good-product-manager-bad-product-d5b537398e3a",
         "resourceTitle": "The Modern Day Good Product Manager/Bad Product",
@@ -5074,7 +5968,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product Manager"]
+        "tags": ["Roles"]
     },              
     "727": {
         "resourceLink": "https://a16z.com/2012/06/15/good-product-managerbad-product-manager/",
@@ -5086,7 +5980,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product Manager"]
+        "tags": ["Roles"]
     },              
     "726": {
         "resourceLink": "https://blog.prototypr.io/what-is-the-key-to-developing-a-killer-ux-case-study-3c5f07585f3a",
@@ -5482,7 +6376,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Selection controls"]
+        "tags": ["Components"]
     },          
     "693": {
         "resourceLink": "https://uxdesign.cc/pop-up-popover-or-popper-a-quick-look-into-ui-terms-cb4114fca2a",
@@ -5494,7 +6388,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Poppover"]
+        "tags": ["Components"]
     },          
     "692": {
         "resourceLink": "https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202",
@@ -5530,7 +6424,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Performance"]
+        "tags": ["Frontend"]
     },          
     "689": {
         "resourceLink": "https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e",
@@ -5806,7 +6700,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["Agile", "Scrum"]
+        "tags": ["Agile"]
     },          
     "656": {
         "resourceLink": "https://www.youtube.com/watch?v=ldYzbV0NDp8",
@@ -5890,7 +6784,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Surveys", "UX research"]
+        "tags": ["Survey", "UX research"]
     },          
     "649": {
         "resourceLink": "https://www.youtube.com/watch?v=RFUSvevDwGc",
@@ -5914,7 +6808,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Software design"]
+        "tags": ["Framework"]
     },          
     "647": {
         "resourceLink": "https://uxdesign.cc/write-more-design-less-and-better-a454d15f6795",
@@ -5926,7 +6820,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Software design"]
+        "tags": ["Framework"]
     },          
     "646": {
         "resourceLink": "https://uxdesign.cc/write-more-design-less-and-better-a454d15f6795",
@@ -5951,19 +6845,7 @@
                 },
         "category": ["UX Engineering"],
         "tags": ["JavaScript"]
-    },          
-    "644": {
-        "resourceLink": "https://www.designsystemsforfigma.com",
-        "resourceTitle": "Design Systems For Figma",
-        "resourceType": ["Library"],
-        "authors": ["Josh Cusick"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["UI"],
-        "tags": ["Design system", "Figma"]
-    },          
+    },                   
     "643": {
         "resourceLink": "https://www.youtube.com/watch?v=hMSSg-pA9lk&t=27s",
         "resourceTitle": "What is a Design System? 6 Different Types of Design Systems",
@@ -6094,7 +6976,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Professional summary"]
+        "tags": ["Resume"]
     },    
     "632": {
         "resourceLink": "https://spectrum.adobe.com/page/axis/",
@@ -6238,7 +7120,7 @@
                     "bulletPoints": ["Figma is an intermediary abstraction", "Work faster without this abstraction layer", "Web designers work directly with native materials - HTML, CSS, JavaScript... with some Ruby", "Design process and its iterations are with real code in the real app against real data", "Creativity thrives on constraints", "Figma is best used at early conceptual stages or for native app design"]
                 },
         "category": ["UX Engineering"],
-        "tags": ["Site speed"]
+        "tags": ["Prototyping"]
     },    
     "620": {
         "resourceLink": "https://csswizardry.com/2023/06/site-speed-topography-remapped/",
@@ -6250,7 +7132,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Site speed"]
+        "tags": ["Internet"]
     },    
     "619": {
         "resourceLink": "https://www.nan.fyi/svg-paths",
@@ -6262,7 +7144,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["svg"]
+        "tags": ["SVG"]
     },    
     "618": {
         "resourceLink": "https://medium.com/@to.design/storybook-to-figma-the-ultimate-guide-93234198784f",
@@ -6274,7 +7156,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Figma", "Storybook"]
+        "tags": ["Figma", "Frontend"]
     },    
     "617": {
         "resourceLink": "https://medium.com/flexport-ux/designing-a-design-team-a9a066bc48a5",
@@ -6454,7 +7336,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Icons", "svg"]
+        "tags": ["Icons"]
     },    
     "601": {
         "resourceLink": "https://medium.com/kubo/how-do-you-solve-a-problem-c44290a4968d",
@@ -6538,7 +7420,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SVG"]
+        "tags": ["Frontend"]
     },    
     "594": {
         "resourceLink": "https://bootcamp.uxdesign.cc/user-centric-verses-problem-centric-design-600d1d007ebc",
@@ -6658,7 +7540,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["E-commerce", "React"]
+        "tags": ["E-commerce"]
     },    
     "584": {
         "resourceLink": "https://design.gs.com/components/charts",
@@ -6682,7 +7564,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["User centric", "Problem centric"]
+        "tags": ["Framework"]
     },    
     "582": {
         "resourceLink": "https://uxplanet.org/40-unconventional-questions-to-ask-when-hiring-ux-professionals-32f159628118",
@@ -6814,7 +7696,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product-led growth"]
+        "tags": ["Mapping", "Roadmap"]
     },    
     "571": {
         "resourceLink": "https://medium.com/hubbleblog/how-to-recruit-user-research-participants-c1ac848569a2",
@@ -6838,7 +7720,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product"]
+        "tags": ["Process"]
     },    
     "569": {
         "resourceLink": "https://baymard.com/ux-training",
@@ -7054,7 +7936,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Popovers"]
+        "tags": ["Components"]
     },    
     "551": {
         "resourceLink": "https://zerofloor.medium.com/automation-test-tool-comparison-choosing-the-right-tool-for-your-testing-needs-ac59317c82d7",
@@ -7066,7 +7948,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["QA", "Testing tools"]
+        "tags": ["Frontend"]
     },    
     "550": {
         "resourceLink": "https://www.kodingkitty.com/blog/blend-modes/",
@@ -7174,7 +8056,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Popover", "Web api", "UI component"]
+        "tags": ["Components"]
     },    
     "541": {
         "resourceLink": "https://developer.chrome.com/blog/introducing-popover-api/",
@@ -7186,7 +8068,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Popover", "Web api", "UI component"]
+        "tags": ["Components"]
     },    
     "540": {
         "resourceLink": "https://medium.muz.li/ideal-vs-practical-design-process-which-one-to-choose-when-and-why-c59157883f25",
@@ -7342,7 +8224,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["https request", "fetch", "TLS"]
+        "tags": ["JavaScript"]
     },    
     "527": {
         "resourceLink": "https://keithjgrant.com/posts/2023/04/scoped-css-is-back",
@@ -7426,7 +8308,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "React"]
+        "tags": ["JavaScript"]
     },    
     "520": {
         "resourceLink": "https://ui.dev/why-react-renders",
@@ -7438,7 +8320,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "React"]
+        "tags": ["JavaScript"]
     },    
     "519": {
         "resourceLink": "https://www.bbss.dev/posts/eventloop/",
@@ -7666,7 +8548,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Logos"]
+        "tags": ["Branding"]
     },    
     "500": {
         "resourceLink": "https://www.cdnfonts.com/cubano.font",
@@ -7942,7 +8824,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React"]
+        "tags": ["JavaScript"]
     },    
     "477": {
         "resourceLink": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
@@ -8134,7 +9016,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "Promises"]
+        "tags": ["JavaScript"]
     },    
     "461": {
         "resourceLink": "https://www.iconhunt.site",
@@ -8146,7 +9028,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["icons"]
+        "tags": ["Icons"]
     },    
     "460": {
         "resourceLink": "https://frankrausch.com/ios-navigation",
@@ -8158,7 +9040,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["iOS", "Patterns"]
+        "tags": ["Mobile", "Patterns"]
     },    
     "459": {
         "resourceLink": "https://medium.com/myplanet-musings/strategic-thinking-for-designers-3dad02a3d54a",
@@ -8540,7 +9422,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Responsive"],
+        "tags": ["Responsive design"],
         "reviewedDates": []
     },
     "428": {
@@ -8669,8 +9551,8 @@
                     "description": "",
                     "bulletPoints": []
                 },
-        "category": ["Typography"],
-        "tags": [],
+        "category": ["UI"],
+        "tags": ["Typography"],
         "reviewedDates": []
     },
     "418": {
@@ -9008,7 +9890,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["svg", "generator"],
+        "tags": ["SVG"],
         "reviewedDates": []
     },
     "392": {
@@ -9047,7 +9929,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Forms", "Accessibility", "Semantics"],
+        "tags": ["Forms", "Accessibility"],
         "reviewedDates": []
     },
     "389": {
@@ -9099,7 +9981,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Research", "Surveys", "Survey recruitment"],
+        "tags": ["Research", "Survey"],
         "reviewedDates": []
     },
     "385": {
@@ -9138,7 +10020,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Timeboxing"],
+        "tags": ["Productivity"],
         "reviewedDates": []
     },
     "382": {
@@ -9229,7 +10111,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Secondary research"],
+        "tags": ["Research"],
         "reviewedDates": []
     },
     "375": {
@@ -9242,7 +10124,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Usability testing", "Primary research", "Qualitative research"],
+        "tags": ["Usability testing", "Research"],
         "reviewedDates": []
     },
     "374": {
@@ -9255,7 +10137,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Surveys", "Primary research", "Qualitative research", "Quantitative research"],
+        "tags": ["Survey", "Research"],
         "reviewedDates": []
     },
     "373": {
@@ -9268,7 +10150,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["User interviews", "Primary research", "Qualitative research"],
+        "tags": ["User interviews", "Research"],
         "reviewedDates": []
     },
     "372": {
@@ -9281,7 +10163,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["API", "REST"],
+        "tags": ["API"],
         "reviewedDates": []
     },
     "371": {
@@ -9450,7 +10332,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React", "Svelte"],
+        "tags": ["JavaScript"],
         "reviewedDates": []
     },
     "358": {
@@ -9601,7 +10483,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Metrics", "Quantitiative"],
+        "tags": ["Metrics"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -9751,7 +10633,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["SVG sprites"],
+        "tags": ["Frontend"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -9991,7 +10873,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product vision"],
+        "tags": ["Roadmap"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -10081,7 +10963,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["No-code"],
+        "tags": ["Code"],
         "reviewedDates": [],
         "archived": false,
         "status": "Core /  Reference"
@@ -10137,14 +11019,13 @@
         "resourceType": ["Blog"],
         "authors": ["Derek Boman"],
         "notes": {
-                    "description": "",
-                    "bulletPoints": []
+                    "description": "5 levels to gauge where Design System maturity is",
+                    "bulletPoints": ["Definition: a design system as a set of reusable, modular components that enable teams to build better, more consistent products at scale; deploy new user experiences faster and with less rework", "Building and maintaining relationships are an unspoken key part to success; persuasion, negotiation, being helpful", "Design systems are a product, not a project: needs customers and users, needs a team to build, roadmap to keep team and customers aligned", "'Intra-preneurs: strategize like launching new product to market, only internally", "Level 1: Founding - 'enthusiasts'; founders, different but with complimentary skills; vision and strategy with highly technical", "Level 2 + 3: The chasm - difficult stage; highest risk of failure; grow from 1 set of early adopters to early base", "Roadshow, sales pitch to more teams, get technical ambassadors for dev teams to build MVP design system", "Level 4 + 5: Dedicated team - optimization, continual improvement, and operational efficiency."]
                 },
         "category": ["Design Ops"],
         "tags": ["Design system"],
-        "reviewedDates": [],
-        "archived": false,
-        "status": "Reference"
+        "imageThumb": "https://images.squarespace-cdn.com/content/v1/5c42aab4697a9873ebf81da2/f26b2cc9-2234-4552-82ea-9231952bab02/Design+Systems+_+DesignOps+Conf+%285%29.png?format=2500w",
+        "imageThumbAlt": "Map of teams contributing to a code repo and documentation"
     },
     "309": {
         "resourceLink": "https://www.wonsulting.com/courses",
@@ -10186,7 +11067,7 @@
                     "bulletPoints": ["UX Design also means doing User Research and Testing; multiple rounds.", "UX Design is an iterative process (i.e., it doesn't need to be perfect the first time)", "You don't need to test users with an incredibly high-fidelity prototype", "User research doesn't 'prove' something's right", "Shows how team decisions impact the final result", "For any meet provide context: who I am, what I am doing, why I need to talk with you", "Introvert or extrovert, it pays to communicate effectively about design" ]
                 },
         "category": ["UX"],
-        "tags": ["Process", "Psychology"],
+        "tags": ["Process", "Communication"],
         "reviewedDates": ["12", "2022"] ,
         "archived": false,
         "status": "Reference"
@@ -10306,7 +11187,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Responsive design", "Responsive tables"],
+        "tags": ["Responsive design"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Reference"
@@ -10321,7 +11202,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React"],
+        "tags": ["JavaScript"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Reference"
@@ -10456,7 +11337,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Server env"],
+        "tags": ["Server"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Reference"
@@ -10546,7 +11427,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React"],
+        "tags": ["JavaScript"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Reference"
@@ -10561,7 +11442,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React"],
+        "tags": ["JavaScript"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Reference"
@@ -10813,7 +11694,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Mapping", "Template"],
+        "tags": ["Mapping", "Templates"],
         "reviewedDates": [""] ,
         "archived": false,
         "status": "Core"
@@ -10848,21 +11729,6 @@
         "archived": false,
         "status": "Reference"
     },
-    "262": {
-        "resourceLink": "https://www.atlassian.com/software/confluence/templates/design-system",
-        "resourceTitle": "Design system template",
-        "resourceType": ["Blog"],
-        "authors": ["Atlassian"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["Design Ops"],
-        "tags": ["Design system"],
-        "reviewedDates": [],
-        "archived": false,
-        "status": "Reference"
-    },
     "261": {
         "resourceLink": "https://www.atlassian.com/software/confluence/templates/design-system",
         "resourceTitle": "Design system template",
@@ -10883,21 +11749,6 @@
         "resourceTitle": "Design Systems are for People",
         "resourceType": ["Blog"],
         "authors": ["Jina Anne"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["Design Ops"],
-        "tags": ["Design system"],
-        "reviewedDates": [],
-        "archived": false,
-        "status": "Reference"
-    },
-    "259": {
-        "resourceLink": "https://www.youtube.com/watch?v=TgWyyoofKIA",
-        "resourceTitle": "The Technical Side of Design Systems",
-        "resourceType": ["Video"],
-        "authors": ["Brad Frost"],
         "notes": {
                     "description": "",
                     "bulletPoints": []
@@ -10933,22 +11784,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Vue", "SSG"],
-        "reviewedDates": [],
-        "archived": false,
-        "status": "Reference"
-    },
-    "256": {
-        "resourceLink": "https://www.designsystemsforfigma.com/",
-        "resourceTitle": "Design systems for Figma",
-        "resourceType": ["Blog"],
-        "authors": ["Josh Cusick"],
-        "notes": {
-                    "description": "",
-                    "bulletPoints": []
-                },
-        "category": ["Design Ops"],
-        "tags": ["Design system"],
+        "tags": ["JavaScript"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -11038,7 +11874,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Tailwind", "Web components"],
+        "tags": ["CSS", "Web components"],
         "reviewedDates": [],
         "archived": false,
         "status": "Reference"
@@ -11189,7 +12025,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Figma", "Components", "Props"],
+        "tags": ["Figma", "Components"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11279,7 +12115,7 @@
                     "bulletPoints": ["Tell a visual story", "Not what 'you' say - what 'they' say'", "Story: identifiable character; authentic emotion; turning point moment; details that matter", "Empathy - your customer's triggers, problems, why they choose you, how product can help them"]
                 },
         "category": ["Career"],
-        "tags": ["Portfolio", "Case study", "Story telling"],
+        "tags": ["Portfolio", "Case study", "Storytelling"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11294,7 +12130,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Principles", "Software Design"],
+        "tags": ["Principles"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11549,7 +12385,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Portfolios"],
+        "tags": ["Portfolio"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11564,7 +12400,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Portfolios"],
+        "tags": ["Portfolio"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11744,7 +12580,7 @@
                     "bulletPoints": []
                 },
         "category": ["UI"],
-        "tags": ["Stock photography"],
+        "tags": ["Imagery"],
         "reviewedDates": [["11", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -11926,7 +12762,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["Problem framing"],
+        "tags": ["Problem"],
         "reviewedDates": [["10", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -12211,7 +13047,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Prototyping", "No-code"],
+        "tags": ["Prototyping", "Code"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -12361,7 +13197,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SPA"],
+        "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12376,7 +13212,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
+        "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12391,7 +13227,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
+        "tags": [ "JavaScript"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12406,7 +13242,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["SPA", "Single page app", "JavaScript", "Vanilla JS"],
+        "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12481,7 +13317,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "window object"],
+        "tags": ["JavaScript"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12586,7 +13422,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["JavaScript", "es6", "Cheatsheet"],
+        "tags": ["JavaScript", "Cheatsheet"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12646,7 +13482,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Promises", "Promise.all()"],
+        "tags": ["JavaScript"],
         "reviewedDates": [["09, 2022"]],
         "archived": false,
         "status": "Reference"
@@ -12676,7 +13512,7 @@
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
-        "tags": ["RACI"],
+        "tags": ["Framework"],
         "reviewedDates": [[""]],
         "archived": false,
         "status": "Reference"
@@ -12826,7 +13662,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["React", "Tutorial"],
+        "tags": ["JavaScript", "Tutorial"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -13277,7 +14113,7 @@
                     "bulletPoints": ["The modern development workflow is component-based with centralised state management", "'observedAttributes' callback helps build nested components", "Use a 'render' method to re-render a component when global state changes", "Contains most of the building blocks we need to develop significant interfaces", "Rerendering the entire DOM tree might look wasteful and overkill at first sight, but in practice, it’s not quite as bad as it sounds"]
                 },
         "category": ["UX Engineering"],
-        "tags": ["Web Components", "React"],
+        "tags": ["Web Components"],
         "reviewedDates": [["09", "2022"]],
         "archived": false,
         "status": "Reference"
@@ -13693,7 +14529,7 @@
                     "bulletPoints": []
                 },
         "category": ["Career"],
-        "tags": ["Recruitement"],
+        "tags": ["Roles"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14186,8 +15022,8 @@
         "status": "Reference"
     },
     "49": {
-        "resourceLink": "Bits, Bytes, Building With Binary",
-        "resourceTitle": "https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa",
+        "resourceLink": "https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa ",
+        "resourceTitle": "Bits, Bytes, Building With Binary",
         "resourceType": ["Blog"],
         "authors": ["Vaidehi Joshi", "basecs"],
         "platform": "Medium",
@@ -14204,8 +15040,8 @@
         "status": "Reference"
     },
     "48": {
-        "resourceLink": "Are workshops ruining the UX design world?",
-        "resourceTitle": "https://uxdesign.cc/are-workshops-ruining-the-ux-design-world-c1cb960b5063",
+        "resourceLink": "https://uxdesign.cc/are-workshops-ruining-the-ux-design-world-c1cb960b5063",
+        "resourceTitle": "Are workshops ruining the UX design world? ",
         "resourceType": ["Blog"],
         "authors": ["Zach Hill", "UX Collective"],
         "platform": "Medium",
@@ -14269,7 +15105,7 @@
                     "bulletPoints": ["Product orientation - continuous collaboration with Product Managers and Software Engineers", "Participates in all phases of a product, from discovery to delivery to iteration", "Measured on the success of their product, not outputs - oriented around actual customers", "UX is as important to customer value as the underlying functionality", "Holistic experience design - good product designers ask questions that will uncover key considerations", "Prototyping - frequent validation with external users and customers", "User testing - constantly testing ideas, on a weekly schedule, regular cadence for validation", "Interaction and visual design - composition, typography, visual branding, task flows", "Move design front-and-center for your team and your process"]
                 },
         "category": ["Career"],
-        "tags": ["Recruitment", "Product Design"],
+        "tags": ["Recruitment"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14341,7 +15177,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["svg"],
+        "tags": ["CSS", "SVG"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14359,7 +15195,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["svg"],
+        "tags": ["SVG"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14377,7 +15213,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["CSS", "Tailwind", "Cheatsheet"],
+        "tags": ["CSS", "Cheatsheet"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14718,8 +15554,8 @@
                     "descriptor": "Free access to high-quality fonts for individual use.",
                     "bulletPoints": []
                 },
-        "category": ["Typography"],
-        "tags": ["Fonts"],
+        "category": ["UI"],
+        "tags": ["Fonts", "Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14737,7 +15573,7 @@
                     "bulletPoints": []
                 },
         "category": ["Product"],
-        "tags": ["Product Thinking", "Product Design"],
+        "tags": ["Framework"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14755,7 +15591,7 @@
                     "bulletPoints": ["Adding new features and improving aesthetics should not be the focus.", "Design for product solutions that users will actually invest in.", "Success from ideation is rare; through user discovery ideas get validated.", "Framework: <strong>Who<\/strong> — is this product for? <strong>What<\/strong> — is the problem being addressed here? <strong>How<\/strong> — are we solving this problem? <strong>Why<\/strong> — are we doing this in the first place (objective)?", "Framework reduces conflict during ideation."]
                 },
         "category": ["Product"],
-        "tags": ["Product Thinking", "Product Design"],
+        "tags": ["Framework"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14790,8 +15626,8 @@
                     "descriptor": "Tips on how to keep copywriting 'snackable' and reader engaged for longer.",
                     "bulletPoints": ["The reader is impatient, possibly reading on a phone, and wants key points fast.", "Engaging, Readable, Skimmable - start with a hook line.", "Use formats: bullets, italics, quotes, embeds, images, bold text, colour", "Vary lengths of sentences, merge 1 sentence paras", "Lots of white space - no hypnotising.", "Triangulation and funnel formats.", "Active instead of passive voice; drop filler '-ly' words; trim fat and edit"]
                 },
-        "category": ["Typography"],
-        "tags": ["Content"],
+        "category": ["UI"],
+        "tags": ["Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14809,7 +15645,7 @@
                     "bulletPoints": ["7 steps to creating a UX project case study", "Design problem, hypothesis, observations ", "My specific role and collaboration", "Decisions and presenting solutions", "Talk about challenges, sneak peak into messy process", "Communicate outcomes, satisfaction, engagement"]
                 },
         "category": ["Career"],
-        "tags": ["portfolio", "Case study"],
+        "tags": ["Portfolio", "Case study"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14827,7 +15663,7 @@
                     "bulletPoints": ["The 'user' is the hiring manager", "Include how worked with others", "Show initiative and growth"]
                 },
         "category": ["Career"],
-        "tags": ["portfolio"],
+        "tags": ["Portfolio"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14845,7 +15681,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["analytics", "SaaS", "UX tool", "paid service"],
+        "tags": ["Analytics", "SaaS"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -14863,7 +15699,7 @@
                     "bulletPoints": ["W3C standards and browser consistency are not fully aligned with embedding svg in html", "<embed> has greater adoption than <object>, but has different browser implementations", "<frame> and <iframe> can import svg using src attribute but is difficult to access with JavaScript", " <object> is the container recommended by the W3C for holding non-HTML content"]
                 },
         "category": ["UX Engineering"],
-        "tags": ["svg", "browser support", "web standards"],
+        "tags": ["Frontend"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
@@ -15006,8 +15842,8 @@
                     "descriptor": " ",
                     "bulletPoints": []
                 },
-        "category": ["Typography"],
-        "tags": ["type rules"],
+        "category": ["UI"],
+        "tags": ["Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
         "archived": false,
