@@ -1,6 +1,6 @@
 // Services
 import MainArticles from "./services/API.js";
-import Results from "./services/Results.js";
+// import Results from "/.services/Results.js";
 
 // Components
 import ToolkitHeader from "./components/header.js";
