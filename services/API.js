@@ -2,7 +2,7 @@
 // "../data/resources.json"
 
 const MainArticles = {
-	url: "../data/resources.json",
+	url: "https://mdugg.github.io/ux-playbook/data/resources.json",
 	fetchArticles: async () => {
 		try {
 			const result = await fetch(MainArticles.url);
