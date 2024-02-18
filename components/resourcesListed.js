@@ -1,5 +1,4 @@
 import MainArticles from "../services/API.js";
-import { resultsList } from "../services/Results.js";
 
 export default class ResourcesListed extends HTMLElement {
 	constructor() {
@@ -10,29 +9,39 @@ export default class ResourcesListed extends HTMLElement {
 		this.root = this.attachShadow(configShadow);
 		this.root.innerHTML = `<p>Loading resources...</p>`;
 		// initialize the dataFiltered property
-		this.dataFiltered = null;
 		this.loadData = async () => {
 			this.dataFiltered = await MainArticles.fetchArticles();
-			console.log(this.dataFiltered);
+			// console.log(this.dataFiltered);
 		};
-		this.resultsData = null;
-		this.loadResultsData = async () => {
-			// this.resultsData = await Results.dataState();
-			this.resultsData = await resultsList;
-		};
+		this.dataFiltered = null;
 	}
 	connectedCallback() {
 		// Call render() after the dataFiltered is loaded
 		this.loadData().then(() => {
 			this.render();
 		});
-		this.loadResultsData().then(() => {
-			console.log("Results data : ", this.resultsData);
+
+		// Listen for the CategoryFilterChanged event
+		document.addEventListener("CategoryFilterChanged", (event) => {
+			// Filter data based on the selected category
+			let selectedCategory = event.detail.selectedCategory;
+			this.filterDataByCategory(selectedCategory);
+			console.log("Selected category:", selectedCategory);
 		});
-		document.addEventListener("CategoryFilterChanged", () => {
-			// Call your render function to re-render the component
-			this.render();
-		});
+	}
+	// Function to filter the data based on the selected category
+	async filterDataByCategory(category) {
+		// Fetch articles and wait for the promise to resolve
+		const articles = await MainArticles.fetchArticles();
+
+		// Filter the fetched data based on the selected category
+		this.dataFiltered = articles.filter((item) =>
+			item.category.includes(category)
+		);
+		console.log(this.dataFiltered);
+
+		// Render the updated data
+		this.render();
 	}
 	// Function to re-render the component when data changes
 	render() {
@@ -103,7 +112,7 @@ export default class ResourcesListed extends HTMLElement {
 					.join("")}
             </ul>`;
 		} else {
-			// fail notification in UI
+			this.root.innerHTML = `<p>Failed to load the resources</p>`;
 		}
 	}
 }

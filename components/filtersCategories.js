@@ -43,15 +43,17 @@ export default class FiltersCategories extends HTMLElement {
 		// Define the event handler function
 		let handleCategoryClick = (category) => {
 			this.setActiveCategory(category); // Update active category
-			// Create a custom event
-			let CustomCategoryFilter = new CustomEvent(
-				"CategoryFilterChanged",
-				{
-					detail: { selectedCategory: category },
-				}
-			);
+			// Create a custom event with the selected category
+			let categoryChangeEvent = new CustomEvent("CategoryFilterChanged", {
+				isTrusted: true,
+				bubbles: true,
+				detail: {
+					selectedCategory: category,
+				},
+			});
+			// console.log(categoryChangeEvent);
 			// Dispatch the custom event
-			document.dispatchEvent(CustomCategoryFilter);
+			this.dispatchEvent(categoryChangeEvent);
 		};
 
 		// Dynamically create and attach buttons with event listeners
