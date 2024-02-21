@@ -1,8 +1,224 @@
 
 {          
+    "1340": {   
+        "resourceLink": "https://piccalil.li/blog/a-css-project-boilerplate/",
+        "resourceTitle": "A CSS Project Boilerplate",
+        "resourceType": ["Blog"],
+        "authors": ["Andy Bell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["CSS", "Frontend"]
+    },     
+    "1339": {   
+        "resourceLink": "https://geoffgraham.me/css-is-logical/",
+        "resourceTitle": "CSS is Logical",
+        "resourceType": ["Blog"],
+        "authors": ["Geoff Graham"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["CSS", "Frontend"]
+    },     
+    "1338": {   
+        "resourceLink": "https://adrianroselli.com/2024/02/dont-disable-form-controls.html",
+        "resourceTitle": "Don’t Disable Form Controls",
+        "resourceType": ["Blog"],
+        "authors": ["Adrian Roselli"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Forms", "Components"]
+    },     
+    "1337": {   
+        "resourceLink": "https://jarango.com/2024/02/18/exploring-the-core-skills-of-information-architecture/",
+        "resourceTitle": "Exploring the Core Skills of Information Architecture",
+        "resourceType": ["Blog"],
+        "authors": ["Jorge Arango"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Information architecture"]
+    },     
+    "1336": {   
+        "resourceLink": "https://blog.streamlinehq.com/",
+        "resourceTitle": "Streamline Icons",
+        "resourceType": ["Documentation"],
+        "authors": ["Streamline"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Icons"]
+    },     
+    "1335": {   
+        "resourceLink": "https://craft.faire.com/how-to-bring-cross-functional-teams-together-sooner-7f356a92fb56",
+        "resourceTitle": "How to bring cross-functional teams together sooner",
+        "resourceType": ["Blog"],
+        "authors": ["Faire Craft"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Case study"]
+    },     
+    "1334": {   
+        "resourceLink": "https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/",
+        "resourceTitle": "Thoughts on a Global Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Chris Coyier"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    },     
+    "1333": {   
+        "resourceLink": "https://medium.com/@daianamaier25/unveiling-the-atomic-artistry-crafting-data-table-experiences-for-users-afea06f23444",
+        "resourceTitle": "Unveiling the Atomic Artistry: Crafting Data Table Experiences for Users",
+        "resourceType": ["Blog"],
+        "authors": ["Daiana Maier"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    },     
+    "1332": {   
+        "resourceLink": "https://david-theil.medium.com/mastering-the-mindset-of-a-mature-product-owner-powerful-questions-to-forge-a-path-to-success-and-b7ff506bb859",
+        "resourceTitle": "Mastering the Mindset of a Mature Product Owner: Powerful Questions to Forge a Path to Success and Growth",
+        "resourceType": ["Blog"],
+        "authors": ["David Theil"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Product"],
+        "tags": ["Framework"]
+    },     
+    "1331": {   
+        "resourceLink": "https://danmall.com/posts/portfolios/",
+        "resourceTitle": "A Portfolio Hiring Managers Can’t Deny",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Mall"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Portfolio"]
+    },     
+    "1330": {   
+        "resourceLink": "https://blog.prototypr.io/streamlining-chaos-redesign-of-a-complex-workflow-canvas-009a169a49da",
+        "resourceTitle": "Streamlining chaos: Redesign of a complex Workflow canvas",
+        "resourceType": ["Blog"],
+        "authors": ["Yutika Pahuja", "Prototypr"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Case study"]
+    },     
+    "1329": {   
+        "resourceLink": "https://medium.com/vmwaredesign/the-enterprise-ux-design-playbook-e1ee4124cb52",
+        "resourceTitle": "The Enterprise UX Design Playbook",
+        "resourceType": ["Blog"],
+        "authors": ["VMware Design"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Playbook"]
+    },     
+    "1328": {   
+        "resourceLink": "https://medium.com/ideaplatz/lifting-ux-design-from-the-doldrums-four-key-craft-improvements-for-your-teams-d4cac3f324bb",
+        "resourceTitle": "Lifting UX Design from the doldrums: four key craft improvements for your teams",
+        "resourceType": ["Blog"],
+        "authors": ["Cheryl Platz"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["Playbook"]
+    },     
+    "1327": {   
+        "resourceLink": "https://dev.to/danielhe4rt/database-101-why-so-interesting-1344",
+        "resourceTitle": "Database 101: Data Consistency for Beginners",
+        "resourceType": ["Blog"],
+        "authors": ["Daniel Reis"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Database"]
+    },     
+    "1326": {   
+        "resourceLink": "https://rauno.me/craft/contrasting-aesthetics",
+        "resourceTitle": "Contrasting Aesthetics",
+        "resourceType": ["Blog"],
+        "authors": ["Rauno Freiberg"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design"]
+    },     
+    "1325": {   
+        "resourceLink": "https://tonsky.me/blog/checkbox/",
+        "resourceTitle": "In Loving Memory of Square Checkbox",
+        "resourceType": ["Blog"],
+        "authors": ["Niki Tonsky"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Frontend", "Components"]
+    },     
+    "1324": {   
+        "resourceLink": "https://www.nngroup.com/articles/card-sorting-definition/",
+        "resourceTitle": "Card Sorting: Uncover Users' Mental Models for Better Information Architecture",
+        "resourceType": ["Blog"],
+        "authors": ["NNGroup", "Samhita Tankala", "Katie Sherwin"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Framework", "Information architecture"]
+    },     
+    "1323": {   
+        "resourceLink": "https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs",
+        "resourceTitle": "How to Favicon in 2024: Six files that fit most needs",
+        "resourceType": ["Blog"],
+        "authors": ["Evil Martians"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Frontend"]
+    },     
     "1322": {   
         "resourceLink": "https://www.beautifulpublicdata.com",
-        "resourceTitle": "beautiful Public Data",
+        "resourceTitle": "Beautiful Public Data",
         "resourceType": ["Blog"],
         "authors": ["Jon Keegan"],
         "notes": {
