@@ -1,5 +1,425 @@
 
-{          
+{      
+    "1375": {   
+        "resourceLink": "https://medium.com/@uxsurvivalguide/displaying-ux-research-in-your-design-portfolio-4-mistakes-you-dont-want-to-make-9d5cb97c9063",
+        "resourceTitle": "Displaying UX Research in your Design Portfolio — 4 mistakes you don’t want to make",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1374": {   
+        "resourceLink": "https://matejlatin.com/blog/90-percent-of-designers-are-unhirable/",
+        "resourceTitle": "90% of designers are unhirable?",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1373": {   
+        "resourceLink": "https://help.figma.com/hc/en-us/articles/360039238193-Hide-styles-components-and-variables-when-publishing",
+        "resourceTitle": "Hide styles, components, and variables when publishing",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1372": {   
+        "resourceLink": "https://pchiusano.github.io/2013-09-10/type-systems-and-ux-example.html",
+        "resourceTitle": "Why type systems matter for UX: an example",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1371": {   
+        "resourceLink": "https://pchiusano.github.io/2013-09-10/type-systems-and-ux-example.html",
+        "resourceTitle": "Why type systems matter for UX: an example",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1370": {   
+        "resourceLink": "https://uxdesign.cc/three-very-good-standardized-ux-surveys-for-industrial-use-f8f1e628d475",
+        "resourceTitle": "Three very good standardized UX surveys for industrial use",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1369": {   
+        "resourceLink": "https://uxdesign.cc/three-very-good-standardized-ux-surveys-for-industrial-use-f8f1e628d475",
+        "resourceTitle": "Three very good standardized UX surveys for industrial use",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1368": {   
+        "resourceLink": "https://www.notion.so/templates/designer-portfolio",
+        "resourceTitle": "Designer portfolio",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1367": {   
+        "resourceLink": "https://www.notion.so/templates/designer-portfolio",
+        "resourceTitle": "Designer portfolio",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1366": {   
+        "resourceLink": "https://medium.muz.li/the-ultimate-guide-to-creating-outstanding-design-portfolio-335a2d07ca3b",
+        "resourceTitle": "The Ultimate Guide to Creating Outstanding Design Portfolio",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1365": {   
+        "resourceLink": "https://medium.muz.li/the-ultimate-guide-to-creating-outstanding-design-portfolio-335a2d07ca3b",
+        "resourceTitle": "The Ultimate Guide to Creating Outstanding Design Portfolio",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1364": {   
+        "resourceLink": "https://uxdesign.cc/usability-heuristic-frameworks-which-one-is-right-for-you-1962387b7cc",
+        "resourceTitle": "Usability heuristic frameworks: which one is right for you?",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1363": {   
+        "resourceLink": "https://southleft.com/insights/design-systems/the-value-of-design-tokens/",
+        "resourceTitle": "The Value of Design Tokens in Modern Web Development",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1362": {   
+        "resourceLink": "https://southleft.com/insights/design-systems/the-value-of-design-tokens/",
+        "resourceTitle": "The Value of Design Tokens in Modern Web Development",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1361": {   
+        "resourceLink": "https://benjdd.com/posts/turn-images-into-contour-maps/",
+        "resourceTitle": "Turn images into contour maps",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1360": {   
+        "resourceLink": "https://hidde.blog/popover-accessibility/",
+        "resourceTitle": "On popover accessibility: what the browser does and doesn’t do",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1359": {   
+        "resourceLink": "https://book.visualisingdata.com/",
+        "resourceTitle": "Visualising Data: A Handbook for Data Driven Design",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1358": {   
+        "resourceLink": "https://book.visualisingdata.com/",
+        "resourceTitle": "Visualising Data: A Handbook for Data Driven Design",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1357": {   
+        "resourceLink": "https://www.lydiahallie.com/blog/promise-execution",
+        "resourceTitle": "JavaScript Visualized: Promise Execution",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1356": {   
+        "resourceLink": "https://www.lydiahallie.com/blog/promise-execution",
+        "resourceTitle": "JavaScript Visualized: Promise Execution",
+        "resourceType": [""],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1355": {   
+        "resourceLink": "https://hidde.blog/dialog-modal-popover-differences",
+        "resourceTitle": "Dialogs and popovers seem similar. How are they different?",
+        "resourceType": ["Blog"],
+        "authors": ["Hidde de Vries"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    },
+    "1354": {   
+        "resourceLink": "https://echarts.apache.org/en/index.html",
+        "resourceTitle": "Apache ECharts",
+        "resourceType": ["Blog"],
+        "authors": ["alterebro.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"]
+    },
+    "1353": {   
+        "resourceLink": "https://alterebro.com/",
+        "resourceTitle": "@alterebro - Creative Technologist / Front-End Web Developer",
+        "resourceType": ["Blog"],
+        "authors": ["alterebro.com"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Javascript"]
+    },
+    "1352": {   
+        "resourceLink": "https://rxdb.info/articles/localstorage.html",
+        "resourceTitle": "Using localStorage in Modern Applications: A Comprehensive Guide",
+        "resourceType": ["Documentation"],
+        "authors": ["RxDB"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Frontend", "Javascript"]
+    },
+    "1351": {   
+        "resourceLink": "https://www.skeleton.dev/docs/tokens",
+        "resourceTitle": "Skeleton.dev - Design Tokens",
+        "resourceType": ["Documentation"],
+        "authors": ["Skeleton"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design system", "CSS", "Tokens", "Frontend"]
+    },
+    "1350": {   
+        "resourceLink": "https://uxdesign.cc/the-3-capabilities-every-designer-needs-for-the-ai-era-e6cef9db2fd8",
+        "resourceTitle": "The 3 capabilities designers need to build for the AI era",
+        "resourceType": ["Blog"],
+        "authors": ["Alex Klein", "UX Collective"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Design Ops"],
+        "tags": ["AI"]
+    },
+    "1349": {   
+        "resourceLink": "https://bigmedium.com/ideas/a-global-design-system.html",
+        "resourceTitle": "A Global Design System",
+        "resourceType": ["Blog"],
+        "authors": ["Brad Frost", "Big Medium"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design system"]
+    },     
+    "1348": {   
+        "resourceLink": "https://increment.com/internationalization/paystack-building-a-better-checkout/#authors",
+        "resourceTitle": "The process: Building a better checkout",
+        "resourceType": ["Blog"],
+        "authors": ["Opemipo Aikomo", "Increment"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Case study", "Portfolio"]
+    },     
+    "1347": {   
+        "resourceLink": "https://uxdesign.cc/maybe-its-time-to-let-the-floating-labels-die-a97d6a4ea1b2",
+        "resourceTitle": "Maybe it’s time to let the floating labels die",
+        "resourceType": ["Blog"],
+        "authors": ["Daniel Berryhill"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    },     
+    "1346": {   
+        "resourceLink": "https://uxdesign.cc/maybe-its-time-to-let-the-floating-labels-die-a97d6a4ea1b2",
+        "resourceTitle": "Maybe it’s time to let the floating labels die",
+        "resourceType": ["Blog"],
+        "authors": ["Daniel Berryhill"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Components"]
+    },     
+    "1345": {   
+        "resourceLink": "https://dataanddesign.substack.com/p/product-design-is-overtaking-ux-and",
+        "resourceTitle": "Product Design is overtaking UX, and it’s because we’re in a weak economy",
+        "resourceType": ["Blog"],
+        "authors": ["Christopher K Wong"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["Career"],
+        "tags": ["Job market"]
+    },     
+    "1344": {   
+        "resourceLink": "https://nucleoapp.com/free-icons",
+        "resourceTitle": "Nucleo - Free Icons",
+        "resourceType": ["Library"],
+        "authors": ["Nucleo"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Icons"]
+    },     
+    "1343": {   
+        "resourceLink": "https://ericportis.com/posts/2024/okay-color-spaces/",
+        "resourceTitle": "Okay, Color Spaces",
+        "resourceType": ["Blog"],
+        "authors": ["Eric Portis"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Color"]
+    },     
+    "1342": {   
+        "resourceLink": "https://www.mayank.co/blog/declarative-shadow-dom-guide",
+        "resourceTitle": "A practical guide to using shadow DOM",
+        "resourceType": ["Blog"],
+        "authors": ["Mayank"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX Engineering"],
+        "tags": ["Web components", "Frontend"]
+    },     
+    "1341": {   
+        "resourceLink": "https://www.zoningatlas.org/atlas",
+        "resourceTitle": "National Zoning Atlas",
+        "resourceType": ["Documentation"],
+        "authors": ["The National Zoning Atlas"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Data visualization"]
+    },     
     "1340": {   
         "resourceLink": "https://piccalil.li/blog/a-css-project-boilerplate/",
         "resourceTitle": "A CSS Project Boilerplate",
@@ -98,11 +518,11 @@
     },     
     "1332": {   
         "resourceLink": "https://david-theil.medium.com/mastering-the-mindset-of-a-mature-product-owner-powerful-questions-to-forge-a-path-to-success-and-b7ff506bb859",
-        "resourceTitle": "Mastering the Mindset of a Mature Product Owner: Powerful Questions to Forge a Path to Success and Growth",
+        "resourceTitle": "Mastering the Mindset of a Mature Product Owner",
         "resourceType": ["Blog"],
         "authors": ["David Theil"],
         "notes": {
-                    "description": "",
+                    "description": "Questions to Forge a Path to Success and Growth",
                     "bulletPoints": []
                 },
         "category": ["Product"],
@@ -146,11 +566,11 @@
     },     
     "1328": {   
         "resourceLink": "https://medium.com/ideaplatz/lifting-ux-design-from-the-doldrums-four-key-craft-improvements-for-your-teams-d4cac3f324bb",
-        "resourceTitle": "Lifting UX Design from the doldrums: four key craft improvements for your teams",
+        "resourceTitle": "Lifting UX Design from the doldrums",
         "resourceType": ["Blog"],
         "authors": ["Cheryl Platz"],
         "notes": {
-                    "description": "",
+                    "description": "Four key craft improvements for your teams",
                     "bulletPoints": []
                 },
         "category": ["Design Ops"],
@@ -166,7 +586,8 @@
                     "bulletPoints": []
                 },
         "category": ["UX Engineering"],
-        "tags": ["Database"]
+        "tags": ["Database"],
+        "archive": true
     },     
     "1326": {   
         "resourceLink": "https://rauno.me/craft/contrasting-aesthetics",
@@ -11769,7 +12190,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "351": {
@@ -11784,7 +12205,7 @@
         "category": ["UX Engineering"],
         "tags": ["CSS", "JavaScript"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "350": {
@@ -11799,7 +12220,7 @@
         "category": ["UX"],
         "tags": ["Templates"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "349": {
@@ -11814,7 +12235,7 @@
         "category": ["Design Ops"],
         "tags": ["Recruitment"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "348": {
@@ -11829,7 +12250,7 @@
         "category": ["UX"],
         "tags": ["Metrics"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "347": {
@@ -11844,7 +12265,7 @@
         "category": ["UX"],
         "tags": ["Research", "User interviews"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "346": {
@@ -11859,7 +12280,7 @@
         "category": ["UX"],
         "tags": ["Research", "User interviews"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "345": {
@@ -11874,7 +12295,7 @@
         "category": ["UI"],
         "tags": ["Icons"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "344": {
@@ -11889,7 +12310,7 @@
         "category": ["UX"],
         "tags": ["User interviews"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "343": {
@@ -11904,7 +12325,7 @@
         "category": ["UI"],
         "tags": ["Typography", "Fonts"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "342": {
@@ -11919,7 +12340,7 @@
         "category": ["UX"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "341": {
@@ -11934,7 +12355,7 @@
         "category": ["UX"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "340": {
@@ -11949,7 +12370,7 @@
         "category": ["UX"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "339": {
@@ -11964,7 +12385,7 @@
         "category": ["UI"],
         "tags": ["CSS"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "338": {
@@ -11979,7 +12400,7 @@
         "category": ["UI"],
         "tags": ["Frontend"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "337": {
@@ -11994,7 +12415,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "336": {
@@ -12009,7 +12430,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "335": {
@@ -12024,7 +12445,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "333": {
@@ -12039,7 +12460,7 @@
         "category": ["UI"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "331": {
@@ -12054,7 +12475,7 @@
         "category": ["UI"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "330": {
@@ -12069,7 +12490,7 @@
         "category": ["UI"],
         "tags": ["Figma", "Pattern library"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "329": {
@@ -12084,7 +12505,7 @@
         "category": ["UI"],
         "tags": ["Figma", "Pattern library"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "328": {
@@ -12099,7 +12520,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "327": {
@@ -12114,7 +12535,7 @@
         "category": ["Design Ops"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "326": {
@@ -12129,7 +12550,7 @@
         "category": ["Product"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "325": {
@@ -12144,7 +12565,7 @@
         "category": ["UI"],
         "tags": ["Heuristics"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "324": {
@@ -12159,7 +12580,7 @@
         "category": ["UX"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "323": {
@@ -12174,7 +12595,7 @@
         "category": ["UX"],
         "tags": ["Writing"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "322": {
@@ -12189,7 +12610,7 @@
         "category": ["UX"],
         "tags": ["Writing"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "321": {
@@ -12204,7 +12625,7 @@
         "category": ["UX Engineering"],
         "tags": ["Authentication"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "320": {
@@ -12219,7 +12640,7 @@
         "category": ["Product"],
         "tags": ["Roadmap"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "319": {
@@ -12234,7 +12655,7 @@
         "category": ["UX Engineering"],
         "tags": ["CSS"],
         "reviewedDates": ["12", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "318": {
@@ -12249,7 +12670,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": ["12", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "317": {
@@ -12264,7 +12685,7 @@
         "category": ["UX Engineering"],
         "tags": ["API"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "316": {
@@ -12279,7 +12700,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "315": {
@@ -12294,7 +12715,7 @@
         "category": ["UI"],
         "tags": ["Figma", "Design system", "UI kit"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "314": {
@@ -12309,7 +12730,7 @@
         "category": ["UX"],
         "tags": ["Code"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Core /  Reference"
     },
     "313": {
@@ -12324,7 +12745,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "312": {
@@ -12339,7 +12760,7 @@
         "category": ["Design Ops"],
         "tags": ["Process", "Case study"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "311": {
@@ -12354,7 +12775,7 @@
         "category": ["Design Ops"],
         "tags": ["Design thinking", "Framework"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "310": {
@@ -12383,7 +12804,7 @@
         "category": ["Career"],
         "tags": ["Resume"],
         "reviewedDates": ["12", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "308": {
@@ -12398,7 +12819,7 @@
         "category": ["UI"],
         "tags": ["Presenting"],
         "reviewedDates": ["12", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "307": {
@@ -12413,7 +12834,7 @@
         "category": ["UX"],
         "tags": ["Process", "Communication"],
         "reviewedDates": ["12", "2022"] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "306": {
@@ -12428,7 +12849,7 @@
         "category": ["UX"],
         "tags": ["User testing", "Research"],
         "reviewedDates": ["12", "2022"] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "305": {
@@ -12443,7 +12864,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "304": {
@@ -12458,7 +12879,7 @@
         "category": ["Product"],
         "tags": ["Ideation"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "303": {
@@ -12473,7 +12894,7 @@
         "category": ["UI"],
         "tags": ["Patterns"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "302": {
@@ -12488,7 +12909,7 @@
         "category": ["UX"],
         "tags": ["Agency"],
         "reviewedDates": ["12", "2022"] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "301": {
@@ -12503,7 +12924,7 @@
         "category": ["UX"],
         "tags": ["Figma"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "300": {
@@ -12518,7 +12939,7 @@
         "category": ["UI"],
         "tags": ["Design system", "Typography"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "299": {
@@ -12533,7 +12954,7 @@
         "category": ["UI"],
         "tags": ["Responsive design"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "298": {
@@ -12548,7 +12969,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "297": {
@@ -12563,7 +12984,7 @@
         "category": ["UI"],
         "tags": ["Visual design"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "296": {
@@ -12578,7 +12999,7 @@
         "category": ["UI"],
         "tags": ["UI kit"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "295": {
@@ -12593,7 +13014,7 @@
         "category": ["UI"],
         "tags": ["Design system"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "294": {
@@ -12608,7 +13029,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "293": {
@@ -12623,7 +13044,7 @@
         "category": ["UI"],
         "tags": ["Responsive design"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "292": {
@@ -12638,7 +13059,7 @@
         "category": ["UI"],
         "tags": ["Responsive design", "Typography"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "291": {
@@ -12653,7 +13074,7 @@
         "category": ["UI"],
         "tags": ["Typography"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "290": {
@@ -12668,7 +13089,7 @@
         "category": ["UX Engineering"],
         "tags": ["Database"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "289": {
@@ -12683,7 +13104,7 @@
         "category": ["UX Engineering"],
         "tags": ["Server"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "288": {
@@ -12698,7 +13119,7 @@
         "category": ["Product"],
         "tags": ["Case study", "Data visualization"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "287": {
@@ -12713,7 +13134,7 @@
         "category": ["UI"],
         "tags": ["Figma", "UI kit"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "286": {
@@ -12728,7 +13149,7 @@
         "category": ["UI"],
         "tags": ["Animation"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "285": {
@@ -12743,7 +13164,7 @@
         "category": ["UX Engineering"],
         "tags": ["AI"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "284": {
@@ -12758,7 +13179,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "283": {
@@ -12773,7 +13194,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "282": {
@@ -12788,7 +13209,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "281": {
@@ -12803,7 +13224,7 @@
         "category": ["UI"],
         "tags": ["Graphic design"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "280": {
@@ -12818,7 +13239,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },        
      "279": {
@@ -12845,7 +13266,7 @@
         "category": ["UX"],
         "tags": ["Mapping", "Framework"],
         "reviewedDates": ["12", "2022"] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "277": {
@@ -12860,7 +13281,7 @@
         "category": ["UX"],
         "tags": ["Mapping", "Framework"],
         "reviewedDates": ["12", "2022"] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "276": {
@@ -12875,7 +13296,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "275": {
@@ -12890,7 +13311,7 @@
         "category": ["UX"],
         "tags": ["Analytics", "Research"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "274": {
@@ -12905,7 +13326,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "273": {
@@ -12920,7 +13341,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "272": {
@@ -12935,7 +13356,7 @@
         "category": ["Design Ops"],
         "tags": ["Process", "Double diamond", "Framework"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "271": {
@@ -12950,7 +13371,7 @@
         "category": ["UX"],
         "tags": ["Heuristics"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "270": {
@@ -12965,7 +13386,7 @@
         "category": ["Design Ops"],
         "tags": ["Collaboration"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },    
     "269": {
@@ -12980,7 +13401,7 @@
         "category": ["Design Ops"],
         "tags": ["Figma"],
         "reviewedDates": [""],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "268": {
@@ -12995,7 +13416,7 @@
         "category": ["Design Ops"],
         "tags": ["Figma"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "267": {
@@ -13010,7 +13431,7 @@
         "category": ["Design Ops"],
         "tags": ["Figma"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "266": {
@@ -13025,7 +13446,7 @@
         "category": ["UX"],
         "tags": ["Mapping", "Figma"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "265": {
@@ -13040,7 +13461,7 @@
         "category": ["UX"],
         "tags": ["Mapping", "Templates"],
         "reviewedDates": [""] ,
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "264": {
@@ -13055,7 +13476,7 @@
         "category": ["Design Ops"],
         "tags": ["Case study"],
         "reviewedDates": ["12", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "263": {
@@ -13070,7 +13491,7 @@
         "category": ["UX Engineering"],
         "tags": ["Cloud"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "261": {
@@ -13085,7 +13506,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "260": {
@@ -13100,7 +13521,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "258": {
@@ -13115,7 +13536,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "257": {
@@ -13130,7 +13551,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "255": {
@@ -13145,7 +13566,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "254": {
@@ -13160,7 +13581,7 @@
         "category": ["UX Engineering"],
         "tags": ["Frontend"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "253": {
@@ -13175,7 +13596,7 @@
         "category": ["UX"],
         "tags": ["Components"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "252": {
@@ -13190,7 +13611,7 @@
         "category": ["UX"],
         "tags": ["Components"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "251": {
@@ -13205,7 +13626,7 @@
         "category": ["UX"],
         "tags": ["Accessibility"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "250": {
@@ -13220,7 +13641,7 @@
         "category": ["UI"],
         "tags": ["CSS", "Web components"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "249": {
@@ -13235,7 +13656,7 @@
         "category": ["UX"],
         "tags": ["Mobile", "Components"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "248": {
@@ -13250,7 +13671,7 @@
         "category": ["Product"],
         "tags": ["E-commerce", "Analytics"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "247": {
@@ -13265,7 +13686,7 @@
         "category": ["UI"],
         "tags": ["Figma"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "246": {
@@ -13280,7 +13701,7 @@
         "category": ["UX"],
         "tags": ["Ideation"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "245": {
@@ -13295,7 +13716,7 @@
         "category": ["UX"],
         "tags": ["Heuristics"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "244": {
@@ -13310,7 +13731,7 @@
         "category": ["UX"],
         "tags": ["User research"],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "243": {
@@ -13325,7 +13746,7 @@
         "category": ["UI"],
         "tags": ["CSS"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "242": {
@@ -13340,7 +13761,7 @@
         "category": ["UX Engineering"],
         "tags": ["Analytics"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "241": {
@@ -13356,7 +13777,7 @@
         "tags": ["Accessibility"],
         "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "240": {
@@ -13371,7 +13792,7 @@
         "category": ["UX"],
         "tags": ["Figma", "Components"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "239": {
@@ -13386,7 +13807,7 @@
         "category": ["UX"],
         "tags": ["Design tokens"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "238": {
@@ -13401,7 +13822,7 @@
         "category": ["UX"],
         "tags": ["Design system"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "237": {
@@ -13416,7 +13837,7 @@
         "category": ["UX"],
         "tags": ["Research", "User interviews"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "236": {
@@ -13431,7 +13852,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "235": {
@@ -13446,7 +13867,7 @@
         "category": ["UX"],
         "tags": ["User research"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "234": {
@@ -13461,7 +13882,7 @@
         "category": ["Career"],
         "tags": ["Portfolio", "Case study", "Storytelling"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "233": {
@@ -13476,7 +13897,7 @@
         "category": ["UX Engineering"],
         "tags": ["Principles"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "232": {
@@ -13491,7 +13912,7 @@
         "category": ["UI"],
         "tags": ["Fonts", "Typography"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "231": {
@@ -13506,7 +13927,7 @@
         "category": ["Design Ops"],
         "tags": ["Workshopping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "230": {
@@ -13521,7 +13942,7 @@
         "category": ["Design Ops"],
         "tags": ["Workshopping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "229": {
@@ -13536,7 +13957,7 @@
         "category": ["Design Ops"],
         "tags": [],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "228": {
@@ -13551,7 +13972,7 @@
         "category": ["Design Ops"],
         "tags": ["Process"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "227": {
@@ -13566,7 +13987,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework", "Process"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "226": {
@@ -13581,7 +14002,7 @@
         "category": ["UX"],
         "tags": ["Mobile", "Components"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "225": {
@@ -13596,7 +14017,7 @@
         "category": ["UX"],
         "tags": ["Ideation"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "224": {
@@ -13611,7 +14032,7 @@
         "category": ["Career"],
         "tags": ["Portfolio", "Case study"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "223": {
@@ -13626,7 +14047,7 @@
         "category": ["Career"],
         "tags": ["Portfolio", "Case study"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "222": {
@@ -13641,7 +14062,7 @@
         "category": ["Career"],
         "tags": ["Portfolio", "Case study"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "221": {
@@ -13656,7 +14077,7 @@
         "category": ["Product"],
         "tags": ["Design system"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "220": {
@@ -13671,7 +14092,7 @@
         "category": ["UX Engineering"],
         "tags": ["Design system"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "219": {
@@ -13686,7 +14107,7 @@
         "category": ["UX"],
         "tags": ["Design system"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "218": {
@@ -13701,7 +14122,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "217": {
@@ -13716,7 +14137,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "216": {
@@ -13731,7 +14152,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "215": {
@@ -13746,7 +14167,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "214": {
@@ -13761,7 +14182,7 @@
         "category": ["UI"],
         "tags": ["Design system", "Figma"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "213": {
@@ -13776,7 +14197,7 @@
         "category": ["UX"],
         "tags": ["Prototyping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "212": {
@@ -13791,7 +14212,7 @@
         "category": ["UX"],
         "tags": ["Prototyping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "211": {
@@ -13806,7 +14227,7 @@
         "category": ["UI"],
         "tags": ["Prototyping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "210": {
@@ -13821,7 +14242,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "209": {
@@ -13836,7 +14257,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "208": {
@@ -13851,7 +14272,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "207": {
@@ -13866,7 +14287,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "206": {
@@ -13881,7 +14302,7 @@
         "category": ["UI"],
         "tags": ["Animation"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "205": {
@@ -13896,7 +14317,7 @@
         "category": ["UI"],
         "tags": ["Typography"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "204": {
@@ -13911,7 +14332,7 @@
         "category": ["UI"],
         "tags": ["Typography"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "203": {
@@ -13926,7 +14347,7 @@
         "category": ["UI"],
         "tags": ["Imagery"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "202": {
@@ -13941,7 +14362,7 @@
         "category": ["UI"],
         "tags": ["Typography"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "201": {
@@ -13956,7 +14377,7 @@
         "category": ["UI"],
         "tags": ["Color"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "200": {
@@ -13972,7 +14393,7 @@
         "tags": ["Color"],
         "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "199": {
@@ -13988,7 +14409,7 @@
         "tags": ["AI"],
         "associatedImagery": [""],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "198": {
@@ -14003,7 +14424,7 @@
         "category": ["UI"],
         "tags": ["Illustration"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "197": {
@@ -14018,7 +14439,7 @@
         "category": ["UX"],
         "tags": ["Framework"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "196": {
@@ -14033,7 +14454,7 @@
         "category": ["UX"],
         "tags": ["Prototyping"],
         "reviewedDates": [["11", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "195": {
@@ -14048,7 +14469,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "194": {
@@ -14063,7 +14484,7 @@
         "category": ["Design Ops"],
         "tags": ["Leadership"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "193": {
@@ -14078,7 +14499,7 @@
         "category": ["Design Ops"],
         "tags": ["Ideation"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "192": {
@@ -14093,7 +14514,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework", "Design thinking"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "191": {
@@ -14108,7 +14529,7 @@
         "category": ["Design Ops"],
         "tags": ["Problem"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "190": {
@@ -14123,7 +14544,7 @@
         "category": ["UX"],
         "tags": ["Ideation"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "189": {
@@ -14138,7 +14559,7 @@
         "category": ["UX"],
         "tags": ["LeanUX"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "188": {
@@ -14153,7 +14574,7 @@
         "category": ["UX"],
         "tags": ["Artifacts"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "187": {
@@ -14168,7 +14589,7 @@
         "category": ["Product"],
         "tags": ["Marketing"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "186": {
@@ -14183,7 +14604,7 @@
         "category": ["UX"],
         "tags": ["Video"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "185": {
@@ -14198,7 +14619,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "184": {
@@ -14213,7 +14634,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "183": {
@@ -14228,7 +14649,7 @@
         "category": ["UX"],
         "tags": ["Ideation", "Framework"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "182": {
@@ -14243,7 +14664,7 @@
         "category": [],
         "tags": [],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "181": {
@@ -14258,7 +14679,7 @@
         "category": ["UX"],
         "tags": ["Diagramming"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "180": {
@@ -14273,7 +14694,7 @@
         "category": ["UX"],
         "tags": ["Workshopping"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "179": {
@@ -14288,7 +14709,7 @@
         "category": ["Product"],
         "tags": ["User centered design"],
         "reviewedDates": [["10", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "178": {
@@ -14303,7 +14724,7 @@
         "category": ["Product"],
         "tags": ["AI"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "177": {
@@ -14318,7 +14739,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework", "Artifacts"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "176": {
@@ -14333,7 +14754,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "175": {
@@ -14348,7 +14769,7 @@
         "category": ["UX"],
         "tags": ["Framework"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "174": {
@@ -14363,7 +14784,7 @@
         "category": ["UX"],
         "tags": ["Whiteboarding"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "173": {
@@ -14378,7 +14799,7 @@
         "category": ["UX Engineering"],
         "tags": ["Computer science"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "172": {
@@ -14393,7 +14814,7 @@
         "category": ["UX Engineering"],
         "tags": ["Prototyping", "Code"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "171": {
@@ -14408,7 +14829,7 @@
         "category": ["UX"],
         "tags": ["Wireframing", "Diagramming"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "170": {
@@ -14423,7 +14844,7 @@
         "category": ["UX"],
         "tags": ["Video"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "169": {
@@ -14438,7 +14859,7 @@
         "category": ["Career"],
         "tags": ["Jobs"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "168": {
@@ -14453,7 +14874,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "167": {
@@ -14468,7 +14889,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "166": {
@@ -14483,7 +14904,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "165": {
@@ -14498,7 +14919,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "164": {
@@ -14513,7 +14934,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "163": {
@@ -14528,7 +14949,7 @@
         "category": ["UX Engineering"],
         "tags": ["Frontend"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "162": {
@@ -14543,7 +14964,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "161": {
@@ -14558,7 +14979,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "160": {
@@ -14573,7 +14994,7 @@
         "category": ["UX Engineering"],
         "tags": [ "JavaScript"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "159": {
@@ -14588,7 +15009,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["10, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "158": {
@@ -14603,7 +15024,7 @@
         "category": ["UX Engineering"],
         "tags": ["Database"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "157": {
@@ -14618,7 +15039,7 @@
         "category": ["UX"],
         "tags": ["Collaboration", "Whiteboarding"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "156": {
@@ -14633,7 +15054,7 @@
         "category": ["Design Ops"],
         "tags": ["SaaS"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "155": {
@@ -14648,7 +15069,7 @@
         "category": ["UX"],
         "tags": [],
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "154": {
@@ -14663,7 +15084,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "153": {
@@ -14678,7 +15099,7 @@
         "category": ["UX Engineering"],
         "tags": ["Frontend"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "152": {
@@ -14693,7 +15114,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "151": {
@@ -14708,7 +15129,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "150": {
@@ -14723,7 +15144,7 @@
         "category": ["UX Engineering"],
         "tags": ["Frontend"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "149": {
@@ -14738,7 +15159,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "148": {
@@ -14753,7 +15174,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "147": {
@@ -14768,7 +15189,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Cheatsheet"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "146": {
@@ -14783,7 +15204,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "145": {
@@ -14798,7 +15219,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "144": {
@@ -14813,7 +15234,7 @@
         "category": ["UX Engineering"],
         "tags": ["Database"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "143": {
@@ -14828,7 +15249,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "142": {
@@ -14843,7 +15264,7 @@
         "category": ["Design Ops"],
         "tags": ["UX maturity"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "141": {
@@ -14858,7 +15279,7 @@
         "category": ["Design Ops"],
         "tags": ["Framework"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "140": {
@@ -14873,7 +15294,7 @@
         "category": ["Design Ops"],
         "tags": ["Strategy"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "139": {
@@ -14888,7 +15309,7 @@
         "category": ["UX Engineering"],
         "tags": ["Algorithm"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "138": {
@@ -14903,7 +15324,7 @@
         "category": ["UX Engineering"],
         "tags": ["CSS"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "137": {
@@ -14918,7 +15339,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Web components"],
         "reviewedDates": [["09, 2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "136": {
@@ -14933,7 +15354,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Web components"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "135": {
@@ -14948,7 +15369,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "134": {
@@ -14963,7 +15384,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "133": {
@@ -14978,7 +15399,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Tutorial"],
         "reviewedDates": [[""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "132": {
@@ -14993,7 +15414,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Tutorial"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "131": {
@@ -15008,7 +15429,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript", "Tutorial"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "130": {
@@ -15023,7 +15444,7 @@
         "category": ["Design Ops"],
         "tags": ["Jobs-to-be-done"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "129": {
@@ -15038,7 +15459,7 @@
         "category": ["Career"],
         "tags": ["Jobs"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "128": {
@@ -15053,7 +15474,7 @@
         "category": ["UI"],
         "tags": ["Design tokens", "Design system"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "127": {
@@ -15068,7 +15489,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "126": {
@@ -15083,7 +15504,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "125": {
@@ -15098,7 +15519,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "124": {
@@ -15113,7 +15534,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "123": {
@@ -15128,7 +15549,7 @@
         "category": ["UI"],
         "tags": ["Design tokens"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "122": {
@@ -15143,7 +15564,7 @@
         "category": ["Career"],
         "tags": ["Portfolio"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "121": {
@@ -15158,7 +15579,7 @@
         "category": ["UI"],
         "tags": ["Graphic design"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "120": {
@@ -15173,7 +15594,7 @@
         "category": ["UI"],
         "tags": ["Graphic design"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "119": {
@@ -15188,7 +15609,7 @@
         "category": ["UI"],
         "tags": ["Icons"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "118": {
@@ -15203,7 +15624,7 @@
         "category": ["Design Ops"],
         "tags": ["Design system"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "117": {
@@ -15218,7 +15639,7 @@
         "category": ["UI"],
         "tags": ["Illustration"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "116": {
@@ -15233,7 +15654,7 @@
         "category": ["UI"],
         "tags": ["Illustration"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "115": {
@@ -15248,7 +15669,7 @@
         "category": ["UI"],
         "tags": ["Color"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "114": {
@@ -15263,7 +15684,7 @@
         "category": ["UI"],
         "tags": ["Fonts"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "113": {
@@ -15278,7 +15699,7 @@
         "category": ["UI"],
         "tags": ["Fonts"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "112": {
@@ -15293,7 +15714,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "111": {
@@ -15308,7 +15729,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components", "JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "110": {
@@ -15323,7 +15744,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components", "JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "109": {
@@ -15339,7 +15760,7 @@
         "tags": ["JavaScript"],
         "associatedImagery": [""],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "108": {
@@ -15354,7 +15775,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "107": {
@@ -15369,7 +15790,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "106": {
@@ -15384,7 +15805,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "105": {
@@ -15399,7 +15820,7 @@
         "category": ["UX"],
         "tags": ["Ideation", "Workshopping"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "104": {
@@ -15414,7 +15835,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "103": {
@@ -15429,7 +15850,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["", ""]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "102": {
@@ -15444,7 +15865,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["06", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "101": {
@@ -15459,7 +15880,7 @@
         "category": ["UX Engineering"],
         "tags": ["Web components"],
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "100": {
@@ -15475,7 +15896,7 @@
         "tags": ["JavaScript"],
         "reviewed": true,
         "reviewedDates": [["09", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "99": {
@@ -15491,7 +15912,7 @@
         "tags": [],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "98": {
@@ -15507,7 +15928,7 @@
         "tags": [],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "97": {
@@ -15523,7 +15944,7 @@
         "tags": ["Heuristics"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "96": {
@@ -15539,7 +15960,7 @@
         "tags": ["Web components"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "95": {
@@ -15555,7 +15976,7 @@
         "tags": ["Recruitment"],
         "reviewed": false,
         "reviewedDates": [["MM", "YYYY"]],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "94": {
@@ -15572,7 +15993,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "dateAdded": ["08", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "93": {
@@ -15589,7 +16010,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "dateAdded": ["08", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "92": {
@@ -15606,7 +16027,7 @@
         "category": ["UX"],
         "tags": ["Research"],
         "dateAdded": ["08", "2022"],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "91": {
@@ -15624,7 +16045,7 @@
         "tags": ["Accessibility"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "90": {
@@ -15642,7 +16063,7 @@
         "tags": ["Recruitment"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "89": {
@@ -15660,7 +16081,7 @@
         "tags": ["Heuristics"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "88": {
@@ -15678,7 +16099,7 @@
         "tags": ["Principles"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "87": {
@@ -15696,7 +16117,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "86": {
@@ -15714,7 +16135,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "85": {
@@ -15732,7 +16153,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "84": {
@@ -15750,7 +16171,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "83": {
@@ -15768,7 +16189,7 @@
         "tags": ["User testing"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "82": {
@@ -15786,7 +16207,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "81": {
@@ -15804,7 +16225,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "80": {
@@ -15822,7 +16243,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "79": {
@@ -15840,7 +16261,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "78": {
@@ -15858,7 +16279,7 @@
         "tags": ["Research"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "77": {
@@ -15876,7 +16297,7 @@
         "tags": ["Roles"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "76": {
@@ -15894,7 +16315,7 @@
         "tags": ["Framework"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "75": {
@@ -15912,7 +16333,7 @@
         "tags": ["Recruitment"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "74": {
@@ -15930,7 +16351,7 @@
         "tags": ["Analytics", "SaaS"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "73": {
@@ -15948,7 +16369,7 @@
         "tags": ["Recruitment", "Portfolio"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "72": {
@@ -15966,7 +16387,7 @@
         "tags": ["Framework", "Workshopping"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "71": {
@@ -15984,7 +16405,7 @@
         "tags": ["Framework", "Workshopping"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "70": {
@@ -16002,7 +16423,7 @@
         "tags": ["Recruitment"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "69": {
@@ -16020,7 +16441,7 @@
         "tags": ["Atomic design"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "68": {
@@ -16038,7 +16459,7 @@
         "tags": ["Design thinking"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "67": {
@@ -16056,7 +16477,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "66": {
@@ -16074,7 +16495,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "65": {
@@ -16092,7 +16513,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "64": {
@@ -16110,7 +16531,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "63": {
@@ -16128,7 +16549,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "62": {
@@ -16146,7 +16567,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "61": {
@@ -16164,7 +16585,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "60": {
@@ -16182,7 +16603,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "59": {
@@ -16200,7 +16621,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "58": {
@@ -16218,7 +16639,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "57": {
@@ -16236,7 +16657,7 @@
         "tags": ["Design thinking"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "56": {
@@ -16254,7 +16675,7 @@
         "tags": ["Design thinking", "LeanUX"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "55": {
@@ -16272,7 +16693,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "54": {
@@ -16290,7 +16711,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "53": {
@@ -16308,7 +16729,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "52": {
@@ -16326,7 +16747,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "51": {
@@ -16344,7 +16765,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "50": {
@@ -16362,7 +16783,7 @@
         "tags": ["Computer science"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "49": {
@@ -16380,7 +16801,7 @@
         "tags": ["Computer science"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "48": {
@@ -16398,7 +16819,7 @@
         "tags": ["Workshopping"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "47": {
@@ -16416,7 +16837,7 @@
         "tags": ["Spatial design"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "46": {
@@ -16434,7 +16855,7 @@
         "tags": ["Accessibility"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "45": {
@@ -16452,7 +16873,7 @@
         "tags": ["Recruitment"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "44": {
@@ -16470,7 +16891,7 @@
         "tags": ["Computer science"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": "Core"
     },
     "43": {
@@ -16488,7 +16909,7 @@
         "tags": ["Ideation"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "42": {
@@ -16506,7 +16927,7 @@
         "tags": ["Code"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "41": {
@@ -16524,7 +16945,7 @@
         "tags": ["CSS", "SVG"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "40": {
@@ -16542,7 +16963,7 @@
         "tags": ["SVG"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "39": {
@@ -16560,7 +16981,7 @@
         "tags": ["CSS", "Cheatsheet"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "38": {
@@ -16578,7 +16999,7 @@
         "tags": ["CSS", "Cheatsheet"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "37": {
@@ -16596,7 +17017,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "36": {
@@ -16614,7 +17035,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "35": {
@@ -16632,7 +17053,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "34": {
@@ -16650,7 +17071,7 @@
         "tags": ["Web components"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "33": {
@@ -16668,7 +17089,7 @@
         "tags": ["Accessibility"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "32": {
@@ -16686,7 +17107,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "31": {
@@ -16704,7 +17125,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "30": {
@@ -16722,7 +17143,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "29": {
@@ -16740,7 +17161,7 @@
         "tags": ["Accessibility"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "28": {
@@ -16758,7 +17179,7 @@
         "tags": ["Research"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "27": {
@@ -16776,7 +17197,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "26": {
@@ -16794,7 +17215,7 @@
         "tags": ["Framework", "Artifacts"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "24": {
@@ -16812,7 +17233,7 @@
         "tags": ["Ideation", "Artifacts"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core"]
     },
     "23": {
@@ -16830,7 +17251,7 @@
         "tags": ["Design system"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "22": {
@@ -16848,7 +17269,7 @@
         "tags": ["Color"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "21": {
@@ -16866,7 +17287,7 @@
         "tags": ["User flow"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "20": {
@@ -16884,7 +17305,7 @@
         "tags": ["Apps"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "19": {
@@ -16902,7 +17323,7 @@
         "tags": ["Fonts", "Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "18": {
@@ -16920,7 +17341,7 @@
         "tags": ["Framework"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "17": {
@@ -16938,7 +17359,7 @@
         "tags": ["Framework"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "16": {
@@ -16956,7 +17377,7 @@
         "tags": [],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "15": {
@@ -16974,7 +17395,7 @@
         "tags": ["Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "14": {
@@ -16992,7 +17413,7 @@
         "tags": ["Portfolio", "Case study"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "13": {
@@ -17010,7 +17431,7 @@
         "tags": ["Portfolio"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "12": {
@@ -17028,7 +17449,7 @@
         "tags": ["Analytics", "SaaS"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "11": {
@@ -17046,7 +17467,7 @@
         "tags": ["Frontend"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "10": {
@@ -17064,7 +17485,7 @@
         "tags": ["Git"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "9": {
@@ -17082,7 +17503,7 @@
         "tags": ["JavaScript"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "8": {
@@ -17100,7 +17521,7 @@
         "tags": ["Git" ],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "7": {
@@ -17118,7 +17539,7 @@
         "tags": ["Git"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "6": {
@@ -17136,7 +17557,7 @@
         "tags": ["API"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "5": {
@@ -17154,7 +17575,7 @@
         "tags": ["Resume"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "4": {
@@ -17172,7 +17593,7 @@
         "tags": ["Heuristics"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Core Playbook"]
     },
     "3": {
@@ -17190,7 +17611,7 @@
         "tags": ["Typography"],
         "dateAddedYear": "2022",
         "dateAddedMonth": "08",
-        "archived": false,
+        "archive": false,
         "status": ["Reference"]
     },
     "2": {
@@ -17205,7 +17626,7 @@
         "category": ["UX Engineering"],
         "tags": ["JavaScript"],
         "reviewedDates": [["07", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     },
     "1": {
@@ -17220,7 +17641,7 @@
         "category": ["Product"],
         "tags": [],
         "reviewedDates": [["07", "2022"]],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     }
 }

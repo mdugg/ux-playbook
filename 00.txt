@@ -15,7 +15,7 @@
         "imageThumbAlt": "alt text"
         ///
         "reviewedDates": [],
-        "archived": false,
+        "archive": false,
         "status": "Reference"
     }, 
 

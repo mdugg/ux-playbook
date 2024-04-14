@@ -32,7 +32,44 @@ export default class FiltersCategories extends HTMLElement {
 		});
 
 		this.root.innerHTML = `
-			<link rel="stylesheet" href="./components/filtersCategories.css">
+			<style>
+				.toolkit-categories {
+					margin-top: 2rem;
+					margin-bottom: 2rem;
+					padding: 0;
+				}
+				.toolkit-categories-item {
+					display: inline;
+					margin-right: 0.5rem;
+					margin-bottom: 0.5rem;
+					list-style-type: none;
+				}
+				.button {
+					height: 2rem;
+					padding: 0 1rem;
+					border-style: none;
+					border-radius: 0.4rem;
+					background-color: var(--tint-categories);
+					transition-property: background-color;
+					transition-duration: 300ms;
+					transition-timing-function: ease-out;
+				}
+				.button:hover {
+				cursor: pointer;
+				background-color: var(--light-aquamarine);
+				}
+				.button-label {
+					font-size: var(--font-size-text);
+					line-height: 1;
+				}
+				.button-count {
+					font-size: var(--font-size-small);
+				}
+				.button.active {
+					color: white;
+					background-color: var(--blue);
+				}
+			</style>
 			<ul id="categories" class="toolkit-categories">
 			</ul>
       `;
@@ -110,6 +147,10 @@ export default class FiltersCategories extends HTMLElement {
 customElements.define("toolkit-filter-categories", FiltersCategories);
 
 /*
-
-
+- It defines a custom web component FiltersCategories extending HTMLElement.
+- In the constructor, it initializes properties such as root, dataUI, and activeCategory.
+- It fetches article data from an API asynchronously in the loadDataUI method and then renders the categories using the render method.
+- The render method dynamically creates HTML elements for each category, with buttons representing each category and their respective counts.
+- Event listeners are attached to each button to handle clicks and update the active category accordingly.
+- The setActiveCategory method updates the active category and ensures that only one category is active at a time.
 */
