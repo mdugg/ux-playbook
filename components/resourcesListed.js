@@ -11,7 +11,7 @@ export default class ResourcesListed extends HTMLElement {
 		// initialize the dataFiltered property
 		this.loadData = async () => {
 			this.dataFiltered = await MainArticles.fetchArticles();
-			// console.log(this.dataFiltered);
+			console.log(this.dataFiltered);
 		};
 		this.dataFiltered = null;
 	}
@@ -23,23 +23,41 @@ export default class ResourcesListed extends HTMLElement {
 
 		// Listen for the CategoryFilterChanged event
 		document.addEventListener("CategoryFilterChanged", (event) => {
-			// Filter data based on the selected category
+			// Get the clicked category
 			let selectedCategory = event.detail.selectedCategory;
-			this.filterDataByCategory(selectedCategory);
+			// Toggle the active state of the clicked category button
+			const categoryButton = this.root.querySelector(
+				`button[data-category="${selectedCategory}"]`
+			);
+			if (categoryButton) {
+				categoryButton.classList.toggle("active");
+			}
+			// Filter data based on the selected category
+			if (selectedCategory === null) {
+				// Reset the filter to show all data
+				this.resetFilter();
+			} else {
+				// Filter data by the selected category
+				this.filterDataByCategory(selectedCategory);
+			}
 			console.log("Selected category:", selectedCategory);
 		});
+		// Inside connectedCallback method
 		document.addEventListener("TagsFilterChanged", (event) => {
-			const selectedTags = event.detail.selectedTags;
+			let selectedTags = event.detail.selectedTags;
 			this.filterDataByTags(selectedTags);
-			// Log a message when listening for the TagsFilterChanged event
-			console.log("Listening for TagsFilterChanged event...");
+			console.log("TagsFilterChanged event received", this.selectedTags);
+			this.render();
 		});
+	}
+	disconnectedCallback() {
+		// Clean up event listener when component is removed
+		this.removeEventListener("DataFiltered", this.onDataFiltered);
 	}
 	// Function to filter the data based on the selected category
 	async filterDataByCategory(category) {
 		// Fetch articles and wait for the promise to resolve
 		const articles = await MainArticles.fetchArticles();
-
 		// Filter the fetched data based on the selected category
 		this.dataFiltered = articles.filter((item) =>
 			item.category.includes(category)
@@ -48,6 +66,13 @@ export default class ResourcesListed extends HTMLElement {
 
 		// Render the updated data
 		this.render();
+	}
+	// Add a method to reset the filter
+	resetFilter() {
+		this.dataFiltered = null; // Reset the filtered data
+		this.loadData().then(() => {
+			this.render(); // Render all the data
+		});
 	}
 	async filterDataByTags(tags) {
 		const articles = await MainArticles.fetchArticles();
@@ -135,21 +160,21 @@ export default class ResourcesListed extends HTMLElement {
 							font-size: 1rem;
 						}
 					</style>
-            <ul class="toolkit-results-list">
-                ${Object.entries(this.dataFiltered)
-					.reverse()
-					.map(
-						([key, value]) => `
+    <ul class="toolkit-results-list">
+        ${Object.keys(this.dataFiltered) // Use Object.keys() to iterate over keys
+			.reverse()
+			.map((key) => {
+				// Iterate over keys directly
+				const value = this.dataFiltered[key]; // Access the value corresponding to the key
+				return `
                     <li class="resource-item" id="${key}">
                         <article class="resource-card">
-							<div class="row">
-								<span class="media-type">
-									${value.resourceType}
-								</span>
-								<span class="key">
-									# ${key}
-								</span>
-							</div>
+                            <div class="row">
+                                <span class="media-type">
+                                    ${value.resourceType}
+                                </span>
+                                <span class="key"># ${key}</span> <!-- Display the key here -->
+                            </div>
                             <h3 class="title">
                                 <a class="link"
                                     href="${value.resourceLink}" 
@@ -196,9 +221,9 @@ export default class ResourcesListed extends HTMLElement {
                             </ul>
                         </article>
                     </li>
-				`
-					)
-					.join("")}
+                `;
+			})
+			.join("")}
             </ul>`;
 		} else {
 			this.root.innerHTML = `<p>Failed to load the resources</p>`;

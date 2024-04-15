@@ -79,16 +79,24 @@ export default class FiltersCategories extends HTMLElement {
 
 		// Define the event handler function
 		let handleCategoryClick = (category) => {
-			this.setActiveCategory(category); // Update active category
+			// Check if the clicked category button is already active
+			const isActive = this.activeCategory === category;
+			// Toggle the active state
+			if (isActive) {
+				// Deactivate the category
+				this.setActiveCategory(null);
+			} else {
+				// Activate the category
+				this.setActiveCategory(category);
+			}
 			// Create a custom event with the selected category
 			let categoryChangeEvent = new CustomEvent("CategoryFilterChanged", {
 				isTrusted: true,
 				bubbles: true,
 				detail: {
-					selectedCategory: category,
+					selectedCategory: isActive ? null : category, // If already active, pass null to deselect
 				},
 			});
-			// console.log(categoryChangeEvent);
 			// Dispatch the custom event
 			this.dispatchEvent(categoryChangeEvent);
 		};

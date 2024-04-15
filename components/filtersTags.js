@@ -4,7 +4,7 @@ export default class FiltersTags extends HTMLElement {
 	constructor() {
 		super();
 		this.root = this.attachShadow({ mode: "open" });
-		this.root.innerHTML = `<p>Loading ...</p>`;
+		this.root.innerHTML = `<p>Loading tags...</p>`;
 		this.data = null;
 		this.activeTags = new Set(); // Store active tags
 		this.loadData = async () => {
@@ -37,7 +37,6 @@ export default class FiltersTags extends HTMLElement {
 					display: inline;
 					list-style-type: none;
 				}
-
 				.button-tags {
 					padding: 0.25rem;
 					margin: 0 0.25rem 0.25rem 0;
@@ -90,6 +89,8 @@ export default class FiltersTags extends HTMLElement {
 					button.classList.toggle("active");
 					this.dispatchEvent(
 						new CustomEvent("TagsFilterChanged", {
+							isTrusted: true,
+							bubbles: true,
 							detail: {
 								selectedTags: Array.from(this.activeTags),
 							},

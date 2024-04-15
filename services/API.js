@@ -13,8 +13,8 @@ const MainArticles = {
 			for (const obj in data) {
 				dataArray.push(data[obj]);
 			}
-			// console.log(dataArray);
-			// console.log(data);
+			console.log(dataArray);
+			console.log(data);
 			return dataArray;
 		} catch (error) {
 			console.error("Error fetching resources.json - ", error);

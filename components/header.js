@@ -36,7 +36,27 @@ export default class ToolkitHeader extends HTMLElement {
 	}
 	render(data) {
 		this.root.innerHTML = `
-			<link rel="stylesheet" href="./components/header.css">
+			<style>
+				.header {
+					padding: 2rem;
+					display: flex;
+					flex-direction: row;
+					justify-content: space-between;
+					background-color: var(--pale-cyan);
+					border-radius: 1rem;
+				}
+				.title {
+					font-family: var(--font-display);
+					font-weight: var(--font-light);
+					font-size: var(--font-size-display);
+					line-height: 1;
+					color: var(--white);
+					margin: 0;
+				}
+				.resource-count {
+					font-size: var(--font-size-small);
+				}
+			</style>
 			<header class="header">
 				<h1 class="title">UX Toolkit</h1>
 				<div class="resource-count">

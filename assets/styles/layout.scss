@@ -2,25 +2,26 @@
     &-template {
         display: flex;
         flex-direction: column;
-        padding: 2rem;
         background-color: var(--back-tint);
     }
     &-header {
-        padding: 2rem;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        background-color: var(--pale-cyan);
-        border-radius: 1rem;
         
         .title {
             font-family: var(--font-display);
             font-weight: var(--font-light);
             font-size: var(--font-size-display);
             line-height: 1;
-            color: var(--white);
             margin: 0;
         }
+    }
+    &-content {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
     }
     &-categories {
         margin-top: 2rem;
@@ -33,35 +34,19 @@
         }
     }
     &-categories-block {
-        grid-column-start: 1;
-        grid-column-end: 13;
-        grid-area: "categories";
         display: flex;
         flex-direction: row;
+        width: 100%;;
     }
-    &-content {
-        display: grid;
-        grid-template-columns: repeat(12, 1fr);
-        grid-template-rows: auto;
-        gap: 1rem;
-        grid-template-areas: 
-            "categories categories"
-            "resources . sidebar";
-
-    }
-    &-results { 
-        grid-column-start: 1;
-        grid-column-end: 10;
-        grid-area: "categories";
-
-        .count {
-            font-size: .8rem;
-        }
+    &-results {
+        display: flex;
+        flex-direction: column;
+        width: 70%;
     }
     &-sidebar {
-        grid-column-start: 10;
-        grid-column-end: 13;
-        grid-area: "sidebar";
+        display: flex;
+        flex-direction: column;
+        width: 30%;
 
         .tag {
             display: inline-block;
