@@ -30,6 +30,10 @@ export default class FiltersTags extends HTMLElement {
 			this.root.innerHTML = `
 			<style>
 				.toolkit-categories {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: wrap;
+					gap: .25rem;
 					margin:0;
 					padding:0;
 				}
@@ -38,11 +42,11 @@ export default class FiltersTags extends HTMLElement {
 					list-style-type: none;
 				}
 				.button-tags {
-					padding: 0.25rem;
-					margin: 0 0.25rem 0.25rem 0;
+					padding: .25rem .8rem;
+					margin: 0;
 					border-style: none;
 					border-radius: 0.25rem;
-					background-color: transparent;
+					background-color: var(--tags-btn-back);
 					transition: var(--transition-all);
 				}
 				.button-tags:hover {
@@ -53,8 +57,8 @@ export default class FiltersTags extends HTMLElement {
 					background-color: var(--light-aquamarine);
 					}
 				.button-label {
-					font-size: var(--font-size-text);
-					color: var(--gray-800);
+					font-size: var(--font-size-small);
+					color: var(--gray-700);
 					line-height: 1;
 					height: auto;
 				}

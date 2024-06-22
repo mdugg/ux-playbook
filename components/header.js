@@ -38,19 +38,16 @@ export default class ToolkitHeader extends HTMLElement {
 		this.root.innerHTML = `
 			<style>
 				.header {
-					padding: 2rem;
 					display: flex;
 					flex-direction: row;
 					justify-content: space-between;
-					background-color: var(--pale-cyan);
-					border-radius: 1rem;
 				}
 				.title {
+					color: var(--pale-cyan);
 					font-family: var(--font-display);
 					font-weight: var(--font-light);
 					font-size: var(--font-size-display);
-					line-height: 1;
-					color: var(--white);
+					line-height: 1.3;
 					margin: 0;
 				}
 				.resource-count {

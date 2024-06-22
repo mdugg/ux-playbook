@@ -34,40 +34,46 @@ export default class FiltersCategories extends HTMLElement {
 		this.root.innerHTML = `
 			<style>
 				.toolkit-categories {
-					margin-top: 2rem;
-					margin-bottom: 2rem;
+					display: flex;
+					flex-direction: row;
+					gap: .25rem;
+					margin: 0;
 					padding: 0;
 				}
 				.toolkit-categories-item {
-					display: inline;
-					margin-right: 0.5rem;
-					margin-bottom: 0.5rem;
+					display: flex;
+					margin: 0;
 					list-style-type: none;
 				}
 				.button {
 					height: 2rem;
 					padding: 0 1rem;
 					border-style: none;
-					border-radius: 0.4rem;
+					border-radius: var(--border-radius-sm);
 					background-color: var(--tint-categories);
 					transition-property: background-color;
 					transition-duration: 300ms;
 					transition-timing-function: ease-out;
 				}
 				.button:hover {
-				cursor: pointer;
-				background-color: var(--light-aquamarine);
+					cursor: pointer;
+					background-color: var(--light-aquamarine);
 				}
 				.button-label {
-					font-size: var(--font-size-text);
-					line-height: 1;
+					color: var(--gray-800);
+					font-size: var(--font-size-small);
+					font-weight: var(--font-weight-medium);
+					line-height: var(--lineheight-regular);
+					font-optical-sizing: auto;
 				}
 				.button-count {
 					font-size: var(--font-size-small);
 				}
 				.button.active {
-					color: white;
 					background-color: var(--blue);
+				}
+				.button.active .button-label {
+					color: var(--white);
 				}
 			</style>
 			<ul id="categories" class="toolkit-categories">

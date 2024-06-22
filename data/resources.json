@@ -1,5 +1,17 @@
 
 {      
+    "1399": {   
+        "resourceLink": "https://www.svgator.com/",
+        "resourceTitle": "SVGator",
+        "resourceType": ["Tool"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["SVG", "Animation"]
+    },
     "1398": {   
         "resourceLink": "https://www.coop.co.uk/experience-library/",
         "resourceTitle": "Co-Op UK Experience Library",

@@ -3,6 +3,7 @@
         display: flex;
         flex-direction: column;
         background-color: var(--back-tint);
+        padding: 1rem 2.5rem 2.5rem 2.5rem;
     }
     &-header {
         display: flex;
@@ -36,7 +37,13 @@
     &-categories-block {
         display: flex;
         flex-direction: row;
-        width: 100%;;
+        width: 100%;
+        gap: .5rem;
+        align-items: center;
+
+        .icon {
+            fill: var(--icon-fill);
+        }
     }
     &-results {
         display: flex;
