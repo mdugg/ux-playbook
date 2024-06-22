@@ -1,5 +1,281 @@
 
 {      
+    "1398": {   
+        "resourceLink": "https://www.coop.co.uk/experience-library/",
+        "resourceTitle": "Co-Op UK Experience Library",
+        "resourceType": ["Documentation"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UX"],
+        "tags": ["Design System"]
+    },
+    "1397": {   
+        "resourceLink": "https://pimpmytype.com/font-size/",
+        "resourceTitle": "What’s the right font size in web design?",
+        "resourceType": ["Blog"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },
+    "1396": {   
+        "resourceLink": "https://www.modularscale.com/",
+        "resourceTitle": "Modular Scale",
+        "resourceType": ["Tool"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Typography"]
+    },
+    "1395": {   
+        "resourceLink": "https://productdesigninterview.com/ux-design-portfolio",
+        "resourceTitle": "Improve Your Portfolio, CV and LinkedIn",
+        "resourceType": ["Course"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1394": {   
+        "resourceLink": "https://contrast-grid.eightshapes.com/",
+        "resourceTitle": "EightShapes Contrast Grid",
+        "resourceType": ["Tool"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1393": {   
+        "resourceLink": "https://medium.com/@uxsurvivalguide/small-portfolio-changes-that-make-a-big-impact-fb8f179c17de",
+        "resourceTitle": "Small portfolio changes that make a big impact",
+        "resourceType": ["Blog"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1392": {   
+        "resourceLink": "https://medium.com/@uxsurvivalguide/the-difference-between-a-junior-mid-and-senior-level-designer-de25c21c67fd",
+        "resourceTitle": "The difference between a junior, mid, and senior level designer",
+        "resourceType": ["Blog"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1391": {   
+        "resourceLink": "https://www.uxsurvival.guide/guides/portfolio-checklist",
+        "resourceTitle": "Portfolio Checklist",
+        "resourceType": ["Documentation"],
+        "authors": [""],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1390": {   
+        "resourceLink": "https://www.youtube.com/watch?v=xckH5s3UuX4",
+        "resourceTitle": "Understanding the V8 JavaScript Engine",
+        "resourceType": ["Video"],
+        "authors": ["Lydia Hallie"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1389": {   
+        "resourceLink": "https://giddy-lodge-dad.notion.site/1858de54444b463b80f41b4ddee04fc6?v=33b82081bc144dc5b4cd8f22c3656bf0",
+        "resourceTitle": "Tutorials",
+        "resourceType": ["Documentation"],
+        "authors": ["XR Tutorials"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1388": {   
+        "resourceLink": "https://www.shapeof.ai",
+        "resourceTitle": "Shape Of AI",
+        "resourceType": ["Blog"],
+        "authors": ["Emily Campbell"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1387": {   
+        "resourceLink": "https://danmall.com/posts/portfolios",
+        "resourceTitle": "A Portfolio Hiring Managers Can’t Deny",
+        "resourceType": ["Blog"],
+        "authors": ["Dan Mall"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1386": {   
+        "resourceLink": "https://uxplanet.org/a-quick-guide-to-ux-metrics-d271a937149a",
+        "resourceTitle": "A Quick Guide to UX Metrics",
+        "resourceType": ["Blog"],
+        "authors": ["Nick Babich"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1385": {   
+        "resourceLink": "https://uxplanet.org/measuring-ux-your-first-step-towards-objective-evaluation-a408b312777b",
+        "resourceTitle": "Measuring UX: Your First Step Towards Objective Evaluation",
+        "resourceType": ["Blog"],
+        "authors": ["Roma Videnov"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1384": {   
+        "resourceLink": "https://builtformars.com",
+        "resourceTitle": "Build For Mars - UX superpowers",
+        "resourceType": ["Course"],
+        "authors": ["Build For Mars"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1383": {   
+        "resourceLink": "https://www.casestudy.club/portfolio-operating-system",
+        "resourceTitle": "Portfolio Operating System 2.0",
+        "resourceType": ["Course"],
+        "authors": ["Case Study Club"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1382": {   
+        "resourceLink": "https://webaim.org/projects/",
+        "resourceTitle": "WebAIM",
+        "resourceType": ["Documentation"],
+        "authors": ["WebAim"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1381": {   
+        "resourceLink": "https://dev.to/_ndeyefatoudiop/struggling-to-learn-react-or-any-javascript-framework-here-are-7-mistakes-holding-back-and-what-to-do-instead-31fn#strategy-2-understand-the-libraryframework-building-blocks",
+        "resourceTitle": "Struggling to Learn React Or Any JavaScript Framework?",
+        "resourceType": ["Blog"],
+        "authors": ["Ndeye Fatou Diop"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1380": {   
+        "resourceLink": "https://medium.com/illumination/software-is-much-more-than-writing-code-ff973e996589",
+        "resourceTitle": "Software Is Much More than Writing Code",
+        "resourceType": ["Blog"],
+        "authors": ["Luca Vettor"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1379": {   
+        "resourceLink": "https://arnevanoosterom.medium.com/design-thinking-is-dead-again-e48bb1b17b7c",
+        "resourceTitle": "Design Thinking is dead… again",
+        "resourceType": ["Blog"],
+        "authors": ["Arne van Oosterom"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1378": {   
+        "resourceLink": "https://levelup.gitconnected.com/5-growth-product-metrics-that-every-product-growth-engineer-needs-to-know-9f2e41748df4",
+        "resourceTitle": "5 Growth Product Metrics that Every Product Growth Engineer Needs to Know",
+        "resourceType": ["Blog"],
+        "authors": ["Marcel Republic"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1377": {   
+        "resourceLink": "https://bootcamp.uxdesign.cc/a-comprehensive-guide-to-api-design-and-documentation-36dbdb98c320",
+        "resourceTitle": "A Comprehensive Guide to API Design and Documentation",
+        "resourceType": ["Blog"],
+        "authors": ["Marcel Republic"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
+    "1376": {   
+        "resourceLink": "https://craigmod.com",
+        "resourceTitle": "Craig Mod website",
+        "resourceType": ["Blog"],
+        "authors": ["Craig Mod"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": [""],
+        "tags": [""]
+    },
     "1375": {   
         "resourceLink": "https://medium.com/@uxsurvivalguide/displaying-ux-research-in-your-design-portfolio-4-mistakes-you-dont-want-to-make-9d5cb97c9063",
         "resourceTitle": "Displaying UX Research in your Design Portfolio — 4 mistakes you don’t want to make",

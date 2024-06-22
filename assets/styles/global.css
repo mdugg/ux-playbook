@@ -354,6 +354,7 @@ template {
 }
 
 :root {
+  /* COLOR PALETTE */
   --blue: #0d6efd;
   --teal: #38b9ad;
   --turq: #20c997;
@@ -389,9 +390,12 @@ template {
   --back-tint: #f9f9f3;
   --tint-categories: #9ceeff;
   --tint-tags: #d6ffda;
+  /* TYPOGRAPHY */
   --font-display: "Caprasimo", serif;
+  --font-display-patua: "Patua One", serif;
   --font-serif: "Libre Baskerville", serif;
   --font-sans: "Libre Franklin", sans-serif;
+  --font-sans-signika: "Signika Negative", sans-serif;
   --font-size-display: 4rem;
   --font-size-xlarge: 3rem;
   --font-size-large: 2rem;
@@ -425,18 +429,6 @@ template {
   --transition-all: .2s all ease-out;
 }
 
-/*
-  --font-display:
-      'Caprasimo', cursive;
-      'Patua One', cursive;
-
-  --font-serif:
-
-  --font-sans:
-      'Libre Franklin', sans-serif;
-      'Signika Negative', sans-serif;
-      'Libre Baskerville', serif;
-*/
 .uxtk-template {
   display: flex;
   flex-direction: column;
