@@ -20,9 +20,9 @@
   --gray-800: #343a40;
   --gray-900: #212529;
   --gray-dark: #343a40;
-  --back-tint: #f9f9f3;
-  --tint-categories: #9ceeff;
-  --tint-tags: #d6ffda;
+/* Tints */
+  --tint-warm-100: #f9f9f3;
+  --tint-warm-200: #efeee9; 
   /* Typography */
   --font-display: 'Caprasimo', serif;
   --font-display-patua: 'Patua One', serif;
@@ -56,12 +56,25 @@
   --border-radius-xl: 1rem;
   --border-radius-2xl: 2rem;
   --border-radius-pill: 50rem;
+  --border-line-color: var(--gray-200);
   --link-color: #0d6efd;
   --link-hover-color: #0a58ca;
   --highlight-bg: #fff3cd;
-  --transition-all: .2s all ease-out;
+  --transition-hover-color: .2s color ease-out;
+  --transition-all-regular: .3s all ease-out;
   --gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   /* COMPONENT */
+  --surface-main: var(--tint-warm-100);
+  --surface-sidebar: var(--tint-warm-100);
   --icon-fill: var(--teal);
+  --categories-btn-back: var(--gray-200);
   --tags-btn-back: var(--gray-200);
+}
+@media (width <= 960px) {
+  :root {
+    --font-size-display: 3rem;
+    --font-size-xlarge: 2.5rem;
+    --font-size-large: 1.5rem;
+    --font-size-medium: 1.25rem;
+  }
 }

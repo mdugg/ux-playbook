@@ -3,3 +3,13 @@ body {
     font-weight: 300;
     font-style: normal;
 }
+// h1
+.app-title {
+	color: var(--pale-cyan);
+    font-family: var(--font-display);
+    font-size: var(--font-size-display);
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    margin: 0;
+}

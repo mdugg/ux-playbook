@@ -1,0 +1,24 @@
+.uxtk-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.resource-count {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: var(--font-size-small);
+    color: var(--gray-500);
+    margin-top: .25rem;
+    white-space: pre;
+}
+
+@media (width <= 960px) {
+    .uxtk-header {
+
+        .title {
+            font-size: var(--font-size-display);
+        }
+    }
+}

@@ -375,9 +375,9 @@ template {
   --gray-800: #343a40;
   --gray-900: #212529;
   --gray-dark: #343a40;
-  --back-tint: #f9f9f3;
-  --tint-categories: #9ceeff;
-  --tint-tags: #d6ffda;
+  /* Tints */
+  --tint-warm-100: #f9f9f3;
+  --tint-warm-200: #efeee9;
   /* Typography */
   --font-display: "Caprasimo", serif;
   --font-display-patua: "Patua One", serif;
@@ -411,71 +411,80 @@ template {
   --border-radius-xl: 1rem;
   --border-radius-2xl: 2rem;
   --border-radius-pill: 50rem;
+  --border-line-color: var(--gray-200);
   --link-color: #0d6efd;
   --link-hover-color: #0a58ca;
   --highlight-bg: #fff3cd;
-  --transition-all: .2s all ease-out;
+  --transition-hover-color: .2s color ease-out;
+  --transition-all-regular: .3s all ease-out;
   --gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   /* COMPONENT */
+  --surface-main: var(--tint-warm-100);
+  --surface-sidebar: var(--tint-warm-100);
   --icon-fill: var(--teal);
+  --categories-btn-back: var(--gray-200);
   --tags-btn-back: var(--gray-200);
+}
+
+@media (width <= 960px) {
+  :root {
+    --font-size-display: 3rem;
+    --font-size-xlarge: 2.5rem;
+    --font-size-large: 1.5rem;
+    --font-size-medium: 1.25rem;
+  }
+}
+body {
+  font-family: var(--font-sans);
+  font-weight: 300;
+  font-style: normal;
+}
+
+.app-title {
+  color: var(--pale-cyan);
+  font-family: var(--font-display);
+  font-size: var(--font-size-display);
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  margin: 0;
 }
 
 .uxtk-template {
   display: flex;
   flex-direction: column;
-  background-color: var(--back-tint);
-  padding: 1rem 2.5rem 2.5rem 2.5rem;
-}
-.uxtk-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-.uxtk-header .title {
-  font-family: var(--font-display);
-  font-weight: var(--font-light);
-  font-size: var(--font-size-display);
-  line-height: 1;
-  margin: 0;
+  background-color: var(--surface-main);
+  padding: 16px 40px;
 }
 .uxtk-content {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  gap: 2rem;
   width: 100%;
-}
-.uxtk-categories {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.uxtk-categories .item {
-  display: inline-block;
-  margin-right: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-.uxtk-categories-block {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  gap: 0.5rem;
-  align-items: center;
-}
-.uxtk-categories-block .icon {
-  fill: var(--icon-fill);
 }
 .uxtk-results {
   display: flex;
   flex-direction: column;
-  width: 70%;
+  width: calc(70% - 1rem);
+  max-width: 60rem;
 }
-.uxtk-sidebar {
+
+@media (width <= 960px) {
+  .uxtk-template {
+    padding: 16px;
+  }
+  .uxtk-content {
+    width: 100%;
+  }
+  .uxtk-results {
+    width: 100%;
+  }
+}
+.uxtk-header {
   display: flex;
   flex-direction: column;
-  width: 30%;
-}
-.uxtk-sidebar .tag {
-  display: inline-block;
+  justify-content: space-between;
 }
 
 .resource-count {
@@ -488,49 +497,11 @@ template {
   white-space: pre;
 }
 
-.button-category {
-  font-size: var(--font-size-text);
-  line-height: 1;
-  height: 2rem;
-  padding: 0 1rem;
-  border-style: none;
-  border-radius: 0.4rem;
-  background-color: var(--tint-categories);
-  transition: var(--transition-all);
+@media (width <= 960px) {
+  .uxtk-header .title {
+    font-size: var(--font-size-display);
+  }
 }
-.button-category:hover {
-  cursor: pointer;
-  background-color: var(--light-aquamarine);
-}
-.button-category .count {
-  font-size: var(--font-size-small);
-}
-
-.button-tags {
-  font-size: var(--font-size-text);
-  line-height: 1;
-  height: auto;
-  padding: 0.25rem;
-  margin: 0 0.25rem 0.25rem 0;
-  border-style: none;
-  border-radius: 0.25rem;
-  background-color: transparent;
-  transition: var(--transition-all);
-}
-.button-tags:hover {
-  cursor: pointer;
-  background-color: var(--light-aquamarine);
-}
-.button-tags .count {
-  font-size: 0.75rem;
-}
-
-body {
-  font-family: var(--font-sans);
-  font-weight: 300;
-  font-style: normal;
-}
-
 .search-results {
   display: flex;
   flex-direction: column;
@@ -560,7 +531,7 @@ body {
   font-size: 2rem;
   color: var(--gray-600);
   text-decoration: none;
-  transition: var(--transition-all);
+  transition: var(--transition-hover-color);
 }
 .resource-card__link:hover {
   color: var(--teal);
@@ -590,6 +561,90 @@ body {
   right: 0.5rem;
   color: var(--gray-400);
   font-size: 0.75rem;
+}
+
+.uxtk-categories-block {
+  overflow-x: scroll;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 8px 0;
+}
+.uxtk-categories-block .icon {
+  fill: var(--icon-fill);
+}
+
+.uxtk-categories {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.button-category {
+  font-size: var(--font-size-text);
+  line-height: 1;
+  height: 2rem;
+  padding: 0 1rem;
+  border-style: none;
+  border-radius: 0.4rem;
+  background-color: var(--tint-categories);
+  transition: var(--transition-hover-color);
+}
+.button-category:hover {
+  cursor: pointer;
+  background-color: var(--light-aquamarine);
+}
+.button-category .count {
+  font-size: var(--font-size-small);
+}
+
+/* tags styling and drawer */
+.uxtk-sidebar {
+  display: flex;
+  flex-direction: column;
+  width: calc(30% - 1rem);
+  max-width: 28rem;
+}
+.uxtk-sidebar .tag {
+  display: inline-block;
+}
+
+.button-tags {
+  font-size: var(--font-size-text);
+  line-height: 1;
+  height: auto;
+  padding: 0.25rem;
+  margin: 0 0.25rem 0.25rem 0;
+  border-style: none;
+  border-radius: 0.25rem;
+  background-color: transparent;
+  transition: var(--transition-hover-color);
+}
+.button-tags:hover {
+  cursor: pointer;
+  background-color: var(--light-aquamarine);
+}
+.button-tags .count {
+  font-size: 0.75rem;
+}
+
+@media (width <= 960px) {
+  .uxtk-sidebar {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow-y: scroll;
+    border-left: 1px solid var(--border-line-color);
+    background-color: var(--surface-sidebar);
+    transition: var(--transition-all-regular);
+  }
+  .uxtk-sidebar[data-display=visible] {
+    visibility: visible;
+  }
 }
 
 /*# sourceMappingURL=global.css.map */

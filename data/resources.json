@@ -1,5 +1,17 @@
 
 {      
+    "1400": {   
+        "resourceLink": "https://second-editors-draft.tr.designtokens.org/format/#name-and-value",
+        "resourceTitle": "Design Tokens Format Module",
+        "resourceType": ["Documentation"],
+        "authors": ["W3C"],
+        "notes": {
+                    "description": "",
+                    "bulletPoints": []
+                },
+        "category": ["UI"],
+        "tags": ["Design system", "Tokens"]
+    },
     "1399": {   
         "resourceLink": "https://www.svgator.com/",
         "resourceTitle": "SVGator",
@@ -22,7 +34,7 @@
                     "bulletPoints": []
                 },
         "category": ["UX"],
-        "tags": ["Design System"]
+        "tags": ["Design system"]
     },
     "1397": {   
         "resourceLink": "https://pimpmytype.com/font-size/",
@@ -1759,11 +1771,18 @@
         "resourceType": ["Blog"],
         "authors": ["Erez Reznikov", "UX Collective"],
         "notes": {
-                    "description": "",
-                    "bulletPoints": []
+                    "description": "Abstractions in user interface tools",
+                    "bulletPoints": ["lower part of the abstraction tower is the hard-coded value", "higher levels of the tower would be styles that point to those specific values", "Styles are particular to a tool, and don’t correlate to other design tools", "Design tokens alleviate the vast majority of that problem, usually written and saved as a JSON file", "Tokens, unlike regular ‘styles’, allow for aliasing, not pointing straight to specific HEX values", "think in terms of meaning and purpose rather than concrete hard-coded values", "Figma’s variables enable thinking about design decisions as tokens, with aliasing ability and modes that affect components — color and dimension only for now", "1st property — alias vs core tokens; 2nd property — simple vs composite tokens; 3rd property — nested grouping of tokens", "Alias tokens can be of 2 kinds, ‘semantic’ or ‘specific’", "tokens can be simple or composite", "Grouping is why tokens are written with dots separating words, basically ‘addressing’ in the foldering tree", "First — Divide your tokens into their types; Second — decide which modes or sets you are going to have; Third — start with one mode (for example light mode)"]
+                },
+        "ai-notes": {
+                    "Prompt": ["I need an article summarized to 5 key bullet points","summarize it for me as a user experience professional wanting to quickly recap on the main points of the article"],
+                    "bulletPoints": ["unified, platform-agnostic language", "move beyond hard-coded values", "manage design changes globally, improving consistency and reducing manual effort", "aliasing links semantic meanings to core values", "Organize tokens into core, semantic, and specific categories, and structure them in nested groups for clarity and ease of use", "ensuring they are flexible to accommodate different modes and themes"]
                 },
         "category": ["UI"],
-        "tags": ["Design system", "Tokens"]
+        "tags": ["Design system", "Tokens"],
+        "imageThumb": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*oN-DplTHIrhFZGmu.png",
+        "imageThumbAlt": "Style referencing 2 aliases of design tokens"
+        
     },     
     "1252": {   
         "resourceLink": "https://userpilot.medium.com/product-led-growth-the-ultimate-guide-for-software-companies-b9fa0779ef8f",

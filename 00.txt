@@ -9,6 +9,10 @@
                     "description": "Summary",
                     "bulletPoints": ["bullet 1", "bullet point 2"]
                 },
+        "ai-notes": {
+                    "Prompt": [],
+                    "bulletPoints": []
+                },
         "category": ["Product", "UX", "UI", "UX Engineering", "Design Ops", "Career", "Accessibility"],
         "tags": ["tag 1", "tag 2"],
         "imageThumb": "https://url",

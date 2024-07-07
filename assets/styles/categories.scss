@@ -1,0 +1,38 @@
+.uxtk-categories-block {
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: .5rem;
+    align-items: center;
+    padding: 8px 0;
+
+    .icon {
+        fill: var(--icon-fill);
+    }
+}
+.uxtk-categories {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+
+.button-category {
+    font-size: var(--font-size-text);
+    line-height: 1;
+    height: 2rem;
+    padding: 0 1rem;
+    border-style: none;
+    border-radius: .4rem;
+    background-color: var(--tint-categories);
+    transition: var(--transition-hover-color);
+
+    &:hover {
+        cursor: pointer;
+        background-color: var(--light-aquamarine);
+    }
+    .count {
+        font-size: var(--font-size-small);
+    }
+}

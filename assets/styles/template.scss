@@ -1,0 +1,36 @@
+.uxtk {
+    &-template {
+        display: flex;
+        flex-direction: column;
+        background-color: var( --surface-main);
+        padding: 16px 40px;
+    }
+    &-content {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 2rem;
+        width: 100%;
+    }
+    &-results {
+        display: flex;
+        flex-direction: column;
+        width: calc(70% - 1rem);
+        max-width: 60rem;
+    }
+}
+
+
+@media (width <= 960px) {
+    .uxtk {
+        &-template {
+            padding: 16px;
+        }
+        &-content {
+            width: 100%;
+        }
+        &-results {
+            width: 100%;
+        }
+    }
+}

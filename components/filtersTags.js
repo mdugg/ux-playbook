@@ -8,7 +8,12 @@ export default class FiltersTags extends HTMLElement {
 		this.data = null;
 		this.activeTags = new Set(); // Store active tags
 		this.loadData = async () => {
-			this.data = await MainArticles.fetchArticles();
+			try {
+				this.data = await MainArticles.fetchArticles();
+			} catch (error) {
+				console.error("Failed to fetch articles:", error);
+				this.root.innerHTML = "<p>Failed to load data</p>";
+			}
 		};
 	}
 	async connectedCallback() {
@@ -47,7 +52,7 @@ export default class FiltersTags extends HTMLElement {
 					border-style: none;
 					border-radius: 0.25rem;
 					background-color: var(--tags-btn-back);
-					transition: var(--transition-all);
+					transition: var(--transition-hover-color);
 				}
 				.button-tags:hover {
 					cursor: pointer;
@@ -64,6 +69,11 @@ export default class FiltersTags extends HTMLElement {
 				}
 				.button-count {
 					font-size: 0.75rem;
+				}
+				@media (width <= 960px) {
+					.toolkit-categories {
+						padding:4rem 1rem;
+					}
 				}
 			</style>
             <ul class="toolkit-categories">

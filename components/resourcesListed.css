@@ -46,7 +46,7 @@
   font-size: 2rem;
   color: var(--gray-600);
   text-decoration: none;
-  transition: var(--transition-all);
+  transition: var(--transition-all-regular);
 }
 .link:hover {
   color: var(--teal);

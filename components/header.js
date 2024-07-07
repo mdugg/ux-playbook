@@ -3,7 +3,7 @@ import MainArticles from "../services/API.js";
 export default class ToolkitHeader extends HTMLElement {
 	constructor() {
 		super();
-		this.root = this.attachShadow({ mode: "open" });
+		// this.root = this.attachShadow({ mode: "open" });
 		this.root.innerHTML = `<p>Loading ...</p>`;
 	}
 	connectedCallback() {
@@ -35,7 +35,7 @@ export default class ToolkitHeader extends HTMLElement {
 		resourceCountUI.innerHTML += `${resourcesUI}`;
 	}
 	render(data) {
-		this.root.innerHTML = `
+		this.innerHTML = `
 			<style>
 				.header {
 					display: flex;

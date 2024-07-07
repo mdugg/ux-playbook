@@ -46,11 +46,16 @@ export default class FiltersCategories extends HTMLElement {
 					list-style-type: none;
 				}
 				.button {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: nowrap;
+					align-items: center;
+					gap: .2rem;
 					height: 2rem;
 					padding: 0 1rem;
 					border-style: none;
 					border-radius: var(--border-radius-sm);
-					background-color: var(--tint-categories);
+					background-color: var(--categories-btn-back);
 					transition-property: background-color;
 					transition-duration: 300ms;
 					transition-timing-function: ease-out;
@@ -60,6 +65,10 @@ export default class FiltersCategories extends HTMLElement {
 					background-color: var(--light-aquamarine);
 				}
 				.button-label {
+					display: flex;
+					flex-direction: row;
+					flex-wrap: nowrap;
+					white-space: nowrap;
 					color: var(--gray-800);
 					font-size: var(--font-size-small);
 					font-weight: var(--font-weight-medium);
@@ -72,7 +81,8 @@ export default class FiltersCategories extends HTMLElement {
 				.button.active {
 					background-color: var(--blue);
 				}
-				.button.active .button-label {
+				.button.active .button-label, 
+				.button.active .button-count {
 					color: var(--white);
 				}
 			</style>
